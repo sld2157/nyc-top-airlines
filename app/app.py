@@ -1,3 +1,4 @@
+import csv
 from flask import Flask, render_template
 import random
 from bokeh.models import (HoverTool, FactorRange, Plot, LinearAxis, Grid, Range1d)
@@ -6,30 +7,18 @@ from bokeh.plotting import figure
 from bokeh.embed import components
 from bokeh.models.sources import ColumnDataSource
 
-
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-	return "this is a nice index"
-
-@app.route("/<int:bars_count>/")
-def chart(bars_count):
-    if bars_count <= 0:
-        bars_count = 1
-
-    data = {"days": [], "bugs": [], "costs": []}
-    for i in range(1, bars_count + 1):
-        data['days'].append(i)
-        data['bugs'].append(random.randint(1,100))
-        data['costs'].append(random.uniform(1.00, 1000.00))
+    data = loadData()
 
     hover = create_hover_tool()
-    plot = create_bar_chart(data, "Bugs found per day", "days",
-                            "bugs", hover)
+    plot = create_bar_chart(data, "Domestic Flights by Airline", "labels",
+                            "data1", hover)
     script, div = components(plot)
 
-    return render_template("chart.html", bars_count=bars_count,
+    return render_template("chart.html",
                            the_div=div, the_script=script)
 
 
@@ -37,25 +26,39 @@ def chart(bars_count):
 def year(year):
 	return 'This will display information for year %d' % year
 
+def loadData():
+	with open('../data-preprocess/Dec2017.txt') as csv_file:
+		csv_reader = csv.reader(csv_file, delimiter=',')
+		i = 0
+		data = {}
+		for row in csv_reader:
+			print(i)
+			if i == 0:
+				data['labels'] = row
+			elif i == 1:
+				data['data1'] = [float(numeric_str)/1000000 for numeric_str in row]
+				print(data['data1'])
+			elif i == 2:
+				data['data2'] = [float(numeric_str) for numeric_str in row]
+			i = i + 1
+		return data
+
+
 def create_hover_tool():
     # we'll code this function in a moment
     return None
 
 
 def create_bar_chart(data, title, x_name, y_name, hover_tool=None,
-                     width=1200, height=300):
+                     width=1200, height=600):
     """Creates a bar chart plot with the exact styling for the centcom
        dashboard. Pass in data as a dictionary, desired plot title,
        name of x axis, y axis and the hover tool HTML.
     """
     source = ColumnDataSource(data)
 
-    xdata_strings = [];
-    for d in data[x_name]:
-    	xdata_strings.append(str(d))
-
-    xdr = FactorRange(factors=xdata_strings)
-    ydr = Range1d(start=0,end=max(data[y_name])*1.5)
+    xdr = FactorRange(factors=data[x_name])
+    ydr = Range1d(start=0,end=max(data[y_name])*1.1)
 
     tools = []
     if hover_tool:
@@ -65,6 +68,8 @@ def create_bar_chart(data, title, x_name, y_name, hover_tool=None,
                   plot_height=height, h_symmetry=False, v_symmetry=False,
                   min_border=0, toolbar_location="above", tools=tools,
                   outline_line_color="#666666")
+
+    plot.left[0].formatter.use_scientific = False
 
     glyph = VBar(x=x_name, top=y_name, bottom=0, width=.8,
                  fill_color="#e12127")
@@ -79,8 +84,8 @@ def create_bar_chart(data, title, x_name, y_name, hover_tool=None,
     plot.min_border_top = 0
     plot.xgrid.grid_line_color = None
     plot.ygrid.grid_line_color = "#999999"
-    plot.yaxis.axis_label = "Bugs found"
+    plot.yaxis.axis_label = "Number of Passengers (Millions)"
     plot.ygrid.grid_line_alpha = 0.1
-    plot.xaxis.axis_label = "Days after app deployment"
+    plot.xaxis.axis_label = "Airline"
     plot.xaxis.major_label_orientation = 1
     return plot
