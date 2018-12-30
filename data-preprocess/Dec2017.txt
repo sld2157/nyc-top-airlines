@@ -1,4 +1,21 @@
-[United, Delta, JetBlue Airways, America, Southwest Airlines, Spirit Airlines, Virgin America, Air Canada, British Airways, Emirates Airlines, Lufthansa, Air France, Norwegian Air, Virgin Atlantic, Cathay Pacific, Alaska Airlines, Air Lingus, El Al, AlItalia, WestJet]
-[23335701, 23986490, 13454547, 14480089, 4214109, 2077523, 1927493, 0, 0, 0, 0, 0, 0, 0, 0, 740483, 0, 0, 0, 0]
-[7961412, 5529851, 3739161, 2660220, 0, 0, 0, 1902287, 1624180, 1200935, 1127174, 1099556, 1063274, 986453, 775737, 0, 619834, 615579, 591763, 566254]
-[31297113, 29516341, 17193708, 17140309, 4214109, 2077523, 1927493, 1902287, 1624180, 1200935, 1127174, 1099556, 1063274, 986453, 775737, 740483, 619834, 615579, 591763, 566254]
+Airline,Domestic,International
+United,23335701,7961412
+Delta,23986490,5529851
+JetBlue Airways,13454547,3739161
+American,14480089,2660220
+Southwest Airlines,4214109,0
+Spirit Airlines,2077523,0
+Virgin America,1927493,0
+Air Canada,0,1902287
+British Airways,0,1624180
+Emirates Airlines,0,1200935
+Lufthansa,0,1127174
+Air France,0,1099556
+Norwegian Air,0,1063274
+Virgin Atlantic,0,986453
+Cathay Pacific,0,775737
+Alaska Airlines,740483,0
+Air Lingus,0,619834
+El Al,0,615579
+AlItalia,0,591763
+WestJet,0,566254
