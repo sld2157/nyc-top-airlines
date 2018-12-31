@@ -16,6 +16,7 @@ def loadData():
 
 	loadFile(data, '../data-preprocess/Dec2017.txt', 12, 2017)
 	loadFile(data, '../data-preprocess/Nov2017.txt', 11, 2017)
+	loadFile(data, '../data-preprocess/Feb2000.txt', 2, 2000)
 
 	return data
 
