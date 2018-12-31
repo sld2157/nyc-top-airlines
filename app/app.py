@@ -1,13 +1,15 @@
 """The main logic for the NYC Airports web application
 """
 
-from bokeh.models import (HoverTool, Plot, Legend, LinearAxis, Grid, DataRange1d)
+from bokeh.models import (CustomJS, HoverTool, Plot, Legend, LinearAxis, Grid, DataRange1d)
+from bokeh.models.annotations import Label
 from bokeh.models.glyphs import Line
 from bokeh.models.markers import Circle
 from bokeh.palettes import viridis
 from bokeh.plotting import figure
 from bokeh.embed import components
 from bokeh.models.sources import ColumnDataSource
+from datetime import datetime
 from flask import Flask, render_template
 from operator import add
 import random
@@ -39,7 +41,6 @@ def create_hover_tool():
     # we'll code this function in a moment
     return None
 
-
 def create_bar_chart(data, title, hover_tool, colors):
     """Creates a bar chart plot with the exact styling for the centcom
        dashboard. Pass in data as a dictionary, desired plot title,
@@ -49,9 +50,20 @@ def create_bar_chart(data, title, hover_tool, colors):
     xdr = DataRange1d()
     ydr = DataRange1d()
 
-    tools = ["tap"]
-    if hover_tool:
-        tools = [hover_tool,]
+    hover = HoverTool(
+    	tooltips="""
+			<div>
+				<p><span style="font-weight: bold;">%s</span> - %s</p>
+				<p>%s million %s passengers</p>
+			</div>
+    	""" % ("@airline", "@date{%b %Y}", "$y", "$name"),
+    	formatters={
+    	'date': 'datetime'
+    	},
+    	names=['domestic', 'international', 'total']
+    )
+
+    tools = [hover]
 
     plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=1200,
                   plot_height=800, h_symmetry=False, v_symmetry=False,
@@ -63,12 +75,12 @@ def create_bar_chart(data, title, hover_tool, colors):
     legendItems = []
 
     for airline in data:
-    	plotLineAndPoints(data[airline]['date'], data[airline]['domestic'], 'dashed', 5, colors[airline], plot, airline, legendItems)
-    	plotLineAndPoints(data[airline]['date'], data[airline]['international'], 'dotted', 5, colors[airline], plot, airline, legendItems)
+    	source = ColumnDataSource(data = data[airline])
 
-    	total = list(map(add, data[airline]['domestic'], data[airline]['international']))
+    	plotLineAndPoints(source, 'date', 'domestic', 'dashed', 5, colors[airline], plot, airline, legendItems)
+    	plotLineAndPoints(source, 'date', 'international', 'dotted', 5, colors[airline], plot, airline, legendItems)
 
-    	plotLineAndPoints(data[airline]['date'], total, 'solid', 8, colors[airline], plot, airline, legendItems)
+    	plotLineAndPoints(source, 'date', 'total', 'solid', 8, colors[airline], plot, airline, legendItems)
     	
     xaxis = LinearAxis()
     yaxis = LinearAxis()
@@ -99,12 +111,11 @@ def create_bar_chart(data, title, hover_tool, colors):
 
     return plot
 
-def plotLineAndPoints(X, Y, lineStyle, pointSize, color, plot, airline, legendItems):
-	plot.line(x=X, y=Y, line_color=color, line_width=2, line_alpha=0.6, line_dash=lineStyle)
+def plotLineAndPoints(source, X, Y, lineStyle, pointSize, color, plot, airline, legendItems):
+	plot.line(x=X, y=Y, line_color=color, line_width=2, line_alpha=0.6, line_dash=lineStyle, source=source)
 
-	circle_renderer = plot.circle(x=X, y=Y, size=pointSize, fill_color=color, line_color=color)
-	circle_renderer.selection_glyph = Circle(fill_color='black', line_color='black')
-	circle_renderer.nonselection_glyph = Circle(fill_color=color, line_color=color)
+	circle_renderer = plot.circle(x=X, y=Y, size=pointSize, fill_color=color, line_color=color, source=source, name=Y)
+	circle_renderer.hover_glyph = Circle(fill_color='black', line_color='black')
 
 	if lineStyle == 'solid':
 		legendItems.append((airline, [circle_renderer]))
