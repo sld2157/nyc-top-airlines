@@ -47,8 +47,8 @@ def create_bar_chart(data, title, hover_tool, colors):
        name of x axis, y axis and the hover tool HTML.
     """
 
-    xdr = DataRange1d()
-    ydr = DataRange1d()
+    xdr = DataRange1d(bounds='auto')
+    ydr = DataRange1d(bounds='auto')
 
     hover = HoverTool(
         tooltips="""
@@ -63,7 +63,7 @@ def create_bar_chart(data, title, hover_tool, colors):
     	names=['domestic', 'international', 'total']
     )
 
-    tools = [hover]
+    tools = [hover, 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'wheel_zoom']
 
     plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=1200,
                   plot_height=800, h_symmetry=False, v_symmetry=False,
@@ -75,8 +75,8 @@ def create_bar_chart(data, title, hover_tool, colors):
     legendItems = []
 
     for airline in data:
-    	
-    	color = colors[airline]
+
+        color = colors[airline]
         source = ColumnDataSource(data = data[airline])
         domesticLine = plot.line(x='date', y='domestic', line_color=color, line_width=2, line_alpha=0.6, line_dash='dashed', source=source)
         circle_renderer_dom = plot.circle(x='date', y='domestic', size=5, fill_color=color, source=source, name='domestic', line_color=color)
