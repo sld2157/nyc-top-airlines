@@ -74,6 +74,8 @@ def create_bar_chart(data, title, hover_tool, colors):
 
     legendItems = []
 
+    internationalLegendItems = []
+
     for airline in data:
 
         color = colors[airline]
@@ -89,21 +91,22 @@ def create_bar_chart(data, title, hover_tool, colors):
         circle_renderer_tot.hover_glyph = Circle(line_width=9, line_color=color, line_alpha=0.2, fill_color=color)
 
         source = ColumnDataSource(data = data[airline])
-        internationalLine = plot.line(x='date', y='international', line_color=color, line_width=2, line_alpha=0.6, line_dash='dotted', source=source)
-        circle_renderer_int = plot.circle(x='date', y='international', size=5, fill_color=color, line_color=color, source=source, name='international')
-        circle_renderer_int.hover_glyph = Circle(line_width=6, line_color=color, line_alpha=0.2, fill_color=color)
+        internationalLegendItems.append(plot.line(x='date', y='international', line_color=color, line_width=2, line_alpha=0.6, line_dash='dotted', source=source))
+        internationalLegendItems.append(plot.circle(x='date', y='international', size=5, fill_color=color, line_color=color, source=source, name='international'))
+        internationalLegendItems[-1].hover_glyph = Circle(line_width=6, line_color=color, line_alpha=0.2, fill_color=color)
 
-        legendItems.append((airline, [circle_renderer_tot]))
+        legendItems.append((airline, [circle_renderer_tot, circle_renderer_dom, internationalLegendItems[-1], domesticLine, totalLine, internationalLegendItems[-2]]))
 
 	#Create legends
-    legendAirlines = Legend(items=legendItems)
+    legendAirlines = Legend(items=legendItems, click_policy='hide')
     plot.add_layout(legendAirlines, 'right')
 
     legendTypes = Legend(items=[
         ('Domestic Passengers', [domesticLine]), 
-        ('International Passengers', [internationalLine]), 
+        ('International Passengers', internationalLegendItems), 
         ('Total Passengers', [totalLine])
-    ])
+    ],
+    click_policy='hide')
     plot.add_layout(legendTypes, 'below')
     	
     xaxis = LinearAxis()
