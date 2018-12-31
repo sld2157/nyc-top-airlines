@@ -23,6 +23,7 @@ def loadData():
 def getColors(data):
 	"""
 	Creates a dictionary of colors using the NYC Airport data dictionary
+	Also includes reverse mapping
 	"""
 	colors = {}
 	colorValues = viridis(len(data))
@@ -30,6 +31,7 @@ def getColors(data):
 	color = 0
 	for airline in data:
 		colors[airline] = colorValues[color]
+		colors[colorValues[color]] = airline
 		color = color + 1
 	
 	print(colors)
@@ -46,9 +48,11 @@ def loadFile(data, filename, month, year):
 		for row in csv_reader:
 			if i != 0:
 				if not row[0] in data:
-					data[row[0]] = {'date':[],'domestic':[],'international':[]}
+					data[row[0]] = {'date':[],'domestic':[],'international':[], 'airline': [], 'total':[]}
 
 				data[row[0]]['date'].append(datetime(year, month, 1))
 				data[row[0]]['domestic'].append(int(row[1])/1000000)
 				data[row[0]]['international'].append(int(row[2])/1000000)
+				data[row[0]]['total'].append(int(row[1])/1000000 + int(row[2])/1000000)
+				data[row[0]]['airline'].append(row[0])
 			i = i + 1
