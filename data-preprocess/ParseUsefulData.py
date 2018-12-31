@@ -79,9 +79,6 @@ os.chdir('./AirlinePDFs/')
 outputFileName = "NYCAirlineData.txt"
 initializeOutputFile(outputFileName)
 columnsOfData = 6
-airlineName = [] # list that stores all airline names
-domesticPass = [] # list that stores all domestic passenger count
-internationalPass = [] # list that stores all international passenger count
 
 for file in glob.glob("*.txt"):
     # Specify which years of data to analyze. Still debugging to achieve general case...
@@ -90,6 +87,9 @@ for file in glob.glob("*.txt"):
     else:
         print(" ") # debug output
         print(file) # debug output
+        airlineName = [] # list that stores all airline names
+        domesticPass = [] # list that stores all domestic passenger count
+        internationalPass = [] # list that stores all international passenger count
         splitData = prepareUsefulData(file)
         maxGroups = int(len(splitData)/columnsOfData) # there's 6 columns of data, but clumped together in groups
 
@@ -111,6 +111,13 @@ for file in glob.glob("*.txt"):
             for z in international:
                 internationalPass.append(z.replace(',', ''))
         
+        print("Airlines:") # debug output
+        print(airlineName) # debug output
+        # print("Dom Pass: ") # debug output
+        # print(domesticPass) # debug output
+        # print("Intl Pass: ") # debug output
+        # print(internationalPass) # debug output
+
         checkForErrors(airlineName, 1)
         checkForErrors(domesticPass, 2)
         checkForErrors(internationalPass, 2)
@@ -120,13 +127,6 @@ for file in glob.glob("*.txt"):
             airlines = re.split('\n', splitData[len(splitData)-1])
             for z in airlines:
                 airlineName.append(z)
-
-        # print("Airlines:") # debug output
-        # print(airlineName) # debug output
-        # print("Dom Pass: ") # debug output
-        # print(domesticPass) # debug output
-        # print("Intl Pass: ") # debug output
-        # print(internationalPass) # debug output
 
         fileYear = parseFileYear(file)
         fileMonth = parseFileMonth(file, fileYear)
