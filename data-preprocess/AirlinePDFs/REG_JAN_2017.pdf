@@ -1,0 +1,1932 @@
+%PDF-1.4
+1 0 obj
+<<
+/Creator (Oracle11gR1 AS Reports Services)
+/CreationDate (D:20170328091609)
+/ModDate (D:20170328091609)
+/Producer (Oracle PDF driver)
+/Title ()
+/Author (Oracle Reports)
+>>
+endobj
+5 0 obj
+<</Length 6 0 R>>
+stream
+BT
+232.16 605.24 TD
+/F0 22.00 Tf
+(January 2017) Tj
+-37.48 -49.48 TD
+(Monthly Traffic Report) Tj
+ET
+q
+114.80 503.24 393.76 24.76 re W n
+BT
+165.08 507.76 TD
+(Newark Liberty International) Tj
+ET
+Q 0 g 0 G
+q
+114.80 470.20 393.76 24.76 re W n
+BT
+157.92 474.68 TD
+/F0 22.00 Tf
+(John F.Kennedy International) Tj
+ET
+Q 0 g 0 G
+q
+114.80 437.88 393.76 24.76 re W n
+BT
+257.68 442.40 TD
+/F0 22.00 Tf
+(LaGuardia) Tj
+ET
+Q 0 g 0 G
+BT
+246.04 342.52 TD
+/F0 22.00 Tf
+(Teterboro & ) Tj
+-118.88 -26.24 TD
+(regional satellite airport summaries) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+147.04 74.72 342.72 191.96 re S
+BT
+147.04 256.92 TD
+/F1 10.00 Tf
+( Aviation Department - Traffic Statistics) Tj
+0.00 -24.00 TD
+( JoJo Quayson) Tj
+0.00 -12.00 TD
+( ) Tj
+(Santiago Grullon) Tj
+0.00 -12.00 TD
+( Jean Debrosse) Tj
+0.00 -12.00 TD
+( Tushar Japi) Tj
+0.00 -23.96 TD
+(Notes1:) Tj
+( The section entitled Air Transport Association Carriers is included to ) Tj
+ET
+0.48 w
+147.04 170.96 m 180.80 170.96 l B*
+BT
+147.04 160.96 TD
+(give a comparison between Port Authority Airport traffic growth and aggregate ) Tj
+0.00 -12.00 TD
+(growth as measured by the majority of the U.S. carrier industry.) Tj
+0.00 -12.00 TD
+(Note2: The page 2 Access Mode: residents report excludes passengers ) Tj
+0.00 -12.00 TD
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous "other" ) Tj
+0.00 -12.00 TD
+(category. The airline OAG summary uses schedules effective for   the week in ) Tj
+0.00 -12.00 TD
+(the middle of the month being summarized."Flights \(daily\) refers to the daily-) Tj
+0.00 -12.00 TD
+(each-way average flights which can be thought of as 1 directional departing or ) Tj
+0.00 -12.00 TD
+(arriving flights.) Tj
+-48.00 598.04 TD
+/F0 18.00 Tf
+(The Port Authority of New York & New Jersey) Tj
+ET
+q
+114.80 404.20 393.76 24.76 re W n
+BT
+203.68 408.72 TD
+/F0 22.00 Tf
+(Stewart International) Tj
+ET
+Q 0 g 0 G
+q
+120.80 369.68 393.76 24.76 re W n
+BT
+186.04 374.16 TD
+/F0 22.00 Tf
+(Atlantic City International) Tj
+ET
+Q 0 g 0 G
+
+endstream
+endobj
+6 0 obj
+2080
+endobj
+7 0 obj
+<</Type /Font
+/Name /F0
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#42#6F#6C#64
+/FirstChar 24
+/LastChar 255
+/Widths 8 0 R
+/FontDescriptor 9 0 R
+>>
+endobj
+8 0 obj
+[750 750 750 750 750 750 750 750 273 273 
+477 546 546 852 716 239 341 341 375 580 
+273 341 273 273 546 546 546 546 546 546 
+546 546 546 546 341 341 580 580 580 614 
+955 648 682 716 716 648 614 784 716 273 
+546 716 614 852 716 750 648 750 716 648 
+614 716 648 921 648 682 614 341 273 341 
+580 546 341 546 614 546 614 546 341 614 
+614 273 273 546 273 886 614 614 614 614 
+375 546 341 614 580 784 546 546 511 375 
+239 375 580 750 546 0 273 546 511 989 
+546 546 341 1057 648 341 989 0 614 0 
+0 273 273 511 511 341 546 989 341 989 
+546 341 921 0 511 682 273 341 546 546 
+546 546 239 546 341 716 375 546 580 341 
+716 546 409 546 341 341 341 580 546 341 
+341 341 375 546 818 818 818 614 648 648 
+648 648 648 648 989 716 648 648 648 648 
+273 273 273 273 716 716 750 750 750 750 
+750 580 784 716 716 716 716 682 648 614 
+546 546 546 546 546 546 886 546 546 546 
+546 546 273 273 273 273 614 614 614 614 
+614 614 614 546 614 614 614 614 614 546 
+614 546 ]
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#42#6F#6C#64
+/Ascent 921
+/CapHeight 750
+/Descent -239
+/Flags 32
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 511
+/MaxWidth 1057
+>>
+endobj
+10 0 obj
+<</Type /Font
+/Name /F1
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C
+/FirstChar 24
+/LastChar 255
+/Widths 11 0 R
+/FontDescriptor 12 0 R
+>>
+endobj
+11 0 obj
+[750 750 750 750 750 750 750 750 300 225 
+375 525 525 900 675 150 300 300 375 600 
+300 300 300 300 525 525 525 525 525 525 
+525 525 525 525 300 300 600 600 600 525 
+975 675 675 675 675 675 600 750 675 225 
+450 675 525 825 675 750 675 750 675 675 
+525 675 675 975 525 675 525 300 300 300 
+375 525 300 525 525 525 525 525 225 525 
+525 225 225 525 225 825 525 525 525 525 
+300 525 300 525 375 675 525 525 525 300 
+225 300 600 750 525 0 225 525 300 975 
+525 525 300 1050 675 300 975 0 525 0 
+0 225 225 300 300 375 525 975 300 975 
+525 300 900 0 525 675 300 225 525 525 
+525 525 225 525 300 750 300 525 600 300 
+750 525 375 525 300 300 300 525 525 300 
+300 300 375 525 825 825 825 600 675 675 
+675 675 675 675 975 675 675 675 675 675 
+225 225 225 225 675 675 750 750 750 750 
+750 600 750 675 675 675 675 675 675 675 
+525 525 525 525 525 525 900 525 525 525 
+525 525 225 225 225 225 525 525 525 525 
+525 525 525 525 525 525 525 525 525 525 
+525 525 ]
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C
+/Ascent 975
+/CapHeight 750
+/Descent -225
+/Flags 32
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 450
+/MaxWidth 1050
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 7 0 R /F1 10 0 R >> >>
+/Contents 5 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q
+0.00 0.00 603.72 792.00 re W n
+0.00 w
+0 J
+0 j
+[] 0 d
+10.24 472.48 547.04 56.04 re S
+BT
+252.32 477.12 TD
+/F0 10.00 Tf
+( 9,765,483) Tj
+110.48 0.00 TD
+( 9,765,483) Tj
+104.32 0.00 TD
+( 131,400,080) Tj
+-456.88 39.80 TD
+(PASSENGERS) Tj
+16.36 -15.76 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.00 TD
+(International) Tj
+225.72 12.00 TD
+/F1 10.00 Tf
+( 6,305,002) Tj
+0.00 -12.00 TD
+( 3,460,481) Tj
+64.80 12.00 TD
+( 4.0) Tj
+0.00 -12.00 TD
+( 6.7) Tj
+45.68 12.00 TD
+( 6,305,002) Tj
+0.00 -12.00 TD
+( 3,460,481) Tj
+61.56 12.00 TD
+( 4.0) Tj
+0.00 -12.00 TD
+( 6.7) Tj
+47.84 12.00 TD
+( 85,264,168) Tj
+0.00 -12.00 TD
+( 46,135,912) Tj
+65.56 12.00 TD
+( 5.0) Tj
+0.00 -12.00 TD
+( 5.2) Tj
+-220.64 -12.04 TD
+/F0 10.00 Tf
+( 5.0) Tj
+107.24 0.00 TD
+( 5.0) Tj
+113.40 -0.76 TD
+( 5.0) Tj
+ET
+9.76 364.00 548.24 71.92 re S
+BT
+260.56 368.64 TD
+( 101,548) Tj
+110.48 0.00 TD
+( 101,548) Tj
+106.40 0.00 TD
+( 1,321,546) Tj
+-467.20 55.40 TD
+(FLIGHTS) Tj
+16.36 -16.52 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.76 TD
+(International) Tj
+0.00 -12.76 TD
+(General Aviation) Tj
+290.52 -13.36 TD
+/F0 10.00 Tf
+(-0.5) Tj
+107.24 0.00 TD
+(-0.5) Tj
+113.40 0.00 TD
+( 2.9) Tj
+ET
+9.76 347.68 548.24 14.12 re S
+BT
+24.72 351.44 TD
+/F3 8.00 Tf
+(Note:freighter flights included in above) Tj
+245.60 -1.52 TD
+/F0 10.00 Tf
+( 2,723) Tj
+46.04 0.00 TD
+(-2.8) Tj
+64.44 0.00 TD
+( 2,723) Tj
+42.84 0.00 TD
+(-2.8) Tj
+66.56 0.00 TD
+( 36,240) Tj
+46.80 0.00 TD
+( 0.2) Tj
+ET
+10.24 326.00 m 559.52 326.00 l 
+559.52 326.00 m 559.52 285.36 l 
+10.24 326.00 m 10.24 285.36 l S
+
+559.48 285.28 m 559.48 271.04 l 
+10.56 271.04 m 559.48 271.04 l 
+10.56 285.28 m 10.56 271.04 l S
+BT
+261.39 275.56 TD
+( 165,804) Tj
+110.48 0.00 TD
+( 165,804) Tj
+106.40 0.00 TD
+( 2,097,710) Tj
+-468.04 39.20 TD
+(FREIGHT \(in short tons\)) Tj
+13.00 -13.52 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.80 TD
+(International) Tj
+401.96 -12.88 TD
+/F0 10.00 Tf
+( 5.9) Tj
+113.36 -0.28 TD
+( 1.9) Tj
+ET
+10.24 238.80 550.04 29.24 re S
+BT
+10.24 256.20 TD
+(MAIL \(in short tons\)) Tj
+13.00 -13.52 TD
+/F3 10.00 Tf
+(Total) Tj
+ET
+10.24 170.00 550.04 65.00 re S
+BT
+10.24 223.88 TD
+/F0 10.00 Tf
+(Ground Transportation) Tj
+12.00 -15.00 TD
+/F2 10.00 Tf
+(Paid Parked Cars) Tj
+0.00 -12.16 TD
+(Taxis Dispatched) Tj
+0.00 -12.16 TD
+(Air Train: JFK & EWR Passengers) Tj
+0.00 -12.16 TD
+(Other Ground Transportation Passengers) Tj
+ET
+10.24 105.92 550.76 59.04 re S
+BT
+10.24 155.24 TD
+/F0 10.00 Tf
+(Air Transport Association Carriers \(USA\)) Tj
+14.52 -15.88 TD
+/F2 10.00 Tf
+(Passengers:Domestic Enplaned \(000\)) Tj
+0.00 -14.36 TD
+(Passengers:International Enplaned \(000\)) Tj
+0.00 -14.40 TD
+(Freight:revenue ton miles \(000\)) Tj
+241.88 28.76 TD
+/F1 10.00 Tf
+( 30,740) Tj
+5.24 -14.36 TD
+( 5,455) Tj
+-18.72 -14.40 TD
+( 1,854,600) Tj
+64.80 28.76 TD
+( 3.4) Tj
+0.00 -14.36 TD
+( 4.2) Tj
+0.00 -14.40 TD
+( 0.2) Tj
+59.16 28.76 TD
+( 30,740) Tj
+5.24 -14.36 TD
+( 5,455) Tj
+-18.76 -14.40 TD
+( 1,854,600) Tj
+61.60 28.76 TD
+( 3.4) Tj
+0.00 -14.36 TD
+( 4.2) Tj
+0.00 -14.40 TD
+( 0.2) Tj
+61.32 28.76 TD
+( 407,690) Tj
+5.24 -14.36 TD
+( 65,051) Tj
+-18.72 -14.40 TD
+( 23,550,559) Tj
+65.40 28.76 TD
+( 3.6) Tj
+0.00 -14.36 TD
+( 2.9) Tj
+0.00 -14.40 TD
+(-0.1) Tj
+ET
+10.24 20.28 550.76 78.16 re S
+BT
+10.24 88.68 TD
+/F0 10.00 Tf
+(Regional Airports: Other) Tj
+14.52 -15.92 TD
+/F2 10.00 Tf
+(Teterboro: Flight Movements) Tj
+0.00 -14.40 TD
+(MacArthur,Islip: Total Passengers) Tj
+0.00 -14.44 TD
+(White Plains, NY: Total Passengers) Tj
+244.12 28.84 TD
+/F1 10.00 Tf
+( 12,727) Tj
+0.00 -14.40 TD
+( 89,134) Tj
+-5.24 -14.44 TD
+( 112,836) Tj
+56.56 28.84 TD
+( 7.0) Tj
+0.00 -14.40 TD
+(-2.4) Tj
+-5.28 -14.44 TD
+( 18.5) Tj
+64.44 28.84 TD
+( 12,727) Tj
+0.00 -14.40 TD
+( 89,134) Tj
+-5.24 -14.44 TD
+( 112,836) Tj
+54.48 28.84 TD
+( 7.0) Tj
+0.00 -14.40 TD
+(-2.4) Tj
+-5.24 -14.44 TD
+( 18.5) Tj
+65.40 28.84 TD
+( 172,240) Tj
+-8.24 -14.40 TD
+( 1,209,852) Tj
+0.00 -14.44 TD
+( 1,486,481) Tj
+60.16 28.84 TD
+( 2.5) Tj
+0.00 -14.40 TD
+(-1.1) Tj
+0.00 -14.44 TD
+(-0.6) Tj
+-508.84 433.20 TD
+/F3 10.00 Tf
+(Total Revenue Passengers) Tj
+0.48 -201.56 TD
+(Total) Tj
+-26.32 268.36 TD
+/F0 20.00 Tf
+(Region) Tj
+ET
+228.64 633.88 105.80 14.24 re S
+BT
+266.52 638.36 TD
+/F3 10.00 Tf
+(Month) Tj
+ET
+339.28 634.16 101.96 14.24 re S
+BT
+362.48 638.68 TD
+(Year-to-date) Tj
+ET
+454.56 634.16 101.96 14.24 re S
+BT
+463.12 638.68 TD
+(12 Months Ending) Tj
+ET
+228.64 621.88 69.76 12.00 re S
+BT
+246.28 624.12 TD
+(Current) Tj
+ET
+338.96 622.16 70.40 12.00 re S
+BT
+356.88 624.40 TD
+(Current) Tj
+ET
+454.48 621.68 69.76 12.80 re S
+BT
+472.08 624.72 TD
+(Current) Tj
+ET
+298.48 621.88 35.96 12.00 re S
+BT
+312.36 624.12 TD
+(%) Tj
+ET
+409.12 622.16 31.76 12.00 re S
+BT
+420.88 624.44 TD
+(%) Tj
+ET
+524.36 621.68 32.20 12.80 re S
+BT
+536.32 624.72 TD
+(%) Tj
+-265.95 94.56 TD
+/F0 14.00 Tf
+(THE PORT AUTHORITY OF NY & NJ) Tj
+-23.64 -23.32 TD
+/F0 18.00 Tf
+(JANUARY 2017 TRAFFIC REPORT) Tj
+-240.72 85.56 TD
+/F2 10.00 Tf
+(Aviation Department) Tj
+341.24 0.00 TD
+/F2 8.00 Tf
+(Traffic Statistics: J.Quayson, S. Grullon, J. Debrosse, T. Japi ) Tj
+1 1 0.8750 rg
+ET
+1.00 w
+4.52 589.60 215.24 188.88 re B*
+BT
+4.52 770.24 TD
+0 g
+(Momentum from last year carried into 2017 as the region’s) Tj
+0.00 -10.52 TD
+(passenger traffic grew 5 percent, setting a new passenger ) Tj
+0.00 -10.48 TD
+(record for the month of January. Our airport system ) Tj
+0.00 -10.52 TD
+(handled a record 9.766 million passengers, for an ) Tj
+0.00 -10.48 TD
+(improvement of 462,119 additional passengers compared ) Tj
+0.00 -10.48 TD
+(to 2016. International traffic led the way with a 6.7 percent ) Tj
+0.00 -10.52 TD
+(jump while reaching a new record level for the month of ) Tj
+0.00 -10.48 TD
+(January. Moreover, domestic traffic set a new monthly ) Tj
+0.00 -10.48 TD
+(mark and grew 4 percent.  Airlines increased seat ) Tj
+0.00 -10.52 TD
+(capacity by 2.4 percent. Domestic seats expanded by 3.4 ) Tj
+0.00 -10.48 TD
+(percent and international seats registered a modest 0.8 ) Tj
+0.00 -10.48 TD
+(percent expansion. The region’s cargo performance ) Tj
+0.00 -10.52 TD
+(began the year in robust mode as it registered a 5.9 ) Tj
+0.00 -10.48 TD
+(percent increase. Both domestic and international cargo ) Tj
+0.00 -10.48 TD
+(showed major improvements. Domestic cargo led the ) Tj
+0.00 -10.52 TD
+(expansion with a strong 8 percent gain.  International ) Tj
+0.00 -10.48 TD
+(freight – 64 percent of the region’s cargo activity – showed) Tj
+0.00 -10.48 TD
+(a 4.8 percent increase.) Tj
+-0.04 -12.08 TD
+(Current month,12 months ending,year-to-date totals) Tj
+0.00 -10.48 TD
+(Showing percentage change from prior year period) Tj
+28.12 -202.12 TD
+/F3 10.00 Tf
+(Total) Tj
+231.04 -340.32 TD
+/F0 10.00 Tf
+( 201,970) Tj
+216.88 0.60 TD
+( 2,696,333) Tj
+-51.92 -0.28 TD
+( 7.7) Tj
+112.08 0.32 TD
+(-0.8) Tj
+-507.60 0.24 TD
+/F3 10.00 Tf
+(Total suburban airport passengers ) Tj
+284.88 247.36 TD
+/F0 10.00 Tf
+( 5.9) Tj
+2.24 -247.60 TD
+( 7.7) Tj
+53.92 -0.48 TD
+( 201,970) Tj
+-108.28 381.28 TD
+/F1 10.00 Tf
+( 73,236) Tj
+0.00 -12.76 TD
+( 22,981) Tj
+5.24 -12.76 TD
+( 5,331) Tj
+105.20 25.52 TD
+( 73,236) Tj
+0.00 -12.76 TD
+( 22,981) Tj
+5.28 -12.76 TD
+( 5,331) Tj
+104.16 25.52 TD
+( 938,481) Tj
+0.00 -12.76 TD
+( 296,665) Tj
+5.24 -12.76 TD
+( 86,400) Tj
+-173.84 25.52 TD
+(-0.7) Tj
+0.00 -12.76 TD
+( 2.1) Tj
+0.00 -12.76 TD
+(-8.9) Tj
+107.24 25.52 TD
+(-0.7) Tj
+0.00 -12.76 TD
+( 2.1) Tj
+0.00 -12.76 TD
+(-8.9) Tj
+-157.72 -140.08 TD
+/F0 10.00 Tf
+( 12,361) Tj
+110.48 0.00 TD
+( 12,361) Tj
+109.40 -0.44 TD
+( 140,688) Tj
+-168.56 0.44 TD
+(-1.2) Tj
+107.24 0.00 TD
+(-1.2) Tj
+113.24 -0.44 TD
+(-1.0) Tj
+-271.80 59.00 TD
+/F1 10.00 Tf
+( 58,767) Tj
+-5.24 -12.80 TD
+( 107,037) Tj
+56.56 12.80 TD
+( 8.0) Tj
+0.00 -12.80 TD
+( 4.8) Tj
+59.16 12.76 TD
+( 58,767) Tj
+-5.24 -12.80 TD
+( 107,037) Tj
+53.32 12.80 TD
+( 8.0) Tj
+0.00 -12.80 TD
+( 4.8) Tj
+61.32 12.84 TD
+( 757,833) Tj
+-8.24 -12.80 TD
+( 1,339,877) Tj
+60.28 12.80 TD
+( 7.3) Tj
+0.00 -12.80 TD
+(-0.9) Tj
+-277.16 -79.56 TD
+( 576,812) Tj
+0.00 -12.16 TD
+( 366,899) Tj
+0.00 -12.16 TD
+( 756,556) Tj
+0.00 -12.16 TD
+( 116,246) Tj
+61.04 36.48 TD
+(-7.8) Tj
+-5.24 -12.16 TD
+(-29.5) Tj
+0.00 -12.16 TD
+( 12.5) Tj
+5.24 -12.16 TD
+( 8.1) Tj
+49.44 36.48 TD
+( 576,812) Tj
+0.00 -12.16 TD
+( 366,899) Tj
+0.00 -12.16 TD
+( 756,556) Tj
+0.00 -12.16 TD
+( 116,246) Tj
+63.80 36.48 TD
+(-7.8) Tj
+-5.24 -12.16 TD
+(-29.5) Tj
+0.00 -12.16 TD
+( 12.5) Tj
+5.24 -12.16 TD
+( 8.1) Tj
+42.60 36.32 TD
+( 7,822,710) Tj
+0.00 -12.16 TD
+( 5,788,949) Tj
+-5.24 -12.12 TD
+( 10,063,821) Tj
+5.24 -12.16 TD
+( 1,632,614) Tj
+60.16 36.44 TD
+(-5.0) Tj
+-5.24 -12.16 TD
+(-19.5) Tj
+5.24 -12.12 TD
+( 3.7) Tj
+0.00 -12.16 TD
+( 1.1) Tj
+-0.68 236.00 TD
+( 3.1) Tj
+0.00 -12.76 TD
+( 1.7) Tj
+0.00 -12.76 TD
+( 4.2) Tj
+ET
+q
+168.76 3.32 402.00 9.68 re W n
+BT
+168.76 4.76 TD
+/F2 8.00 Tf
+(Other Information about our airports? Visit URL: www.panynj.gov/airports/general-information.html?tabnum=2 ) Tj
+ET
+Q 0 g 0 G
+BT
+11.28 7.00 TD
+/F2 8.00 Tf
+(28-MAR-17 09:16 AM) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+10.52 454.12 546.76 15.00 re S
+BT
+33.76 459.40 TD
+/F3 10.00 Tf
+(Non Revenue Passengers) Tj
+228.48 -1.52 TD
+/F0 10.00 Tf
+( 283,924) Tj
+56.72 0.00 TD
+( 6.0) Tj
+53.76 0.00 TD
+( 283,924) Tj
+53.44 0.00 TD
+( 6.0) Tj
+52.96 0.00 TD
+( 3,807,476) Tj
+59.56 0.00 TD
+( 4.1) Tj
+ET
+9.76 438.24 547.52 14.24 re S
+BT
+254.04 442.16 TD
+( 1,246,439) Tj
+64.96 0.00 TD
+( 0.1) Tj
+45.52 0.00 TD
+( 1,246,439) Tj
+61.68 0.00 TD
+( 0.1) Tj
+47.72 0.00 TD
+( 19,237,758) Tj
+64.80 0.00 TD
+( 6.9) Tj
+-514.76 0.60 TD
+/F3 8.00 Tf
+(Note: Commuter - Regional Pax incl. in above ) Tj
+ET
+9.76 329.56 548.24 15.76 re S
+BT
+24.76 334.08 TD
+(Note: Commuter - Regional Flights incl. in above) Tj
+240.36 -0.64 TD
+/F0 10.00 Tf
+( 30,215) Tj
+51.28 0.00 TD
+( 1.7) Tj
+59.20 0.00 TD
+( 30,215) Tj
+48.08 0.00 TD
+( 1.7) Tj
+61.32 0.00 TD
+( 403,719) Tj
+52.04 0.00 TD
+( 3.0) Tj
+ET
+Q 0 g 0 G
+
+endstream
+endobj
+15 0 obj
+10126
+endobj
+16 0 obj
+<</Type /Font
+/Name /F2
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#49#74#61#6C#69#63
+/FirstChar 24
+/LastChar 255
+/Widths 17 0 R
+/FontDescriptor 18 0 R
+>>
+endobj
+17 0 obj
+[750 750 750 750 750 750 750 750 300 300 
+375 525 525 900 675 150 300 300 375 600 
+300 300 300 300 525 525 525 525 525 525 
+525 525 525 525 300 300 600 600 600 525 
+975 675 675 675 675 675 600 750 675 300 
+525 675 525 750 675 750 675 750 675 675 
+600 675 675 975 675 675 600 300 300 300 
+450 525 300 525 600 525 525 525 300 525 
+525 225 225 600 225 825 525 525 525 525 
+300 525 300 525 450 600 450 450 525 300 
+225 300 600 750 525 0 225 525 300 975 
+525 525 300 1050 675 300 975 0 600 0 
+0 225 150 300 300 300 525 975 225 975 
+525 300 900 0 525 675 300 300 525 525 
+600 525 225 525 300 750 375 525 600 300 
+750 525 375 525 300 300 300 525 525 300 
+300 375 375 525 825 825 825 600 675 675 
+675 675 675 675 975 675 675 675 675 675 
+300 300 300 300 675 675 750 750 750 750 
+750 600 750 675 675 675 675 675 675 600 
+525 525 525 525 525 525 900 525 525 525 
+525 525 225 225 225 225 525 525 525 525 
+525 525 525 525 600 525 525 525 525 450 
+525 450 ]
+endobj
+18 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#49#74#61#6C#69#63
+/Ascent 975
+/CapHeight 750
+/Descent -225
+/Flags 96
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle -11
+/StemV 0
+/AvgWidth 450
+/MaxWidth 1050
+>>
+endobj
+19 0 obj
+<</Type /Font
+/Name /F3
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#42#6F#6C#64#49#74#61#6C#69#63
+/FirstChar 24
+/LastChar 255
+/Widths 20 0 R
+/FontDescriptor 21 0 R
+>>
+endobj
+20 0 obj
+[750 750 750 750 750 750 750 750 281 281 
+469 563 563 750 750 281 375 375 375 563 
+281 375 281 281 563 563 563 563 563 563 
+563 563 563 563 375 375 563 563 563 563 
+938 750 750 750 750 656 656 844 750 281 
+563 750 656 1031 750 844 750 844 750 656 
+656 750 656 1031 750 656 656 375 281 375 
+563 563 375 656 656 563 656 563 375 656 
+656 375 375 656 375 938 656 656 656 656 
+469 469 375 656 563 750 469 563 563 375 
+281 375 563 750 563 0 281 563 563 1031 
+563 563 375 938 656 375 1031 0 656 0 
+0 281 281 563 563 375 563 1031 375 1031 
+469 375 938 0 563 656 281 375 563 563 
+563 563 281 563 375 844 375 563 563 375 
+844 563 375 656 375 375 375 656 563 375 
+375 375 375 656 844 844 844 563 750 750 
+750 750 750 750 1031 750 656 656 656 656 
+281 281 281 281 750 750 844 844 844 844 
+844 563 844 750 750 750 750 656 656 656 
+656 656 656 656 656 656 938 563 563 563 
+563 563 375 375 375 375 656 656 656 656 
+656 656 656 563 656 656 656 656 656 563 
+656 563 ]
+endobj
+21 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#42#6F#6C#64#49#74#61#6C#69#63
+/Ascent 1031
+/CapHeight 844
+/Descent -188
+/Flags 96
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle -11
+/StemV 0
+/AvgWidth 563
+/MaxWidth 1031
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 7 0 R /F2 16 0 R /F1 10 0 R /F3 19 0 R >> >>
+/Contents 14 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+23 0 obj
+<</Length 24 0 R>>
+stream
+q
+0.00 0.00 603.72 792.00 re W n
+0.00 w
+0 J
+0 j
+[] 0 d
+20.20 744.72 m 374.96 744.72 l 
+20.20 473.84 m 374.96 473.84 l 
+20.20 744.72 m 20.20 473.84 l S
+20.20 715.76 354.76 13.96 re S
+BT
+43.44 705.72 TD
+/F0 8.00 Tf
+(UNITED) Tj
+0.00 -12.00 TD
+(DELTA) Tj
+0.00 -12.04 TD
+(JETBLUE AIRWAYS) Tj
+0.00 -12.00 TD
+(AMERICAN) Tj
+0.00 -12.00 TD
+(SOUTHWEST AIRLINES) Tj
+0.00 -12.00 TD
+(US AIRWAYS) Tj
+0.00 -12.00 TD
+(SPIRIT AIRLINES) Tj
+0.00 -12.00 TD
+(VIRGIN AMERICA) Tj
+0.00 -12.00 TD
+(AIR CANADA) Tj
+0.00 -12.04 TD
+(BRITISH AIRWAYS) Tj
+0.00 -12.00 TD
+(LUFTHANSA) Tj
+0.00 -12.00 TD
+(EMIRATES AIRLINES) Tj
+0.00 -12.00 TD
+(AIR FRANCE) Tj
+0.00 -12.00 TD
+(VIRGIN ATLANTIC) Tj
+0.00 -12.00 TD
+(CATHAY PACIFIC) Tj
+0.00 -12.00 TD
+(EL AL) Tj
+0.00 -12.04 TD
+(ALITALIA) Tj
+0.00 -12.00 TD
+(AEROMEXICO) Tj
+0.00 -12.00 TD
+(SAS) Tj
+0.00 -12.00 TD
+(AER LINGUS) Tj
+1.48 241.92 TD
+(Airline Name) Tj
+115.64 -13.80 TD
+/F1 8.00 Tf
+( 22,467,452) Tj
+0.00 -12.00 TD
+( 23,788,939) Tj
+0.00 -12.04 TD
+( 13,563,820) Tj
+0.00 -12.00 TD
+( 12,718,030) Tj
+4.52 -12.00 TD
+( 4,131,534) Tj
+0.00 -12.00 TD
+( 2,812,613) Tj
+0.00 -12.00 TD
+( 2,576,391) Tj
+0.00 -12.00 TD
+( 1,918,580) Tj
+31.48 -12.00 TD
+( 0) Tj
+0.00 -12.04 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.04 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+-33.00 241.92 TD
+/F0 8.00 Tf
+(Domestic) Tj
+72.00 -13.80 TD
+/F1 8.00 Tf
+( 8,120,114) Tj
+0.00 -12.00 TD
+( 5,557,010) Tj
+0.00 -12.04 TD
+( 3,590,871) Tj
+0.00 -12.00 TD
+( 2,613,802) Tj
+31.52 -12.00 TD
+( 0) Tj
+-20.24 -12.00 TD
+( 28,611) Tj
+20.24 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+-31.52 -12.00 TD
+( 1,771,825) Tj
+0.00 -12.04 TD
+( 1,685,007) Tj
+0.00 -12.00 TD
+( 1,126,784) Tj
+0.00 -12.00 TD
+( 1,097,761) Tj
+6.76 -12.00 TD
+( 967,070) Tj
+0.00 -12.00 TD
+( 967,019) Tj
+0.00 -12.00 TD
+( 825,592) Tj
+0.00 -12.00 TD
+( 616,202) Tj
+0.00 -12.04 TD
+( 570,359) Tj
+0.00 -12.00 TD
+( 547,121) Tj
+0.00 -12.00 TD
+( 539,419) Tj
+0.00 -12.00 TD
+( 524,454) Tj
+19.52 241.92 TD
+/F0 8.00 Tf
+(Intl) Tj
+33.76 -13.80 TD
+( 30,587,566) Tj
+0.00 -12.00 TD
+( 29,345,949) Tj
+0.00 -12.04 TD
+( 17,154,691) Tj
+0.00 -12.00 TD
+( 15,331,832) Tj
+4.52 -12.00 TD
+( 4,131,534) Tj
+0.00 -12.00 TD
+( 2,841,224) Tj
+0.00 -12.00 TD
+( 2,576,391) Tj
+0.00 -12.00 TD
+( 1,918,580) Tj
+0.00 -12.00 TD
+( 1,771,825) Tj
+0.00 -12.04 TD
+( 1,685,007) Tj
+0.00 -12.00 TD
+( 1,126,784) Tj
+0.00 -12.00 TD
+( 1,097,761) Tj
+6.72 -12.00 TD
+( 967,070) Tj
+0.00 -12.00 TD
+( 967,019) Tj
+0.00 -12.00 TD
+( 825,592) Tj
+0.00 -12.00 TD
+( 616,202) Tj
+0.00 -12.04 TD
+( 570,359) Tj
+0.00 -12.00 TD
+( 547,121) Tj
+0.00 -12.00 TD
+( 539,419) Tj
+0.00 -12.00 TD
+( 524,454) Tj
+12.00 241.92 TD
+(Total) Tj
+-290.76 -13.80 TD
+/F1 8.00 Tf
+(1) Tj
+0.00 -12.00 TD
+(2) Tj
+0.00 -12.04 TD
+(3) Tj
+0.00 -12.00 TD
+(4) Tj
+0.00 -12.00 TD
+(5) Tj
+0.00 -12.00 TD
+(6) Tj
+0.00 -12.00 TD
+(7) Tj
+0.00 -12.00 TD
+(8) Tj
+0.00 -12.00 TD
+(9) Tj
+-2.24 -12.04 TD
+(10) Tj
+0.00 -12.00 TD
+(11) Tj
+0.00 -12.00 TD
+(12) Tj
+0.00 -12.00 TD
+(13) Tj
+0.00 -12.00 TD
+(14) Tj
+0.00 -12.00 TD
+(15) Tj
+0.00 -12.00 TD
+(16) Tj
+0.00 -12.04 TD
+(17) Tj
+0.00 -12.00 TD
+(18) Tj
+0.00 -12.00 TD
+(19) Tj
+0.00 -12.00 TD
+(20) Tj
+93.36 255.88 TD
+/F0 11.00 Tf
+(Airline Ranking by Passengers) Tj
+-98.64 -15.00 TD
+/F0 8.00 Tf
+(Rank) Tj
+332.76 -12.76 TD
+/F1 8.00 Tf
+( 23.5) Tj
+0.00 -12.00 TD
+( 46.1) Tj
+0.00 -12.04 TD
+( 59.3) Tj
+0.00 -12.00 TD
+( 71.1) Tj
+0.00 -12.00 TD
+( 74.3) Tj
+0.00 -12.00 TD
+( 76.5) Tj
+0.00 -12.00 TD
+( 78.4) Tj
+0.00 -12.00 TD
+( 79.9) Tj
+0.00 -12.00 TD
+( 81.3) Tj
+0.00 -12.04 TD
+( 82.6) Tj
+0.00 -12.00 TD
+( 83.4) Tj
+0.00 -12.00 TD
+( 84.3) Tj
+0.00 -12.00 TD
+( 85.0) Tj
+0.00 -12.00 TD
+( 85.8) Tj
+0.00 -12.00 TD
+( 86.4) Tj
+0.00 -12.00 TD
+( 86.9) Tj
+0.00 -12.04 TD
+( 87.3) Tj
+0.00 -12.00 TD
+( 87.7) Tj
+0.00 -12.00 TD
+( 88.2) Tj
+0.00 -12.00 TD
+( 88.6) Tj
+-9.08 241.92 TD
+/F0 8.00 Tf
+(Cum %) Tj
+ET
+376.48 475.20 208.44 271.76 re S
+376.48 717.68 208.44 14.28 re S
+BT
+402.72 707.08 TD
+(FEDERAL EXPRESS) Tj
+0.00 -12.04 TD
+(UNITED PARCEL) Tj
+0.00 -12.00 TD
+(UNITED) Tj
+0.00 -12.00 TD
+(DELTA) Tj
+0.00 -12.00 TD
+(AMERICAN) Tj
+0.00 -12.00 TD
+(CATHAY PACIFIC) Tj
+0.00 -12.00 TD
+(LUFTHANSA) Tj
+0.00 -12.00 TD
+(BRITISH AIRWAYS) Tj
+ET
+q
+402.72 607.24 83.20 12.00 re W n
+BT
+402.72 611.00 TD
+(CARGOLUX AIRLINES) Tj
+ET
+Q 0 g 0 G
+q
+402.72 595.24 83.20 12.00 re W n
+BT
+402.72 599.00 TD
+/F0 8.00 Tf
+(CHINA AIRLINES \(CAL) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 587.00 TD
+/F0 8.00 Tf
+(VIRGIN ATLANTIC) Tj
+0.00 -12.00 TD
+(ASIANA) Tj
+0.00 -12.00 TD
+(KOREAN) Tj
+0.00 -12.00 TD
+(ABX AIR INC) Tj
+ET
+q
+402.72 535.24 83.20 12.00 re W n
+BT
+402.72 539.00 TD
+(AIR CHINA INTERNATI) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 526.96 TD
+/F0 8.00 Tf
+(ANA \(ALL NIPPON\)) Tj
+0.00 -12.00 TD
+(TNT AIRWAYS) Tj
+0.00 -12.00 TD
+(AIR FRANCE) Tj
+ET
+q
+402.72 487.20 83.20 12.00 re W n
+BT
+402.72 490.96 TD
+(SWISS INT'L AIR LINE) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 478.96 TD
+/F0 8.00 Tf
+(SAS) Tj
+0.00 242.48 TD
+(Airline Name) Tj
+114.88 -14.36 TD
+( 473,573) Tj
+0.00 -12.04 TD
+( 195,068) Tj
+0.00 -12.00 TD
+( 133,735) Tj
+0.00 -12.00 TD
+( 127,181) Tj
+4.48 -12.00 TD
+( 74,410) Tj
+0.00 -12.00 TD
+( 71,540) Tj
+0.00 -12.00 TD
+( 58,949) Tj
+0.00 -12.00 TD
+( 54,740) Tj
+0.00 -12.04 TD
+( 50,779) Tj
+0.00 -12.00 TD
+( 50,749) Tj
+0.00 -12.00 TD
+( 47,912) Tj
+0.00 -12.00 TD
+( 46,714) Tj
+0.00 -12.00 TD
+( 43,884) Tj
+0.00 -12.00 TD
+( 37,574) Tj
+0.00 -12.00 TD
+( 34,708) Tj
+0.00 -12.04 TD
+( 30,635) Tj
+0.00 -12.00 TD
+( 30,023) Tj
+0.00 -12.00 TD
+( 28,002) Tj
+0.00 -12.00 TD
+( 26,188) Tj
+0.00 -12.00 TD
+( 25,242) Tj
+4.24 242.48 TD
+(Tons) Tj
+-106.00 14.28 TD
+/F0 10.00 Tf
+(Ranking by Freight Volume) Tj
+-43.84 -14.28 TD
+/F0 8.00 Tf
+(Rank) Tj
+178.52 -0.72 TD
+(Cum%) Tj
+ET
+1.00 w
+0 J
+0 j
+[] 0 d
+189.96 755.20 327.52 19.52 re S
+q
+190.44 758.20 204.00 12.76 re W n
+BT
+215.96 760.48 TD
+/F0 11.00 Tf
+(Top 20 Airlines 12 months ending ) Tj
+ET
+Q 0 g 0 G
+q
+397.44 758.96 96.00 11.24 re W n
+BT
+397.44 759.72 TD
+/F0 11.00 Tf
+(January 2017) Tj
+ET
+Q 0 g 0 G
+BT
+21.68 756.00 TD
+/F0 18.00 Tf
+(Region) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+19.44 62.72 569.24 228.44 re S
+BT
+479.96 263.16 TD
+/F3 8.00 Tf
+(Flights \(daily\)) Tj
+79.00 0.00 TD
+(Cities) Tj
+-47.84 -35.40 TD
+/F1 8.00 Tf
+(1055.6) Tj
+57.00 0.16 TD
+(108) Tj
+-545.91 35.60 TD
+/F0 8.00 Tf
+(Domestic Passenger Service) Tj
+151.88 -0.76 TD
+/F3 8.00 Tf
+(Flights \(daily\)) Tj
+91.20 0.32 TD
+(Airlines) Tj
+-218.76 16.20 TD
+/F0 9.00 Tf
+(OAG schedules: airlines serving) Tj
+157.96 -52.40 TD
+/F1 8.00 Tf
+( 1055.6) Tj
+82.00 0.00 TD
+( 17) Tj
+-263.12 -13.20 TD
+/F0 8.00 Tf
+(International Passenger Service) Tj
+186.00 -47.88 TD
+/F1 8.00 Tf
+( 331.7) Tj
+77.52 0.00 TD
+( 78) Tj
+-263.88 -14.08 TD
+/F0 8.00 Tf
+(Freighter Service) Tj
+195.76 -50.12 TD
+/F1 8.00 Tf
+( 3.5) Tj
+68.52 0.00 TD
+( 17) Tj
+-264.04 -18.68 TD
+/F0 8.00 Tf
+(@USA Airlines\(Un-duplicated\)) Tj
+0.00 -14.24 TD
+(@Foreign Airlines\(Un-duplicated\)) Tj
+182.24 14.24 TD
+/F1 8.00 Tf
+( 1216.8) Tj
+4.52 -14.24 TD
+( 181.0) Tj
+77.28 14.24 TD
+( 15) Tj
+0.00 -14.24 TD
+( 76) Tj
+75.84 210.04 TD
+/F0 9.00 Tf
+(OAG schedules: Nonstop Destinations) Tj
+-177.64 1.04 TD
+/F0 8.00 Tf
+(Region) Tj
+-48.28 -53.00 TD
+/F3 8.00 Tf
+(@Sub-Total) Tj
+-1.12 -61.12 TD
+(@Sub-Total) Tj
+-0.36 -63.36 TD
+(@Sub-Total) Tj
+296.24 125.36 TD
+(@Sub-Total) Tj
+83.32 -122.84 TD
+/F1 8.00 Tf
+(341.3) Tj
+52.48 0.16 TD
+(121) Tj
+-136.16 -0.32 TD
+/F3 8.00 Tf
+(@Sub-Total) Tj
+-123.72 108.72 TD
+/F0 8.00 Tf
+(International nonstop cities served) Tj
+202.80 -125.84 TD
+/F1 8.00 Tf
+(1396.9) Tj
+57.40 1.04 TD
+(229) Tj
+ET
+20.96 342.24 279.00 127.60 re S
+20.96 442.88 279.00 12.00 re S
+BT
+23.96 432.96 TD
+/F0 8.00 Tf
+(DOMESTIC) Tj
+0.00 -14.12 TD
+(CANADA) Tj
+0.00 -14.16 TD
+(CARIBBEAN + BERMUDA) Tj
+0.00 -14.12 TD
+(CENTRAL AND SOUTH AMERICA) Tj
+0.00 -14.16 TD
+(MEXICO) Tj
+0.00 -14.12 TD
+(TRANSATLANTIC) Tj
+0.00 -14.16 TD
+(TRANSPACIFIC) Tj
+-3.00 98.52 TD
+(12 Month Ending Data) Tj
+168.00 -13.68 TD
+/F1 8.00 Tf
+( 85,264,168) Tj
+4.52 -14.12 TD
+( 3,836,645) Tj
+0.00 -14.16 TD
+( 7,300,698) Tj
+0.00 -14.12 TD
+( 3,643,677) Tj
+0.00 -14.16 TD
+( 2,174,122) Tj
+-4.52 -14.12 TD
+( 24,393,304) Tj
+4.52 -14.16 TD
+( 4,787,466) Tj
+-12.64 98.52 TD
+/F0 8.00 Tf
+(Passengers) Tj
+85.40 -13.68 TD
+/F1 8.00 Tf
+( 757,833) Tj
+9.00 -14.12 TD
+( 2,186) Tj
+-4.48 -14.16 TD
+( 15,496) Tj
+0.00 -14.12 TD
+( 67,248) Tj
+4.48 -14.16 TD
+( 7,121) Tj
+-9.00 -14.12 TD
+( 851,004) Tj
+0.00 -14.16 TD
+( 396,822) Tj
+0.52 98.52 TD
+/F0 8.00 Tf
+(Freight) Tj
+-194.08 11.96 TD
+/F0 10.00 Tf
+(Passengers & Freight by Market Group) Tj
+ET
+304.48 291.56 284.00 183.56 re S
+302.95 471.60 m 302.95 289.32 l S
+BT
+307.44 86.76 TD
+/F0 8.00 Tf
+(Total number of cities having nonstop services) Tj
+ET
+302.95 291.16 m 302.95 62.72 l S
+19.44 273.16 m 301.44 273.16 l S
+304.20 273.20 m 588.72 273.20 l S
+BT
+401.20 53.52 TD
+/F2 8.00 Tf
+(Run from Traffic_Summary3.RDF) Tj
+-375.36 0.00 TD
+(28-MAR-17 09:16 AM) Tj
+360.76 653.56 TD
+/F1 8.00 Tf
+(1) Tj
+0.00 -12.04 TD
+(2) Tj
+0.00 -12.00 TD
+(3) Tj
+0.00 -12.00 TD
+(4) Tj
+0.00 -12.00 TD
+(5) Tj
+0.00 -12.00 TD
+(6) Tj
+0.00 -12.00 TD
+(7) Tj
+0.00 -12.00 TD
+(8) Tj
+0.00 -12.04 TD
+(9) Tj
+-2.24 -12.00 TD
+(10) Tj
+0.00 -12.00 TD
+(11) Tj
+0.00 -12.00 TD
+(12) Tj
+0.00 -12.00 TD
+(13) Tj
+0.00 -12.00 TD
+(14) Tj
+0.00 -12.00 TD
+(15) Tj
+0.00 -12.04 TD
+(16) Tj
+0.00 -12.00 TD
+(17) Tj
+0.00 -12.00 TD
+(18) Tj
+0.00 -12.00 TD
+(19) Tj
+0.00 -12.00 TD
+(20) Tj
+178.88 228.12 TD
+( 22.6) Tj
+0.00 -12.04 TD
+( 31.9) Tj
+0.00 -12.00 TD
+( 38.2) Tj
+0.00 -12.00 TD
+( 44.3) Tj
+0.00 -12.00 TD
+( 47.9) Tj
+0.00 -12.00 TD
+( 51.3) Tj
+0.00 -12.00 TD
+( 54.1) Tj
+0.00 -12.00 TD
+( 56.7) Tj
+0.00 -12.04 TD
+( 59.1) Tj
+0.00 -12.00 TD
+( 61.5) Tj
+0.00 -12.00 TD
+( 63.8) Tj
+0.00 -12.00 TD
+( 66.0) Tj
+0.00 -12.00 TD
+( 68.1) Tj
+0.00 -12.00 TD
+( 69.9) Tj
+0.00 -12.00 TD
+( 71.6) Tj
+0.00 -12.04 TD
+( 73.0) Tj
+0.00 -12.00 TD
+( 74.5) Tj
+0.00 -12.00 TD
+( 75.8) Tj
+0.00 -12.00 TD
+( 77.0) Tj
+0.00 -12.00 TD
+( 78.2) Tj
+-526.04 -229.12 TD
+(Scheduled) Tj
+0.00 -10.48 TD
+(Commuter) Tj
+172.00 10.48 TD
+( 598.4) Tj
+0.00 -10.48 TD
+( 457.2) Tj
+76.88 10.48 TD
+( 13) Tj
+4.48 -10.48 TD
+( 4) Tj
+-252.96 -39.36 TD
+(Scheduled:  USA Flag) Tj
+0.00 -10.52 TD
+(Scheduled:  Foreign Flag) Tj
+0.00 -10.48 TD
+(Commuter:  USA Flag) Tj
+171.76 21.00 TD
+( 125.7) Tj
+0.00 -10.52 TD
+( 169.4) Tj
+4.48 -10.48 TD
+( 36.6) Tj
+77.64 21.00 TD
+( 4) Tj
+-4.48 -10.52 TD
+( 70) Tj
+4.48 -10.48 TD
+( 4) Tj
+-254.04 -40.92 TD
+(All Cargo:  USA Flag) Tj
+0.00 -11.64 TD
+(All Cargo:  Foreign Flag) Tj
+0.00 -11.64 TD
+(Scheduled Passenger:  Foreign Flag) Tj
+181.32 23.28 TD
+( 0.8) Tj
+0.00 -11.64 TD
+( 0.9) Tj
+0.00 -11.64 TD
+( 1.8) Tj
+73.12 23.28 TD
+( 2) Tj
+0.00 -11.64 TD
+( 5) Tj
+-4.52 -11.64 TD
+( 10) Tj
+20.88 148.36 TD
+/F0 8.00 Tf
+(Domestic nonstop cities served) Tj
+7.48 -10.96 TD
+/F1 8.00 Tf
+(Jet Service Provided ) Tj
+0.00 -11.84 TD
+(Service Exclusively by Regional Airlines ) Tj
+197.64 11.08 TD
+( 913.4) Tj
+0.00 -11.84 TD
+( 142.2) Tj
+56.24 12.60 TD
+( 75) Tj
+0.00 -11.84 TD
+( 33) Tj
+-251.64 -38.24 TD
+(Jet service provided) Tj
+9.72 -11.68 TD
+(Central America Less Mexico ) Tj
+0.00 -11.80 TD
+(South America ) Tj
+0.00 -11.84 TD
+(Mexico ) Tj
+0.00 -11.84 TD
+(Canada ) Tj
+0.00 -11.84 TD
+(Transpacific ) Tj
+0.00 -11.84 TD
+(Transatlantic ) Tj
+0.00 -11.84 TD
+(Carribean and Bermuda ) Tj
+246.40 71.00 TD
+( 7) Tj
+-4.52 -11.80 TD
+( 11) Tj
+4.52 -11.84 TD
+( 6) Tj
+0.00 -11.84 TD
+( 7) Tj
+-4.52 -11.84 TD
+( 13) Tj
+0.00 -11.84 TD
+( 51) Tj
+0.00 -11.84 TD
+( 26) Tj
+-51.72 71.00 TD
+( 10.0) Tj
+0.00 -11.80 TD
+( 22.8) Tj
+0.00 -11.84 TD
+( 22.1) Tj
+0.00 -11.84 TD
+( 84.7) Tj
+0.00 -11.84 TD
+( 31.4) Tj
+-4.48 -11.84 TD
+( 106.9) Tj
+4.48 -11.84 TD
+( 63.4) Tj
+ET
+1 G
+1.00 w
+304.95 292.08 282.24 182.00 re S
+q 281.24 0 0 150.96 305.44 322.64 cm /im1 Do Q
+Q 0 g 0 G
+
+endstream
+endobj
+24 0 obj
+12282
+endobj
+25 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Name /im1
+/Width 516
+/Height 277
+/BitsPerComponent 8
+/ColorSpace [/Indexed /DeviceRGB 1 26 0 R]
+/Filter [/ASCII85Decode /FlateDecode] 
+/Length 27 0 R
+>>
+stream
+Gb"/,NOkl7$mb<AdeE1/^e>@PXB'-nhk'ZHKHpuB!d.EK"9O->+;";QH!t]l<Kn*\=*:r;?OaQ!
+"ELg#I1GcFK,'HJ>]Vb1F@EkUh(3DgWkKML;@bd+6`"\[@2OF=OZ-OqZ&1KLc0<^"hj;gS^g?t,
+*;Glms5.uJeMYLB$VNF_-`PllFGhPHY"MbQ=fUSkdn/)6bE/42<*T#nSj3\Y0FSZ'eHgIlj[^+n
+1=n&';!"_f1Wcf`7&<F:\GLF,DU6FtBufZ,1B/WIO\U%.ZXHI/\kG]If;u\);N'gp!sqeOQii%^
+\ein?WNB1u9J'48J9c3nV$OFKAqu,';G6BkRKK@@jZrK6bAL+0jp@T8P@toT/Kq5,^Atl9\-gRF
+pb>,;e`4`_eA0S%%<!3rE8)^2fR"'ObZ1R':$"Mu9b+s=m14Rg<[.9%<\O9jge@,Rki$.t6PL>=
+PIWZ7$[<Yq%>@@[Em/Qsa?>(V.Qe2^J/qIR=dWN5I#J1+b'G&S-)Wbr4\O&[2AA*p$jWa#,R8GO
+K5TV4Gn+4DW_cN4F]trm!PCG.!F^[035?iZjP9ho\p2q.YB65l&-k>FVBWj3A>Q9)I,B)#Kr0.F
+M5-L8E&bX-TfM$=Bk1X>TJEZB.mCq'<5W$cBl9CY%r89erPeG,8id,R;2c5aXXLce)bj>;3^Q\:
+\DA><d+F(#kT,oO-%`)\")\c#Y:B8=cu-fFO&]%K."3)[Q1cZS1K=O\<V$rongF/HbCOt>P,V$H
+*ANXd4[a+o\gUX6(;SHl313Sb&q(pFZX4j>Oad*P#l"!B,R"ERa*FFs92]^O&-rC?J]f3f?cCjN
+$NpN^^g^sc%mpGR.XC'%GHsjIYN(jR]o4cUD@>[&H51%d_RJ<f]`<3C4%#%[X(C/-JSHeW"TFD'
+)+Y]V'is';EIRfNb+WPHc8a)MTu0/>B0ao.3+.\_k#T=8Pdm:ek12-i,aFacDl>NZ4=##=hJlJJ
+Hl/kpL]\=U5kHl<_Z<>S4(t`'gYLfg$5DGsFL0JBj@c#p#(:-K@?atn?4g5.qi3aoB'XCY.s=1:
+CNsS29nt<Q%Z`2;p:NMe51E*WO7U&^1f)#;+"2?ki<BWS=0!_(=qbA0`@3h@HgX3!Mt*"s8^jZ-
+*GuiplIRk/3^[\=A&22:Uu$$K"Y4Y%]JK@'&:klZ`W8@+e\gH>e]tRg;`FcgdY[8u_Z=V<g[dMp
+\;^UM?&H(!=%oO,VP_blJ^kFpiRBK0:)nfPTK6lC)4CZIVRB[),';9S'Y'/*>B/mGbsQeKn%$R5
+pI-&E^\Acs;]%Pn't#"<$VH8`3$=mHQ8#<P9X&?">B0;*1)dnD!)qD084b'\F$ts(8`94#*%6e<
+%6Wa22fK-0DT4?`gr$>kj%*PUDZ&G0F=bE:!eETZ&-rEQ!7JE(6g>W&PB-KX6?R<Aps/4iU=k<L
+2t,#gG)nWC)JroKmVq^DRBeD#=I;lgF/*#<K@uaIhDG1**-0&V*2p3X'-,Bl*oOhmer+PK/"br(
+bY[oZAt;.^Pa1sRq!6'Z*F8o,&`W/%fL22AG%#EH"-[/D]g:CuqV-P%$Ef5[7$;bqY7G'm)3DTg
+"V.ss3Z4mWB'I.f8Z^Ca6+T6sJgOB(`NahZgA$6$5+n:?s$3itYE&\iR*[uJd4PZef%FsbPsIB,
+Rr3,"b3md;d`Aa[f1SG"SSC-gUU!O%H6tHqmR_l>rB\H-1Ji.'&F-)5FT$VAPYZ@.I!:b%fLVXt
+5a21!?aQ9CCaej7J:97#U7Y`5muIXh-NhYu1i4,.8i[m<;N5`kDmEBT>1ihM/SK,hFDX0SXmL[T
+l>sbtlS/Z;^./6%B*6F59)6K+(2@kT[tVrZF>'X@:lk&uS!e+V`.:[KqZdU^WSAF@f(Sc!4:ge!
+JG.8Z8eAUT!SiGs)78/^3TS!DV!:2;*((o4'Arl0;\:d@;U-<NG..L7%K+T1n="%>hAcor3T#"7
+/,ua"CXd;H%P%K0RtCf;*":eE8,g:j3#KO$>Zh=8?BDt+ibn#b!eEUE0o.kSn&rj3^;24a:T(Z6
+4jWmU2Es0mdJ<;$GC$rCVkQ15g6rrIb'KNL*Gg2okD^p#E.DI^c2'R[p=qWQoX+:D^-1C2]u,C]
+40geOL!B$,?3*TrPHYB@3Dc&5Shu4j*s_ej;uX^XSI&F*bV)X4c`hV^$#<r?$rbX85f0&q&*1Ol
+",Aq2<P4`2_t$;,?R-rD43`F):u<-lDE)pWinU:M2jM<$JCBp'7![Xr`d_5VLScs?g.oL7d%9e"
+!tOg&n0kY'0P:l[Tua2/\Z3VC=9co(Y)7%ih''Enlr_'`om#6DW/p?#H62Ph<e*,$2D^X`*#1Z1
+j>l.d&CQ#cj.h4k0b47,6h!o>CF`fs(sg-Hd4&aT0O4JgBZBnf#(aRDBEln@Y^o%^&-rC?JS/J:
+g>EPR]J('uDrg/V)%.dn(&/c5.Gj$3n8scF3Fiel$@9S8ddf`'`FETZa]\Q;r<?A>2j:g6R0/WC
+s0#trc/"&]K!+b=TfGrOr?VqmMjqY.Pq_h.Os3f8d8RIgeRcI0c1WmFW3cAW.L3al$1_/iZ9N?V
+M3=@q0WOm[%L?d@CR09ZrM`UqlDh<kK(q#N#jb!@Pl#d_YjOJI5/W$5:KZ.&aaQ><B[6P(]A8?c
+]$CJ[!mu+4%MTkU#N3^K&?FB'UL5\-5@0M73--b`DO-^[IbnJ)isHJL$)"U_HP7Q-pLCWHEC6.X
+nQ7K[O/TkqGY12O"(U2C2AYk6,&E;BUk7-B?&33Y6tT/4TGB8Ai^<u'd:cghoR%Vq;#MXLR(=BG
+XiMo9KEGIK2][0srTX"JhP&$l9;YSTfC+IIgnItm'0O2*KC.QeU;G&?_*<I5@!aeX.L^j6p@f0L
+b3Dng?R>=lS/Denb#!4Dji)!),-@1CGR)F'cr4a`AY4nRa$bVO.JjZE,Ro,E,k.kERsKWN+:qWd
+0LG7HDTk+`(tiGF,28C4ba/cPqf3YD3MC%#f=n`rpm=koXcouSk<;NYiIEK#JM[8@i]bM9de_^/
+B]VM=Y'6`qAW+J@#N4qmYKUrn./R\cciuFZN2iG.%j_sr1l`bn&sfIj-^b&V%<R.h@Yp-WX9O^&
+.gET9VPM]>;3%ilV$H-h=iHmAh9jnH9m`iA@K1":YSjca$'T4WPe=jEXN#?B^]C9qQ#s#jW"!'W
+<IqKsSu12\d0XYZ'oY'o2J0(tR49LqL4@i[W'Es4Q22o<!??ODVOaE'nuP%&+1_oG5=j!5;!mi%
+;OLF!`\Y7sVc4=e<7;eqf%9_>JPn^tXq]8IP_O))c;6QaeJJ"ui=Znkda)$:aR#W`\tPlG*_d;n
+IY:<d.F';CJCIE?iH$,-*]tK_#3g#/iDb;gcs&IPj\T+]bYm_(F*J`UV9Oj__8^aHP>9qU_N(Gl
+W$#e<iX7lj[@/!dn:t`\>Mr*\<1h%,#i=)if?i\&Mrn=Qp^#S\g]FK><i)ueX6*8\lq'7i+5@(B
+(:]e88UHsBco)!8$[_E"+6KU880`b&59S?FbLOXf%^&R%SnL]1`.9`BJSe4D:^VT#"4mNh$)@\&
+p]:]#5k=N6p;]*OnG*iiMeRZo!s>.t7@ZNpX\$b-N5^jdWJmg#.J=G]I/7Q)]q.U#G)#/)Vr_9Y
+M[9mcZJH&,6Z?EC`G>C0[5*`*]THYr=ie9n%a7%mk>)eujRCcU*>j\pc%3.R>s(S@;2"]t=9^*G
+D?nB?PoJh1@-[(1h^A=R3rHBo#=^DJjc);mRIerEDfGc?=+M:q[_je#ktO!Bq+?D0!<#a>G<(1$
+2&&UL6L_C6`e*Am?sHY-;P04J*.l'/*#j*nqiCnp/>0)7]F%g^kciqZ,*1nPpN^/*"$"r6Z+s"=
+!4L-Ii5"qRJJ[faS`@M/iXLi!#Q>LVZ9Va699=P(qM2nJ_UJt!0nY'UNL*H&_!@c;JVBP09scnL
++KooJ0GP:O'Gr^c!TQaH$P'fUYO=]&Nl^^8SOoA;+:ne]!eJ-b(tl=*^Um>clR?QhJD*NcH92&;
+\kAfr@)P]tR1cijE9l+i1o)2PqsXSTB#99_E;R"GE8V"0BgoI,?C$:5kG]DV8ik6dJ@faRBr'm8
+-8c?W1^VJ.XdIVeiI+,ICTs$u4Me+1KuS-514B^UUVg=5L`EP9>V40W@Pi04JU^FO<:eTT'sc?W
+2'R;U#Pe#U^h.427b.8h%W%Kd`utr^#,85,d9r)Tq.%6h*5L#JqhXmCQOe5>/WYNWc,"1JM$(Jd
+h)M(G?rM9h!ZNRP#/c!%qn:F3"#-+Y+_eP3E><<TEsKu4*=bX'ccMpl4=o:L)AiJLFG9lcJ(s8N
+8mgG99%p#Ecotl.eb]3.o;hJ9T&n"ENEtc/)g<3kZB(pg!Bo_9S*"_t!9m3S1]]dJ!$(JQ?=HCn
+jV$2ehgGu."iVPe2lqu@HrFB)"-*Iq**Z%ejZjjAgLO[#g5="Y%U_,pj*-q4(^#=S+:ne]!l"kX
+pB\aEj,Y?%4:iJ<j9^8mrV7S#anrYA!qRSq`cUq"$6@^<e35(D=+'ru2sn!\D-XfFSf3<*-9p`L
+N_sl:]A=)]Gp!@i=,$h_juL4MaB.\P/j.j"P@mR?eMSfIm!=aEB.M<@[lD`4q=.r\=X4T#DpFTY
+Dpg0Qfc+]k2Q;[dHep/=Gr>ou8\MMPa87C*!QtN-.Zh:kcl;lZM!A*8\GdUAmps;**XCc2*.ZKk
+hFD+F*cIRe!H5JQf:+r/k.L48kcoYmK[Vrs%o@$C]E*n=3sT0V9V(J%&r,N+DeWD4$Qd-8fLL$<
+_Ma!'^onu7Bcmu^6C=rTSEfQ!ZFS7\l4DJ)n`u>4n*3B=*eD%XL;![?nhnOY(AltW_e5_0TqQ?L
+BdD='#S%gX\uYabMLU,GarR!)<PM//V/H.uc7B,WUS`^G0s&&!2?[WI4S+(*q2aZ1Bj(p)+BZ"B
+'Gc*:cJu_<ic4d=37s<JJ_Df<_PWkL:W.f`rY%\kKdLduq%.%:4e3d.s7uF]\;p_N]n?[L4VNdT
+jS4>Y$tu;=)8lQlenaD3JHNL54YRl>YeO=E4?qJLEbXJ'5i2OhF@:ldfZ)A7;e\21!IlX[Plk_i
+fWEMq@D1KE*t`Y_&d,\:j$js;)/ag.&`AoJ&T*:il23G#qH!6iZ%+h'&.[TQ<s.20%gThT/2.\D
+p5%YB*d"@H*L6oLJV;5V%d]q&e>k,[Cnlh)-l3,+LuQINolUcJ!eETZ&.%%kr9!2gWk40Q<U+Mi
+7peUQUR:&VU>ITh2!&noIDkm=1%[G5m]Pg%nsa%G]>9%a!!h"7WLb],hYVWeKf=XRoq0SIVG_`j
+/<8MCj)8S1*2nk2>o=,'gT(_fNpS(FH[JrDG)ZTBB;2ZH:5[XHQ:\=s)KB.H9WT3,f)h8F?,=1E
+km.OD3[oo7,R;>SL(0?<%r+^O^9D8O-r#L"^4or68Cmd<EaWV^UYb"CC4_455B,J?NN)@C#oaci
+s/D-QqS6#h!1L[?JQ-g<;7^N4lFTJi;fjN2fH1rG8E8&tmKuQlrd-s!#&n3SAW63.huN,5/^)=]
+riEtg]<1).>J57n"#!+)5eaB@YX;ur4&=eM<)DpQraO6YWLa=ld3"-t<BSbP$f9pZOs@d,J0*#u
+BG909]Wc'$%\0c>2K/ZTgd#i:f+B_q&-tB:qs2'T9k72u]UtV8Lrq8DT(-64lEq!#_#F'Hr,/KO
+lc,5kAlke-q^i:sF79(g4odR+"4GE[MX5Cl5dR?Gi4p%?B(=2WH92`"J5t%4+(^]t[1[S(Ap:B-
+E'W]*=RW8)d46>/XP&$h6JiTkl#+e3aOXHPChXBc8<Vcq7'L;;P*1%Cb"Up>/uSUr3YQ8(ATUX"
+a("a<EWDOIH=tPC\-^"nqDi^SVcMq]`qiAB;tW.Wp.SQ1Uk/$/MXRIHc@J1cSaLI4COH(u+dX8I
+RGf/TZpT[.lI^EhQlK%HLtFGN3%uB].Z(KpY:C_OmM]j$=p>HAHkchUfKLnc*7L=>3Gl]t/`"N'
+@.Vdt0!L(Q1kW'6lI*na#-]WFm3=BG-Han*%a\NOG*\K*f%hSZ8K6T<GZX?Q^scA,c;B2M!&:B'
+VNsDEp<Ma">S^smUh7QBW>r74MsJlI,u'c4/]Xlo?\RWGbTi;#ce7K4*X?p@GTI*E3lGcfHkIYD
+-oZMCCCM*jN!@8O%/D/P*,%JGX;_D?I+TT'37(#1:7T]_Pq+r=_,.QI@NX"N#f$<r(5qa740VbI
+%g2rb$Qq.,RW%`,9&GPbqHM'J%=o8@CD!9&grl8;S_"\^Q:>fl29g/L$NhL5_"Q#S[$n7lE"KG1
+?npQn(^*DaLS?+pMQiV_?c+l>5UCA^G[;p;17t+R_g:ECG7mL2E3p\$Eiciej%CsAG]FLqR7aoN
+<1@.;Q)['If<=-A&CKF]+V'l`\NlTDmGHDVaN8QF#C&n5lo9VZ&@O"[.W0)!Bg/eQ3NuH"8MG-L
+"emG#Y%gbmJ=sYi3)EXC'aO@oi]rp"L;6*,H8V2qOH"IElmGd$,h`a<Y-%\M1G?FtF#\]haJgP*
+96*&>P3MUEDXZZA1]P:ZIXR:#!E6m-BZ,J'a(RnPLO7,%p<kmFL6G@eFed`>pN[(Pf\8p7/O];`
+=']=hBVn%p%-c8\(:kLLQu;"&3fC#SC]'Ee'&8ASI?obag=FGc5k#$o\706NZ5O&i0`-f^S%M.k
+&J""Cc9e!&[C.eM^]EBoD`D.RBd49m9cClcE9>9sP'da539,uZn%^4h+Rsn#BVsC/Ggd*T2QU0'
+JN7AU;<JsM3/+'(#+m>1VSe:*^1O-[*3e>ICb[nr3![0.I2*(,&+FaEkbV>],"chOHNA-Nm1ns0
+]%BLe#Qt3[5TgWj7:T1Nn3`kPdt+.0pM^,lfuUUY5QT.Qi>fkt_"1tg.5inR3&*&^fp6X6</9rY
+[$It-#$U79*,l(@<OWb+3eWLqCYRE+MZXUsI1HS^E0p_<*Xb7)JSc('M#9i6HL,E-$G")c?-%R,
+#C7U3%g%[A0F(pf6!L5[&Q)493cNerU9^pYQm/A*Y=!PE_&=Xo69juS%ZJG[`j:dG-11R_9qEXN
+=S*>+eBtB^$e)hWkJ?=HB,#0<pcEISoor08*"#Bj2*<;4`RXjAmKRW\:QKIf*pb;s*&+X,O[(DA
+eW_j2$&mob[S7;<gp*NX$\o/8JHb%`cl%gGpFE^.^iA4q#nsA0QuK:F)bU?)1T;'jJtLqNn7!M"
+nEYm<)@-J[&A?-h1JN0B[NU3O;\=6Y"uq,H$n>75,<50\SB:k`b]a$hfB[[V1=$!2boDDCV"+K;
+9L-V\*i+':,j*'8iD,BMi@co]OGT/mSa*u3-2dLR#n@r,jZlPU/)0(_*?#uP0/&(UTsqhN5T;ll
+ph^?u8"0UJJ+e@:3t9Jrr?D`0^u^*[g>N$E'IDcqc(O^-k:s<PK@]XEb]5t^%1Qn(bCPHQHRPqR
+l?e(')<ar$]Np*&(GH*D9,0X&80SO7$4ctLC`E]jr#.OkV9F[e5TgUD"9O->+:ne]!eETMrrH5A
+0d-Ms~>
+endstream
+endobj
+27 0 obj
+7630
+endobj
+26 0 obj
+<</Filter [/ASCII85Decode]
+/Length 28 0 R>>
+stream
+s8W*!!!!!!~>
+endstream
+endobj
+28 0 obj
+12
+endobj
+22 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageI ] /Font << /F0 7 0 R /F1 10 0 R /F3 19 0 R /F2 16 0 R >> /XObject << /im1 25 0 R >> >>
+/Contents 23 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [ 
+4 0 R 13 0 R 22 0 R ]
+/Count 3
+>>
+endobj
+xref
+0 29
+0000000000 65535 f
+0000000010 00000 n
+0000039363 00000 n
+0000039418 00000 n
+0000005195 00000 n
+0000000210 00000 n
+0000002347 00000 n
+0000002370 00000 n
+0000002573 00000 n
+0000003559 00000 n
+0000003795 00000 n
+0000003986 00000 n
+0000004973 00000 n
+0000018517 00000 n
+0000005388 00000 n
+0000015573 00000 n
+0000015598 00000 n
+0000015810 00000 n
+0000016797 00000 n
+0000017042 00000 n
+0000017266 00000 n
+0000018259 00000 n
+0000039111 00000 n
+0000018734 00000 n
+0000031075 00000 n
+0000031100 00000 n
+0000038992 00000 n
+0000038968 00000 n
+0000039089 00000 n
+trailer
+<<
+/Size 29
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+39500
+%%EOF

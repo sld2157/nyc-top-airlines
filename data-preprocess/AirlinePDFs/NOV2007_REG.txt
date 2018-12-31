@@ -1,0 +1,516 @@
+Region
+
+Top 20 Airlines 12 months ending November 2007
+Ranking by Freight Volume
+
+Airline Ranking by Passengers
+
+Total Cum % Rank Airline Name
+
+Intl
+
+Domestic
+
+Rank Airline Name
+
+Tons
+
+Cum%
+
+FEDERAL EXPRESS
+UNITED PARCEL
+
+658,537
+187,656
+
+25.0
+32.1
+
+163,197
+131,351
+83,672
+71,802
+70,422
+70,151
+69,811
+
+38.3
+43.3
+46.4
+49.2
+51.8
+54.5
+57.1
+
+1
+2
+
+CONTINENTAL
+JETBLUE AIRWAYS
+
+15,019,202
+14,671,954
+
+6,840,924
+668,523
+
+21,860,126
+15,340,477
+
+20.0
+34.1
+
+1
+2
+
+3
+4
+5
+6
+7
+8
+9
+
+AMERICAN
+DELTA
+CONTINENTAL EXPRESS/E
+UNITED
+US AIRWAYS
+NORTHWEST
+COMAIR, INC.
+
+10,369,695
+7,727,607
+4,070,898
+3,726,422
+2,839,669
+2,611,606
+2,595,449
+
+3,959,852
+2,870,407
+507,947
+0
+20,957
+57,367
+1,629
+
+14,329,547
+10,598,014
+4,578,845
+3,726,422
+2,860,626
+2,668,973
+2,597,078
+
+47.2
+56.9
+61.1
+64.5
+67.2
+69.6
+72.0
+
+3
+4
+5
+6
+7
+8
+9
+
+AMERICAN
+CONTINENTAL
+KOREAN
+
+10
+11
+12
+13
+14
+15
+16
+
+AMERICAN EAGLE
+BRITISH AIRWAYS
+AIRTRAN AIRWAYS
+DELTA SHUTTLE
+VIRGIN ATLANTIC
+AIR FRANCE
+LUFTHANSA
+
+1,591,220
+0
+1,263,461
+1,060,202
+0
+0
+0
+
+318,583
+1,682,992
+0
+0
+1,050,142
+974,557
+971,057
+
+1,909,803
+1,682,992
+1,263,461
+1,060,202
+1,050,142
+974,557
+971,057
+
+73.7
+75.3
+76.4
+77.4
+78.4
+79.3
+80.2
+
+10
+11
+12
+13
+14
+15
+16
+
+ASIANA
+KALITTA AIR LLC
+JAPAN AIRLINES
+VIRGIN ATLANTIC
+CATHAY PACIFIC
+AIR FRANCE
+ASTAR AIR/DHL.
+
+67,648
+52,698
+49,569
+48,451
+48,235
+47,069
+45,583
+
+59.7
+61.7
+63.6
+65.4
+67.3
+69.0
+70.8
+
+17
+18
+19
+20
+
+AIR CANADA
+SPIRIT AIRLINES
+
+0
+930,811
+793,703
+788,919
+
+964,664
+0
+0
+0
+
+964,664
+930,811
+793,703
+788,919
+
+81.0
+81.9
+82.6
+83.4
+
+17
+18
+19
+20
+
+EVA
+EL AL
+ABX AIR INC
+AIR CHINA INTERNATI
+
+44,854
+40,170
+39,049
+37,162
+
+72.5
+74.0
+75.5
+76.9
+
+USAIR EXP: AIR WISCONS
+AMERICA WEST
+
+Passengers & Freight by Market Group
+12 Month Ending Data
+
+Freight
+
+75,840,652
+
+1,069,802
+
+CANADA
+
+2,347,505
+
+1,218
+
+CARIBBEAN + BERMUDA
+
+4,655,280
+
+34,511
+
+CENTRAL AND SOUTH AMERICA
+
+2,284,174
+
+64,762
+
+MEXICO
+
+1,256,482
+
+8,247
+
+19,996,958
+
+TRANSATLANTIC
+
+2,735,743
+
+TRANSPACIFIC
+
+Business
+
+34%
+
+Survey from
+May 2004 Jun 2004
+Local Origin & Destination
+84%
+
+Personal
+
+66%
+
+Connecting
+
+Male
+
+52%
+
+Passenger Demographic data:
+
+Passengers
+
+DOMESTIC
+
+898,608
+559,471
+
+48%
+Female
+Access: residents (adds > 100%)
+Private car:parking
+17%
+Private car:drop off
+28%
+Limo car service
+22%
+Taxi service
+26%
+7%
+Rental Car service
+8%
+Airport Bus
+8%
+AirTrain
+Transit
+
+OAG schedules: airlines serving Region
+Domestic Passenger Service
+
+Airlines
+
+823.8
+587.6
+
+21
+9
+
+1411.4
+
+30
+
+146.9
+139.8
+45.1
+
+10
+62
+3
+
+331.8
+
+75
+
+5.9
+2.0
+8.0
+
+6
+4
+14
+
+15.9
+
+24
+
+1635.7
+
+28
+
+174.7
+
+68
+
+@Sub-Total
+International Passenger Service
+Scheduled: USA Flag
+Scheduled: Foreign Flag
+Commuter: USA Flag
+@Sub-Total
+Freighter Service
+All Cargo: USA Flag
+All Cargo: Foreign Flag
+Scheduled Passenger: Foreign Flag
+@Sub-Total
+
+16%
+39
+
+Average Age
+Average Household Income
+Local Passenger Residence
+Manhattan
+
+33%
+
+Other NY City
+
+14%
+
+Long Island
+
+10%
+
+Westchester
+
+3%
+
+Other NY State
+
+3%
+
+Connecticut
+
+5%
+
+New Jersey
+
+24%
+
+11%
+
+Flights (daily)
+1296.2
+115.2
+1411.4
+@Sub-Total
+
+Domestic nonstop cities served
+Jet Service Provided
+Service Exclusively by Regional Airlines
+
+International nonstop cities served
+Jet service provided
+Canada
+Central America Less Mexico
+Mexico
+Carribean and Bermuda
+South America
+Transatlantic
+Transpacific
+Service exclusively by regional airlines: Canada
+
+@Foreign Airlines(Un-duplicated)
+16-JAN-08 04:38 PM
+
+Total number of cities having nonstop services
+
+Cities
+68
+28
+96
+
+84.4
+6.9
+15.8
+50.9
+13.6
+151.4
+23.0
+1.0
+
+10
+6
+6
+22
+11
+58
+12
+1
+
+347
+
+126
+
+1758.4
+
+222
+
+@Sub-Total
+@USA Airlines(Un-duplicated)
+
+$97,400
+
+OAG schedules: Nonstop Destinations
+
+Flights (daily)
+
+Scheduled
+Commuter
+
+CHINA AIRLINES (CAL
+LUFTHANSA CARGO
+DELTA
+BRITISH AIRWAYS
+
+Run from Traffic_Summary.RDF
+
+

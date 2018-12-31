@@ -1,0 +1,517 @@
+Region
+
+Top 20 Airlines 12 months ending March 2000
+Airline Ranking by Passengers
+
+Ranking by Freight Volume
+Total Cum % Rank Airline Name
+
+Domestic
+
+Intl
+
+14,436,782
+8,881,676
+
+3,662,442
+3,079,836
+
+18,099,224
+11,961,512
+
+20.1
+33.4
+
+1
+2
+
+DELTA
+UNITED
+US AIRWAYS
+TRANSWORLD AIRLINES
+NORTHWEST
+DELTA SHUTTLE
+CONTINENTAL EXPRESS
+
+8,412,622
+5,045,225
+4,598,589
+3,505,611
+2,633,540
+2,211,090
+2,037,867
+
+2,061,264
+735,680
+0
+1,045,367
+356,216
+0
+0
+
+10,473,886
+5,780,905
+4,598,589
+4,550,978
+2,989,756
+2,211,090
+2,037,867
+
+45.1
+51.5
+56.6
+61.7
+65.0
+67.5
+69.7
+
+10
+11
+12
+13
+14
+15
+
+BRITISH AIRWAYS
+TOWER AIR
+USAIR SHUTTLE
+AIR CANADA
+AMERICA WEST
+AMERICAN EAGLE
+
+0
+1,094,873
+1,510,342
+0
+1,043,767
+946,511
+
+1,619,161
+470,531
+0
+1,125,689
+0
+88,542
+
+1,619,161
+1,565,404
+1,510,342
+1,125,689
+1,043,767
+1,035,053
+
+71.5
+73.3
+75.0
+76.2
+77.4
+78.5
+
+16
+17
+18
+19
+20
+
+VIRGIN ATLANTIC
+LUFTHANSA
+AIR FRANCE
+SPIRIT AIRLINES
+AMERICAN TRANS AIR
+
+0
+0
+0
+708,401
+588,381
+
+899,878
+888,404
+748,290
+0
+87,382
+
+899,878
+888,404
+748,290
+708,401
+675,763
+
+79.5
+80.5
+81.3
+82.1
+82.9
+
+Rank Airline Name
+1
+2
+
+CONTINENTAL
+AMERICAN
+
+3
+4
+5
+6
+7
+8
+9
+
+Passengers & Freight by Market Group
+12 Month Ending Data
+
+Freight
+
+DOMESTIC
+
+62,385,097
+
+1,336,338
+
+BERMUDA
+
+311,468
+
+475
+
+CANADA
+
+2,164,230
+
+2,669
+
+CARIBBEA
+
+3,065,182
+
+37,826
+
+CENTRAL
+
+1,949,957
+
+54,085
+
+800,593
+
+12,898
+
+TRANSATL
+
+17,407,457
+
+TRANSPAC
+
+1,818,866
+
+965,301
+527,048
+
+OAG schedules: airlines serving Region
+Airlines
+
+844.7
+373.3
+
+18
+7
+
+1218.0
+
+25
+
+@Sub-Total
+International Passenger Service
+Scheduled: USA Flag
+Scheduled: Foreign Flag
+Commuter: USA Flag
+@Sub-Total
+
+115.3
+129.8
+16.6
+
+7
+64
+3
+
+261.7
+
+74
+
+33.4
+1.0
+1.4
+10.6
+
+12
+1
+2
+16
+
+46.4
+
+31
+
+1385.3
+
+31
+
+146.5
+
+69
+
+Freighter Service
+All Cargo: USA Flag
+Scheduled Passenger: USA Flag
+All Cargo: Foreign Flag
+Scheduled Passenger: Foreign Flag
+@Sub-Total
+@USA Airlines(Un-duplicated)
+@Foreign Airlines(Un-duplicated)
+10-JUL-00 04:55 PM
+
+697,169
+208,218
+
+23.7
+30.8
+
+3
+4
+5
+6
+7
+8
+9
+
+AMERICAN
+DELTA
+UNITED
+CONTINENTAL
+LUFTHANSA
+KOREAN
+POLAR AIR CARGO
+
+146,422
+109,466
+105,019
+102,886
+101,253
+84,697
+83,396
+
+35.8
+39.5
+43.1
+46.6
+50.1
+53.0
+55.8
+
+10
+11
+12
+13
+14
+15
+16
+
+BRITISH AIRWAYS
+NORTHWEST
+ASIANA
+AIR FRANCE
+DHL AIRWAYS
+AIRBORNE
+VIRGIN ATLANTIC
+
+73,054
+66,703
+60,421
+58,654
+56,726
+50,808
+48,139
+
+58.3
+60.6
+62.6
+64.6
+66.5
+68.3
+69.9
+
+17
+18
+19
+20
+
+CHINA AIRLINES
+SWISSAIR
+GEMINI AIR CARGO
+EL AL
+
+44,998
+44,854
+40,052
+39,665
+
+71.4
+73.0
+74.3
+75.7
+
+Business
+
+37%
+
+Personal
+
+63%
+
+Connecting
+
+53%
+Male
+47%
+Female
+Access mode: residents
+Private car:parking
+Private car:drop off
+Limo car service
+Taxi service
+Rental Car service
+Airport Bus
+
+14%
+30%
+21%
+20%
+7%
+7%
+20%
+
+23%
+42
+
+Average Age
+Average Household Income
+
+$86,000
+
+Local Passenger Residence
+Manhattan, NY
+
+46%
+
+Queens & Brooklyn, NY
+
+16%
+
+Nassau & Suffolk, NY
+
+15%
+
+Bergen, NJ
+
+7%
+
+Essex, NJ
+
+5%
+
+Westchester
+
+6%
+
+Fairfield, CT
+
+5%
+
+OAG schedules: Nonstop Destinations
+
+Flights (daily)
+
+Scheduled
+Commuter
+
+FEDERAL EXPRESS
+UNITED PARCEL
+
+Survey from
+May 1997 Aug 1999
+Local Origin & Destination
+77%
+
+Transit
+
+Domestic Passenger Service
+
+Cum%
+
+Passenger Demographic data:
+
+Passengers
+
+MEXICO
+
+Tons
+
+Domestic nonstop cities served
+Jet Service Provided
+Service Exclusively by Regional Airlines
+
+Flights (daily)
+1112.0
+110.8
+1222.8
+@Sub-Total
+
+Cities
+68
+16
+84
+
+International nonstop cities served
+Jet service provided
+Canada
+68.4
+Central America Less Mexico
+3.9
+Mexico
+9.7
+Carribean and Bermuda
+32.1
+South America
+18.0
+Transatlantic
+122.1
+Transpacific
+7.4
+Service exclusively by regional airlines: Canada
+2.6
+
+6
+4
+3
+17
+9
+49
+5
+4
+
+264.2
+
+97
+
+1487
+
+181
+
+@Sub-Total
+Total number of cities having nonstop services
+
+Run from Traffic_Summary.RDF
+
+
