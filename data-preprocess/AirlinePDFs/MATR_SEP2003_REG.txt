@@ -1,0 +1,515 @@
+Region
+
+Top 20 Airlines 12 months ending September 2003
+Ranking by Freight Volume
+
+Airline Ranking by Passengers
+
+Total Cum % Rank Airline Name
+
+Intl
+
+Domestic
+
+Rank Airline Name
+
+Tons
+
+Cum%
+
+FEDERAL EXPRESS
+AMERICAN
+
+697,747
+165,072
+
+26.4
+32.7
+
+11,307,655
+10,148,774
+
+3,841,764
+3,220,689
+
+15,149,419
+13,369,463
+
+18.3
+34.5
+
+1
+2
+
+DELTA
+JETBLUE AIRWAYS
+UNITED
+CONTINENTAL EXPRESS
+US AIRWAYS
+NORTHWEST
+BRITISH AIRWAYS
+
+6,604,147
+6,649,784
+3,888,302
+3,039,455
+3,014,163
+2,377,483
+0
+
+1,274,189
+0
+465,244
+282,635
+96,268
+393,682
+1,527,070
+
+7,878,336
+6,649,784
+4,353,546
+3,322,090
+3,110,431
+2,771,165
+1,527,070
+
+44.1
+52.1
+57.4
+61.4
+65.2
+68.5
+70.4
+
+3
+4
+5
+6
+7
+8
+9
+
+UNITED PARCEL
+POLAR AIR CARGO
+KOREAN
+LUFTHANSA CARGO
+DELTA
+BRITISH AIRWAYS
+ASIANA
+
+162,141
+106,876
+80,548
+79,847
+77,590
+64,269
+59,766
+
+38.8
+42.8
+45.9
+48.9
+51.8
+54.3
+56.5
+
+10
+11
+12
+13
+14
+15
+16
+
+DELTA SHUTTLE
+AMERICAN EAGLE
+AMERICA WEST
+AMERICAN TRANS AIR
+SPIRIT AIRLINES
+COMAIR, INC.
+AIRTRAN AIRWAYS
+
+1,442,831
+1,147,549
+1,136,331
+975,595
+933,816
+882,863
+908,127
+
+0
+70,415
+0
+1,931
+0
+33,285
+0
+
+1,442,831
+1,217,964
+1,136,331
+977,526
+933,816
+916,148
+908,127
+
+72.1
+73.6
+75.0
+76.2
+77.3
+78.4
+79.5
+
+10
+11
+12
+13
+14
+15
+16
+
+GEMINI AIR CARGO
+CONTINENTAL
+DHL AIRWAYS
+UNITED
+CHINA AIRLINES (C.A.
+AIR FRANCE
+EVA
+
+55,788
+51,589
+49,759
+49,251
+49,182
+48,697
+46,072
+
+58.7
+60.6
+62.5
+64.4
+66.2
+68.1
+69.8
+
+17
+18
+19
+20
+
+AIR CANADA
+
+0
+824,017
+0
+0
+
+894,496
+0
+794,458
+789,067
+
+894,496
+824,017
+794,458
+789,067
+
+80.6
+81.6
+82.5
+83.5
+
+17
+18
+19
+20
+
+ATLAS AIR
+AIRBORNE
+NORTHWEST
+EVERGREEN
+
+45,449
+45,282
+40,558
+38,935
+
+71.5
+73.2
+74.8
+76.2
+
+1
+2
+
+CONTINENTAL
+AMERICAN
+
+3
+4
+5
+6
+7
+8
+9
+
+USAIR EXP-CHAUTAUQUA
+VIRGIN ATLANTIC
+AIR FRANCE
+
+Passengers & Freight by Market Group
+12 Month Ending Data
+DOMESTIC
+
+Passengers
+
+Freight
+
+58,888,809
+
+1,195,495
+
+CANADA
+
+1,775,208
+
+3,061
+
+CARIBBEAN + BERMUDA
+
+3,833,036
+
+29,396
+
+CENTRAL AND SOUTH AMERICA
+
+1,600,334
+
+50,075
+
+833,314
+
+9,521
+
+13,876,775
+
+841,551
+
+MEXICO
+TRANSATLANTIC
+
+1,792,803
+
+TRANSPACIFIC
+
+Business
+
+37%
+
+Survey from
+May 1997 Aug 1999
+Local Origin & Destination
+77%
+
+Personal
+
+63%
+
+Connecting
+
+Male
+Female
+Access mode: residents
+Private car:parking
+Private car:drop off
+Limo car service
+Taxi service
+Rental Car service
+Airport Bus
+
+53%
+
+Average Age
+Average Household Income
+
+Passenger Demographic data:
+
+512,840
+
+Transit
+
+OAG schedules: airlines serving Region
+Domestic Passenger Service
+
+Airlines
+
+652.7
+415.4
+
+23
+5
+
+1068.1
+
+28
+
+@Sub-Total
+International Passenger Service
+Scheduled: USA Flag
+Scheduled: Foreign Flag
+Commuter: USA Flag
+@Sub-Total
+
+92.2
+128.9
+26.1
+
+7
+62
+4
+
+247.2
+
+73
+
+22.2
+0.7
+3.4
+11.0
+
+3
+1
+4
+14
+
+37.3
+
+22
+
+1207.3
+
+19
+
+157.3
+
+66
+
+Freighter Service
+All Cargo: USA Flag
+Scheduled Passenger: USA Flag
+All Cargo: Foreign Flag
+Scheduled Passenger: Foreign Flag
+@Sub-Total
+@USA Airlines(Un-duplicated)
+@Foreign Airlines(Un-duplicated)
+17-NOV-03 11:04 AM
+
+14%
+30%
+21%
+20%
+7%
+7%
+20%
+
+42
+$86,000
+
+Local Passenger Residence
+Manhattan, NY
+
+46%
+
+Queens & Brooklyn, NY
+
+16%
+
+Nassau & Suffolk, NY
+
+15%
+
+Bergen, NJ
+
+7%
+
+Essex, NJ
+
+5%
+
+Westchester
+
+6%
+
+Fairfield, CT
+
+5%
+
+OAG schedules: Nonstop Destinations
+
+Flights (daily)
+
+Scheduled
+Commuter
+
+47%
+
+23%
+
+Flights (daily)
+945.6
+122.5
+1068.1
+@Sub-Total
+
+Domestic nonstop cities served
+Jet Service Provided
+Service Exclusively by Regional Airlines
+
+International nonstop cities served
+Jet service provided
+Canada
+Central America Less Mexico
+Mexico
+Caribbean and Bermuda
+South America
+Transatlantic
+Transpacific
+Service exclusively by regional airlines: Canada
+@Sub-Total
+Total number of cities having nonstop services
+
+Cities
+63
+33
+96
+
+68.3
+4.9
+7.4
+34.9
+10.3
+114.1
+10.4
+1.1
+
+6
+6
+3
+18
+8
+52
+7
+2
+
+251.4
+
+102
+
+1319.5
+
+198
+
+Run from Traffic_Summary.RDF
+
+

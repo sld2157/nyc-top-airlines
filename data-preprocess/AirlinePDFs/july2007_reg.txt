@@ -1,0 +1,516 @@
+Region
+
+Top 20 Airlines 12 months ending July 2007
+Ranking by Freight Volume
+
+Airline Ranking by Passengers
+Rank Airline Name
+
+Domestic
+
+Intl
+
+Total Cum % Rank Airline Name
+
+1
+2
+
+CONTINENTAL
+JETBLUE AIRWAYS
+
+14,761,879
+14,555,171
+
+6,615,764
+552,588
+
+21,377,643
+15,107,759
+
+19.9
+34.0
+
+3
+4
+5
+6
+7
+8
+9
+
+AMERICAN
+DELTA
+CONTINENTAL EXPRESS/E
+UNITED
+US AIRWAYS
+NORTHWEST
+COMAIR, INC.
+
+10,251,053
+7,528,101
+4,190,550
+3,783,373
+2,685,532
+2,548,710
+2,520,103
+
+3,943,809
+2,705,945
+498,760
+67,719
+28,466
+59,658
+19,367
+
+14,194,862
+10,234,046
+4,689,310
+3,851,092
+2,713,998
+2,608,368
+2,539,470
+
+47.3
+56.8
+61.2
+64.8
+67.3
+69.7
+72.1
+
+10
+11
+12
+13
+14
+15
+16
+
+AMERICAN EAGLE
+BRITISH AIRWAYS
+AIRTRAN AIRWAYS
+DELTA SHUTTLE
+VIRGIN ATLANTIC
+AIR CANADA
+AMERICA WEST
+
+1,638,548
+0
+1,287,572
+1,096,368
+0
+0
+975,366
+
+314,838
+1,617,267
+0
+0
+1,011,762
+991,379
+0
+
+1,953,386
+1,617,267
+1,287,572
+1,096,368
+1,011,762
+991,379
+975,366
+
+73.9
+75.4
+76.6
+77.7
+78.6
+79.5
+80.4
+
+17
+18
+19
+20
+
+AIR FRANCE
+LUFTHANSA
+SPIRIT AIRLINES
+
+0
+0
+920,519
+894,480
+
+975,093
+931,721
+0
+0
+
+975,093
+931,721
+920,519
+894,480
+
+81.3
+82.2
+83.1
+83.9
+
+USAIR EXP-CHAUTAUQUA
+
+Passengers & Freight by Market Group
+12 Month Ending Data
+
+Passengers
+
+DOMESTIC
+CANADA
+
+2,394,965
+
+1,431
+
+CARIBBEAN + BERMUDA
+
+4,534,411
+
+35,688
+
+CENTRAL AND SOUTH AMERICA
+
+2,223,923
+
+62,266
+
+MEXICO
+
+1,202,175
+
+7,601
+
+19,241,152
+
+908,562
+
+2,682,591
+
+558,978
+
+OAG schedules: airlines serving Region
+Airlines
+
+775.0
+544.4
+
+21
+6
+
+1319.4
+
+27
+
+159.1
+152.5
+48.2
+
+10
+65
+3
+
+359.8
+
+78
+
+5.4
+2.1
+8.7
+
+6
+4
+15
+
+16.2
+
+25
+
+1531.4
+
+24
+
+185.4
+
+70
+
+@Sub-Total
+International Passenger Service
+Scheduled: USA Flag
+Scheduled: Foreign Flag
+Commuter: USA Flag
+@Sub-Total
+Freighter Service
+All Cargo: USA Flag
+All Cargo: Foreign Flag
+Scheduled Passenger: Foreign Flag
+@Sub-Total
+
+25.2
+
+186,025
+168,290
+130,888
+91,798
+71,162
+68,309
+67,713
+
+32.2
+38.5
+43.4
+46.8
+49.5
+52.0
+54.6
+
+9
+10
+11
+12
+13
+14
+15
+
+LUFTHANSA CARGO
+DELTA
+JAPAN AIRLINES
+KALITTA AIR LLC
+AIR FRANCE
+ASTAR AIR/DHL.
+VIRGIN ATLANTIC
+
+67,229
+66,284
+52,415
+51,836
+49,630
+49,078
+47,941
+
+57.1
+59.6
+61.5
+63.5
+65.3
+67.2
+69.0
+
+16
+17
+18
+19
+20
+
+EVA
+CATHAY PACIFIC
+ALITALIA
+LUFTHANSA
+EL AL
+
+46,170
+41,489
+37,956
+37,748
+37,547
+
+70.7
+72.3
+73.7
+75.1
+76.5
+
+CHINA AIRLINES (CAL
+BRITISH AIRWAYS
+ASIANA
+
+Business
+
+34%
+
+Personal
+
+66%
+
+Connecting
+
+Male
+
+52%
+
+Average Age
+
+48%
+Female
+Access: residents (adds > 100%)
+Private car:parking
+17%
+Private car:drop off
+28%
+Limo car service
+22%
+Taxi service
+26%
+7%
+Rental Car service
+8%
+Airport Bus
+8%
+AirTrain
+
+16%
+39
+
+Average Household Income
+Local Passenger Residence
+Manhattan
+
+33%
+
+Other NY City
+
+14%
+
+Long Island
+
+10%
+
+Westchester
+
+3%
+
+Other NY State
+
+3%
+
+Connecticut
+
+5%
+
+New Jersey
+
+24%
+
+11%
+
+Domestic nonstop cities served
+Jet Service Provided
+Service Exclusively by Regional Airlines
+
+Flights (daily)
+1186.8
+132.6
+1319.4
+@Sub-Total
+
+International nonstop cities served
+Jet service provided
+Canada
+Central America Less Mexico
+Mexico
+Carribean and Bermuda
+South America
+Transatlantic
+Transpacific
+Service exclusively by regional airlines: Canada
+
+@Foreign Airlines(Un-duplicated)
+20-SEP-07 02:28 PM
+
+Total number of cities having nonstop services
+
+Cities
+70
+31
+101
+
+89.2
+7.6
+15.8
+53.6
+15.0
+171.1
+19.9
+1.0
+
+10
+7
+5
+20
+10
+63
+13
+1
+
+373.2
+
+129
+
+1692.6
+
+230
+
+@Sub-Total
+@USA Airlines(Un-duplicated)
+
+$97,400
+
+OAG schedules: Nonstop Destinations
+
+Flights (daily)
+
+Scheduled
+Commuter
+
+672,549
+
+UNITED PARCEL
+AMERICAN
+CONTINENTAL
+KOREAN
+
+Survey from
+May 2004 Jun 2004
+Local Origin & Destination
+84%
+
+Transit
+
+Domestic Passenger Service
+
+FEDERAL EXPRESS
+
+2
+3
+4
+5
+6
+7
+8
+
+Passenger Demographic data:
+1,095,077
+
+TRANSPACIFIC
+
+Cum%
+
+1
+
+Freight
+
+74,959,468
+
+TRANSATLANTIC
+
+Tons
+
+Run from Traffic_Summary.RDF
+
+

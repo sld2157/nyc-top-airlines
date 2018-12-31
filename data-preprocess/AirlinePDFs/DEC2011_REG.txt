@@ -1,0 +1,435 @@
+Region
+
+Top 20 Airlines 12 months ending December 2011
+Ranking by Freight Volume
+
+Airline Ranking by Passengers
+Rank Airline Name
+
+Domestic
+
+Intl
+
+Total Cum % Rank Airline Name
+
+1
+2
+
+CONTINENTAL
+DELTA
+
+15,718,582
+16,049,146
+
+7,593,576
+4,317,272
+
+23,312,158
+20,366,418
+
+22.1
+41.4
+
+3
+4
+5
+6
+7
+8
+9
+
+AMERICAN
+JETBLUE AIRWAYS
+US AIRWAYS
+UNITED
+BRITISH AIRWAYS
+SOUTHWEST AIRLINES
+AIRTRAN AIRWAYS
+
+10,582,457
+11,496,808
+6,017,390
+3,893,448
+0
+1,397,153
+1,230,040
+
+3,742,416
+2,162,125
+0
+155,558
+1,521,149
+0
+0
+
+14,324,873
+13,658,933
+6,017,390
+4,049,006
+1,521,149
+1,397,153
+1,230,040
+
+54.9
+67.9
+73.6
+77.4
+78.8
+80.2
+81.3
+
+10
+11
+12
+13
+14
+15
+16
+
+LUFTHANSA
+AIR CANADA
+SPIRIT AIRLINES
+AIR FRANCE
+VIRGIN AMERICA
+VIRGIN ATLANTIC
+CATHAY PACIFIC
+
+0
+0
+1,161,743
+0
+962,416
+0
+0
+
+1,205,907
+1,196,990
+0
+1,017,913
+0
+891,801
+684,069
+
+1,205,907
+1,196,990
+1,161,743
+1,017,913
+962,416
+891,801
+684,069
+
+82.5
+83.6
+84.7
+85.7
+86.6
+87.4
+88.1
+
+17
+18
+19
+20
+
+FRONTIER AIRLINES
+CARIBBEAN AIR
+EL AL
+
+634,028
+0
+0
+0
+
+0
+566,931
+550,631
+494,580
+
+634,028
+566,931
+550,631
+494,580
+
+88.7
+89.2
+89.7
+90.2
+
+EMIRATES AIRLINES & SK
+
+Tons
+
+Cum%
+
+1
+
+FEDERAL EXPRESS
+
+520,901
+
+23.4
+
+2
+3
+4
+5
+6
+7
+8
+
+UNITED PARCEL
+AMERICAN
+CONTINENTAL
+DELTA
+LUFTHANSA
+BRITISH AIRWAYS
+KOREAN
+
+181,739
+126,301
+104,464
+100,062
+92,914
+76,613
+70,160
+
+31.6
+37.3
+42.0
+46.5
+50.7
+54.1
+57.3
+
+9
+10
+11
+12
+13
+14
+15
+
+CHINA AIRLINES (CAL
+CATHAY PACIFIC
+EVA
+ASIANA
+KALITTA AIR LLC
+VIRGIN ATLANTIC
+AIR FRANCE
+
+64,621
+56,105
+54,301
+51,761
+46,137
+37,320
+36,467
+
+60.2
+62.7
+65.1
+67.5
+69.6
+71.2
+72.9
+
+16
+17
+18
+19
+20
+
+ABX AIR INC
+EL AL
+
+33,760
+30,588
+29,444
+28,140
+24,383
+
+74.4
+75.8
+77.1
+78.4
+79.5
+
+CARGOLUX AIRLINES
+AIR CHINA INTERNATI
+QANTAS AIRWAYS
+
+Passengers & Freight by Market Group
+12 Month Ending Data
+
+Passengers
+
+DOMESTIC
+
+69,461,908
+
+Freight
+812,847
+
+CANADA
+
+2,927,474
+
+148
+
+CARIBBEAN + BERMUDA
+
+5,226,307
+
+22,336
+
+CENTRAL AND SOUTH AMERICA
+
+2,792,785
+
+63,719
+
+MEXICO
+
+1,145,560
+
+5,150
+
+21,105,545
+
+860,984
+
+3,271,454
+
+457,691
+
+TRANSATLANTIC
+TRANSPACIFIC
+
+OAG schedules: airlines serving Region
+Domestic Passenger Service
+
+OAG schedules: Nonstop Destinations
+
+Flights (daily)
+
+Airlines
+
+673.8
+690.7
+
+15
+7
+
+1364.5
+
+22
+
+Scheduled
+Commuter
+@Sub-Total
+International Passenger Service
+Scheduled: USA Flag
+Scheduled: Foreign Flag
+Commuter: USA Flag
+@Sub-Total
+
+139.7
+155.3
+55.4
+
+5
+61
+3
+
+350.4
+
+69
+
+6.4
+2.9
+7.7
+
+6
+4
+11
+
+17.0
+
+21
+
+1565.7
+
+21
+
+176.0
+
+65
+
+Freighter Service
+All Cargo: USA Flag
+All Cargo: Foreign Flag
+Scheduled Passenger: Foreign Flag
+@Sub-Total
+
+Domestic nonstop cities served
+Jet Service Provided
+Service Exclusively by Regional Airlines
+
+Flights (daily)
+1025.0
+191.3
+1216.3
+@Sub-Total
+
+International nonstop cities served
+Jet service provided
+Canada
+Central America Less Mexico
+Mexico
+Carribean and Bermuda
+South America
+Transatlantic
+Transpacific
+Service exclusively by regional airlines: Canada
+@Sub-Total
+
+@USA Airlines(Un-duplicated)
+@Foreign Airlines(Un-duplicated)
+15-FEB-12 11:00 AM
+
+Total number of cities having nonstop services
+
+Cities
+63
+36
+99
+
+98.3
+11.9
+12.6
+55.7
+18.5
+129.1
+24.9
+15.6
+
+9
+7
+4
+23
+10
+54
+17
+7
+
+366.6
+
+131
+
+1582.9
+
+230
+
+Run from Traffic_Summary3.RDF
+
+

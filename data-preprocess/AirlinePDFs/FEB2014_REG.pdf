@@ -1,0 +1,4664 @@
+%PDF-1.4
+1 0 obj
+<<
+/Creator (Oracle11gR1 AS Reports Services)
+/CreationDate (D:20140415163414)
+/ModDate (D:20140415163414)
+/Producer (Oracle PDF driver)
+/Title ()
+/Author (Oracle Reports)
+>>
+endobj
+5 0 obj
+<</Length 6 0 R>>
+stream
+BT
+227.28 605.24 TD
+/F0 22.00 Tf
+(February 2014) Tj
+-32.60 -49.48 TD
+(Monthly Traffic Report) Tj
+ET
+q
+114.80 503.24 393.76 24.76 re W n
+BT
+165.08 507.76 TD
+(Newark Liberty International) Tj
+ET
+Q 0 g 0 G
+q
+114.80 470.20 393.76 24.76 re W n
+BT
+157.92 474.68 TD
+/F0 22.00 Tf
+(John F.Kennedy International) Tj
+ET
+Q 0 g 0 G
+q
+114.80 437.88 393.76 24.76 re W n
+BT
+257.68 442.40 TD
+/F0 22.00 Tf
+(LaGuardia) Tj
+ET
+Q 0 g 0 G
+BT
+246.04 342.52 TD
+/F0 22.00 Tf
+(Teterboro & ) Tj
+-118.88 -26.24 TD
+(regional satellite airport summaries) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+147.04 74.72 342.72 191.96 re S
+BT
+147.04 256.92 TD
+/F1 10.00 Tf
+( Aviation Department - Traffic Statistics) Tj
+0.00 -24.00 TD
+( JoJo Quayson) Tj
+0.00 -12.00 TD
+( John Cuneo) Tj
+0.00 -12.00 TD
+( Deyssi Mesa) Tj
+0.00 -12.00 TD
+( Sukhrob Khalilov) Tj
+0.00 -23.96 TD
+(Notes1:) Tj
+( The section entitled Air Transport Association Carriers is included to ) Tj
+ET
+0.48 w
+147.04 170.96 m 180.80 170.96 l B*
+BT
+147.04 160.96 TD
+(give a comparison between Port Authority Airport traffic growth and aggregate ) Tj
+0.00 -12.00 TD
+(growth as measured by the majority of the U.S. carrier industry.) Tj
+0.00 -12.00 TD
+(Note2: The page 2 Access Mode: residents report excludes passengers ) Tj
+0.00 -12.00 TD
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous "other" ) Tj
+0.00 -12.00 TD
+(category. The airline OAG summary uses schedules effective for   the week in ) Tj
+0.00 -12.00 TD
+(the middle of the month being summarized."Flights \(daily\) refers to the daily-) Tj
+0.00 -12.00 TD
+(each-way average flights which can be thought of as 1 directional departing or ) Tj
+0.00 -12.00 TD
+(arriving flights.) Tj
+-48.00 598.04 TD
+/F0 18.00 Tf
+(The Port Authority of New York & New Jersey) Tj
+ET
+q
+114.80 404.20 393.76 24.76 re W n
+BT
+203.68 408.72 TD
+/F0 22.00 Tf
+(Stewart International) Tj
+ET
+Q 0 g 0 G
+q
+120.80 369.68 393.76 24.76 re W n
+BT
+186.04 374.16 TD
+/F0 22.00 Tf
+(Atlantic City International) Tj
+ET
+Q 0 g 0 G
+
+endstream
+endobj
+6 0 obj
+2071
+endobj
+7 0 obj
+<</Type /Font
+/Name /F0
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#42#6F#6C#64
+/FirstChar 24
+/LastChar 255
+/Widths 8 0 R
+/FontDescriptor 9 0 R
+>>
+endobj
+8 0 obj
+[750 750 750 750 750 750 750 750 273 273 
+477 546 546 852 716 239 341 341 375 580 
+273 341 273 273 546 546 546 546 546 546 
+546 546 546 546 341 341 580 580 580 614 
+955 648 682 716 716 648 614 784 716 273 
+546 716 614 852 716 750 648 750 716 648 
+614 716 648 921 648 682 614 341 273 341 
+580 546 341 546 614 546 614 546 341 614 
+614 273 273 546 273 886 614 614 614 614 
+375 546 341 614 580 784 546 546 511 375 
+239 375 580 750 546 0 273 546 511 989 
+546 546 341 1057 648 341 989 0 614 0 
+0 273 273 511 511 341 546 989 341 989 
+546 341 921 0 511 682 273 341 546 546 
+546 546 239 546 341 716 375 546 580 341 
+716 546 409 546 341 341 341 580 546 341 
+341 341 375 546 818 818 818 614 648 648 
+648 648 648 648 989 716 648 648 648 648 
+273 273 273 273 716 716 750 750 750 750 
+750 580 784 716 716 716 716 682 648 614 
+546 546 546 546 546 546 886 546 546 546 
+546 546 273 273 273 273 614 614 614 614 
+614 614 614 546 614 614 614 614 614 546 
+614 546 ]
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#42#6F#6C#64
+/Ascent 921
+/CapHeight 750
+/Descent -239
+/Flags 32
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 511
+/MaxWidth 1057
+>>
+endobj
+10 0 obj
+<</Type /Font
+/Name /F1
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C
+/FirstChar 24
+/LastChar 255
+/Widths 11 0 R
+/FontDescriptor 12 0 R
+>>
+endobj
+11 0 obj
+[750 750 750 750 750 750 750 750 300 225 
+375 525 525 900 675 150 300 300 375 600 
+300 300 300 300 525 525 525 525 525 525 
+525 525 525 525 300 300 600 600 600 525 
+975 675 675 675 675 675 600 750 675 225 
+450 675 525 825 675 750 675 750 675 675 
+525 675 675 975 525 675 525 300 300 300 
+375 525 300 525 525 525 525 525 225 525 
+525 225 225 525 225 825 525 525 525 525 
+300 525 300 525 375 675 525 525 525 300 
+225 300 600 750 525 0 225 525 300 975 
+525 525 300 1050 675 300 975 0 525 0 
+0 225 225 300 300 375 525 975 300 975 
+525 300 900 0 525 675 300 225 525 525 
+525 525 225 525 300 750 300 525 600 300 
+750 525 375 525 300 300 300 525 525 300 
+300 300 375 525 825 825 825 600 675 675 
+675 675 675 675 975 675 675 675 675 675 
+225 225 225 225 675 675 750 750 750 750 
+750 600 750 675 675 675 675 675 675 675 
+525 525 525 525 525 525 900 525 525 525 
+525 525 225 225 225 225 525 525 525 525 
+525 525 525 525 525 525 525 525 525 525 
+525 525 ]
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C
+/Ascent 975
+/CapHeight 750
+/Descent -225
+/Flags 32
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle 0
+/StemV 0
+/AvgWidth 450
+/MaxWidth 1050
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 7 0 R /F1 10 0 R >> >>
+/Contents 5 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+14 0 obj
+<</Length 15 0 R>>
+stream
+q
+0.00 0.00 603.72 792.00 re W n
+0.00 w
+0 J
+0 j
+[] 0 d
+10.24 514.44 547.04 56.04 re S
+BT
+252.32 519.12 TD
+/F0 10.00 Tf
+( 7,254,615) Tj
+105.24 0.00 TD
+( 15,513,655) Tj
+109.56 0.00 TD
+( 113,471,175) Tj
+-456.88 39.76 TD
+(PASSENGERS) Tj
+16.36 -15.72 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.00 TD
+(International) Tj
+225.72 12.00 TD
+/F1 10.00 Tf
+( 4,798,320) Tj
+0.00 -12.00 TD
+( 2,456,295) Tj
+64.80 12.00 TD
+(-3.6) Tj
+0.00 -12.00 TD
+( 3.9) Tj
+40.44 12.00 TD
+( 10,093,434) Tj
+5.24 -12.00 TD
+( 5,420,221) Tj
+61.56 12.00 TD
+(-3.3) Tj
+0.00 -12.00 TD
+( 3.8) Tj
+47.84 12.00 TD
+( 73,701,308) Tj
+0.00 -12.00 TD
+( 39,769,867) Tj
+65.56 12.00 TD
+( 0.6) Tj
+0.00 -12.00 TD
+( 5.1) Tj
+-220.64 -12.04 TD
+/F0 10.00 Tf
+(-1.2) Tj
+107.24 0.00 TD
+(-0.9) Tj
+113.40 -0.76 TD
+( 2.1) Tj
+ET
+9.76 405.96 548.24 71.92 re S
+BT
+265.84 410.60 TD
+( 83,846) Tj
+105.20 0.00 TD
+( 176,561) Tj
+106.40 0.00 TD
+( 1,247,118) Tj
+-467.20 55.40 TD
+(FLIGHTS) Tj
+16.36 -16.48 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.76 TD
+(International) Tj
+0.00 -12.76 TD
+(General Aviation) Tj
+290.52 -13.40 TD
+/F0 10.00 Tf
+(-6.6) Tj
+107.24 0.00 TD
+(-7.1) Tj
+113.40 0.00 TD
+(-0.3) Tj
+ET
+9.76 389.64 548.24 14.12 re S
+BT
+24.72 393.40 TD
+/F3 8.00 Tf
+(Note:freighter flights included in above) Tj
+245.60 -1.48 TD
+/F0 10.00 Tf
+( 2,256) Tj
+40.80 0.00 TD
+(-11.3) Tj
+69.68 0.00 TD
+( 4,841) Tj
+42.84 0.00 TD
+(-9.4) Tj
+66.56 0.00 TD
+( 32,748) Tj
+46.80 0.00 TD
+(-6.0) Tj
+ET
+10.24 367.96 m 559.52 367.96 l 
+559.52 367.96 m 559.52 327.32 l 
+10.24 367.96 m 10.24 327.32 l S
+
+559.48 327.28 m 559.48 313.04 l 
+10.56 313.04 m 559.48 313.04 l 
+10.56 327.28 m 10.56 313.04 l S
+BT
+261.39 317.52 TD
+( 143,376) Tj
+110.48 0.00 TD
+( 297,509) Tj
+106.40 0.00 TD
+( 1,992,084) Tj
+-468.04 39.20 TD
+(FREIGHT \(in short tons\)) Tj
+13.00 -13.52 TD
+/F2 10.00 Tf
+(Domestic) Tj
+0.00 -12.80 TD
+(International) Tj
+401.96 -12.88 TD
+/F0 10.00 Tf
+(-5.0) Tj
+113.36 -0.28 TD
+(-4.3) Tj
+ET
+10.24 280.76 550.04 29.24 re S
+BT
+10.24 298.16 TD
+(MAIL \(in short tons\)) Tj
+13.00 -13.48 TD
+/F3 10.00 Tf
+(Total) Tj
+ET
+10.24 212.00 550.04 65.00 re S
+BT
+10.24 265.88 TD
+/F0 10.00 Tf
+(Ground Transportation) Tj
+12.00 -15.04 TD
+/F2 10.00 Tf
+(Paid Parked Cars) Tj
+0.00 -12.12 TD
+(Taxis Dispatched) Tj
+0.00 -12.16 TD
+(Air Train: JFK & EWR Passengers) Tj
+0.00 -12.16 TD
+(Other Ground Transportation Passengers) Tj
+ET
+10.24 147.92 550.76 59.04 re S
+BT
+10.24 197.20 TD
+/F0 10.00 Tf
+(Air Transport Association Carriers \(USA\)) Tj
+14.52 -15.84 TD
+/F2 10.00 Tf
+(Passengers:Domestic Enplaned \(000\)) Tj
+0.00 -14.40 TD
+(Passengers:International Enplaned \(000\)) Tj
+0.00 -14.40 TD
+(Freight:revenue ton miles \(000\)) Tj
+241.88 28.80 TD
+/F1 10.00 Tf
+( 32,979) Tj
+5.24 -14.40 TD
+( 5,593) Tj
+-18.72 -14.40 TD
+( 1,838,395) Tj
+64.80 28.80 TD
+(-0.3) Tj
+0.00 -14.40 TD
+( 3.2) Tj
+0.00 -14.40 TD
+(-1.3) Tj
+59.16 28.80 TD
+( 67,872) Tj
+0.00 -14.40 TD
+( 12,122) Tj
+-13.52 -14.40 TD
+( 3,899,373) Tj
+61.60 28.80 TD
+( 0.1) Tj
+0.00 -14.40 TD
+( 4.4) Tj
+0.00 -14.40 TD
+(-0.5) Tj
+61.32 28.80 TD
+( 467,985) Tj
+5.24 -14.40 TD
+( 80,432) Tj
+-18.72 -14.40 TD
+( 25,584,096) Tj
+65.40 28.80 TD
+( 1.1) Tj
+0.00 -14.40 TD
+( 3.9) Tj
+0.00 -14.40 TD
+(-0.5) Tj
+ET
+10.24 62.28 550.76 78.16 re S
+BT
+10.24 130.68 TD
+/F0 10.00 Tf
+(Regional Airports: Other) Tj
+14.52 -15.92 TD
+/F2 10.00 Tf
+(Teterboro: Flight Movements) Tj
+0.00 -14.44 TD
+(MacArthur,Islip: Total Passengers) Tj
+0.00 -14.40 TD
+(White Plains, NY: Total Passengers) Tj
+244.12 28.84 TD
+/F1 10.00 Tf
+( 11,134) Tj
+0.00 -14.44 TD
+( 96,976) Tj
+0.00 -14.40 TD
+( 94,641) Tj
+51.32 28.84 TD
+( 0.3) Tj
+0.00 -14.44 TD
+( 3.9) Tj
+-5.28 -14.40 TD
+(-12.1) Tj
+64.44 28.84 TD
+( 22,905) Tj
+-5.24 -14.44 TD
+( 199,169) Tj
+0.00 -14.40 TD
+( 199,956) Tj
+54.48 28.84 TD
+( 3.2) Tj
+0.00 -14.44 TD
+( 5.5) Tj
+0.00 -14.40 TD
+(-9.6) Tj
+60.16 28.84 TD
+( 155,751) Tj
+-8.24 -14.44 TD
+( 1,338,474) Tj
+0.00 -14.40 TD
+( 1,411,567) Tj
+60.16 28.84 TD
+( 6.1) Tj
+0.00 -14.44 TD
+( 2.0) Tj
+-5.24 -14.40 TD
+(-16.7) Tj
+-503.60 433.20 TD
+/F3 10.00 Tf
+(Total Revenue Passengers) Tj
+0.48 -201.60 TD
+(Total) Tj
+-26.32 268.36 TD
+/F0 20.00 Tf
+(Region) Tj
+ET
+228.64 633.88 105.80 14.24 re S
+BT
+266.52 638.36 TD
+/F3 10.00 Tf
+(Month) Tj
+ET
+339.28 634.16 101.96 14.24 re S
+BT
+362.48 638.68 TD
+(Year-to-date) Tj
+ET
+454.56 634.16 101.96 14.24 re S
+BT
+463.12 638.68 TD
+(12 Months Ending) Tj
+ET
+228.64 621.88 69.76 12.00 re S
+BT
+246.28 624.12 TD
+(Current) Tj
+ET
+338.96 622.16 70.40 12.00 re S
+BT
+356.88 624.40 TD
+(Current) Tj
+ET
+454.48 621.68 69.76 12.80 re S
+BT
+472.08 624.72 TD
+(Current) Tj
+ET
+298.48 621.88 35.96 12.00 re S
+BT
+312.36 624.12 TD
+(%) Tj
+ET
+409.12 622.16 31.76 12.00 re S
+BT
+420.88 624.44 TD
+(%) Tj
+ET
+524.36 621.68 32.20 12.80 re S
+BT
+536.32 624.72 TD
+(%) Tj
+-265.95 94.56 TD
+/F0 14.00 Tf
+(THE PORT AUTHORITY OF NY & NJ) Tj
+-30.36 -23.32 TD
+/F0 18.00 Tf
+(FEBRUARY 2014 TRAFFIC REPORT) Tj
+-234.00 85.56 TD
+/F2 10.00 Tf
+(Aviation Department) Tj
+349.52 0.00 TD
+/F2 8.00 Tf
+(Traffic Statistics: J.Quayson, J. Cuneo, D. Mesa, S.Khalilov ) Tj
+1 1 0.8750 rg
+ET
+1.00 w
+4.52 631.56 215.24 146.92 re B*
+BT
+4.52 770.24 TD
+0 g
+(Our monthly results were subdued due to severe winter ) Tj
+0.00 -10.52 TD
+(weather that caused a large number of flight cancellations ) Tj
+0.00 -10.48 TD
+(and delays at our facilities. As a result, passenger traffic ) Tj
+0.00 -10.52 TD
+(decreased 1.2%, pushing YTD down 0.9%. Nearly 20,000 ) Tj
+0.00 -10.48 TD
+(flights were cancelled in January and February, compared) Tj
+0.00 -10.48 TD
+(to only 6,000 for the same period last year. Domestic ) Tj
+0.00 -10.52 TD
+(traffic bore the brunt of cancellations, falling 3.6%. In ) Tj
+0.00 -10.48 TD
+(contrast, international traffic was affected mostly by delays) Tj
+0.00 -10.48 TD
+(and was able to post a 3.9% gain. Transatlantic ) Tj
+0.00 -10.52 TD
+(passenger traffic was a major contributor following seat ) Tj
+0.00 -10.48 TD
+(capacity increases and a more favorable outlook for ) Tj
+0.00 -10.48 TD
+(economic growth across the ocean. Cargo tonnage ) Tj
+0.00 -10.52 TD
+(decreased 5% at our facilities, continuing the negative ) Tj
+0.00 -10.48 TD
+(sentiment that carried over from last year.) Tj
+-0.04 -12.04 TD
+(Current month,12 months ending,year-to-date totals) Tj
+0.00 -10.48 TD
+(Showing percentage change from prior year period) Tj
+28.12 -202.16 TD
+/F3 10.00 Tf
+(Total) Tj
+231.04 -340.28 TD
+/F0 10.00 Tf
+( 191,617) Tj
+216.88 0.56 TD
+( 2,750,041) Tj
+-51.92 -0.24 TD
+(-2.7) Tj
+112.08 0.28 TD
+(-9.4) Tj
+-507.60 0.28 TD
+/F3 10.00 Tf
+(Total suburban airport passengers ) Tj
+284.88 247.36 TD
+/F0 10.00 Tf
+(-5.0) Tj
+2.24 -247.64 TD
+(-4.9) Tj
+53.92 -0.48 TD
+( 399,125) Tj
+-108.28 381.32 TD
+/F1 10.00 Tf
+( 58,919) Tj
+0.00 -12.76 TD
+( 19,659) Tj
+5.24 -12.76 TD
+( 5,268) Tj
+99.96 25.52 TD
+( 124,141) Tj
+5.24 -12.76 TD
+( 41,806) Tj
+0.00 -12.76 TD
+( 10,614) Tj
+109.44 25.52 TD
+( 882,475) Tj
+0.00 -12.76 TD
+( 282,532) Tj
+5.24 -12.76 TD
+( 82,111) Tj
+-173.84 25.52 TD
+(-8.6) Tj
+0.00 -12.76 TD
+(-2.4) Tj
+0.00 -12.76 TD
+( 2.8) Tj
+107.24 25.52 TD
+(-9.2) Tj
+0.00 -12.76 TD
+(-2.5) Tj
+0.00 -12.76 TD
+( 1.3) Tj
+-152.47 -140.08 TD
+/F0 10.00 Tf
+( 9,525) Tj
+105.24 0.00 TD
+( 21,325) Tj
+109.40 -0.48 TD
+( 155,518) Tj
+-173.84 0.48 TD
+(-21.0) Tj
+107.28 0.00 TD
+(-13.7) Tj
+118.48 -0.48 TD
+(-8.8) Tj
+-271.80 59.00 TD
+/F1 10.00 Tf
+( 47,489) Tj
+0.00 -12.80 TD
+( 95,887) Tj
+46.04 12.80 TD
+(-12.4) Tj
+5.28 -12.80 TD
+(-0.9) Tj
+53.92 12.80 TD
+( 101,749) Tj
+0.00 -12.80 TD
+( 195,760) Tj
+48.08 12.80 TD
+(-12.2) Tj
+5.24 -12.80 TD
+(-0.7) Tj
+61.32 12.80 TD
+( 686,480) Tj
+-8.24 -12.80 TD
+( 1,305,604) Tj
+55.04 12.80 TD
+(-11.1) Tj
+5.24 -12.80 TD
+(-0.3) Tj
+-277.16 -79.56 TD
+( 531,692) Tj
+0.00 -12.12 TD
+( 520,921) Tj
+0.00 -12.16 TD
+( 565,591) Tj
+0.00 -12.16 TD
+( 105,923) Tj
+61.04 36.44 TD
+(-8.1) Tj
+-5.24 -12.12 TD
+(-12.0) Tj
+0.00 -12.16 TD
+( 12.7) Tj
+0.00 -12.16 TD
+( 13.8) Tj
+46.40 36.44 TD
+( 1,185,132) Tj
+0.00 -12.12 TD
+( 1,133,109) Tj
+0.00 -12.16 TD
+( 1,125,467) Tj
+8.27 -12.16 TD
+( 215,417) Tj
+63.80 36.44 TD
+(-5.1) Tj
+-5.24 -12.12 TD
+(-10.4) Tj
+5.24 -12.16 TD
+( 6.3) Tj
+0.00 -12.16 TD
+( 4.7) Tj
+42.60 36.32 TD
+( 8,527,677) Tj
+0.00 -12.16 TD
+( 8,174,161) Tj
+0.00 -12.16 TD
+( 8,456,035) Tj
+0.00 -12.16 TD
+( 1,671,843) Tj
+60.16 36.48 TD
+(-1.1) Tj
+0.00 -12.16 TD
+(-1.9) Tj
+0.00 -12.16 TD
+( 8.3) Tj
+0.00 -12.16 TD
+( 1.2) Tj
+-0.68 236.04 TD
+(-1.0) Tj
+0.00 -12.76 TD
+( 1.8) Tj
+0.00 -12.76 TD
+( 0.2) Tj
+ET
+q
+168.76 45.32 402.00 9.68 re W n
+BT
+168.76 46.76 TD
+/F2 8.00 Tf
+(Other Information about our airports? Visit URL: www.panynj.gov/airports/general-information.html?tabnum=2 ) Tj
+ET
+Q 0 g 0 G
+BT
+11.28 49.00 TD
+/F2 8.00 Tf
+(15-APR-14 04:34 PM) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+10.52 496.12 546.76 15.00 re S
+BT
+33.76 501.36 TD
+/F3 10.00 Tf
+(Non Revenue Passengers) Tj
+228.48 -1.48 TD
+/F0 10.00 Tf
+( 233,917) Tj
+56.72 0.00 TD
+(-5.8) Tj
+53.76 0.00 TD
+( 500,649) Tj
+53.44 0.00 TD
+(-6.0) Tj
+52.96 0.00 TD
+( 3,697,764) Tj
+59.56 0.00 TD
+( 0.8) Tj
+ET
+9.76 480.24 547.52 14.24 re S
+BT
+254.04 484.16 TD
+( 1,051,556) Tj
+64.96 0.00 TD
+(-7.5) Tj
+45.52 0.00 TD
+( 2,230,126) Tj
+61.68 0.00 TD
+(-5.2) Tj
+47.72 0.00 TD
+( 17,505,249) Tj
+64.80 0.00 TD
+( 4.8) Tj
+-514.76 0.56 TD
+/F3 8.00 Tf
+(Note: Commuter - Regional Pax incl. in above ) Tj
+ET
+9.76 371.52 548.24 15.76 re S
+BT
+24.76 376.04 TD
+(Note: Commuter - Regional Flights incl. in above) Tj
+240.36 -0.60 TD
+/F0 10.00 Tf
+( 26,574) Tj
+46.04 0.00 TD
+(-13.9) Tj
+64.44 0.00 TD
+( 56,784) Tj
+42.84 0.00 TD
+(-13.6) Tj
+66.56 0.00 TD
+( 420,225) Tj
+52.04 0.00 TD
+(-0.3) Tj
+ET
+Q 0 g 0 G
+
+endstream
+endobj
+15 0 obj
+9853
+endobj
+16 0 obj
+<</Type /Font
+/Name /F2
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#49#74#61#6C#69#63
+/FirstChar 24
+/LastChar 255
+/Widths 17 0 R
+/FontDescriptor 18 0 R
+>>
+endobj
+17 0 obj
+[750 750 750 750 750 750 750 750 300 300 
+375 525 525 900 675 150 300 300 375 600 
+300 300 300 300 525 525 525 525 525 525 
+525 525 525 525 300 300 600 600 600 525 
+975 675 675 675 675 675 600 750 675 300 
+525 675 525 750 675 750 675 750 675 675 
+600 675 675 975 675 675 600 300 300 300 
+450 525 300 525 600 525 525 525 300 525 
+525 225 225 600 225 825 525 525 525 525 
+300 525 300 525 450 600 450 450 525 300 
+225 300 600 750 525 0 225 525 300 975 
+525 525 300 1050 675 300 975 0 600 0 
+0 225 150 300 300 300 525 975 225 975 
+525 300 900 0 525 675 300 300 525 525 
+600 525 225 525 300 750 375 525 600 300 
+750 525 375 525 300 300 300 525 525 300 
+300 375 375 525 825 825 825 600 675 675 
+675 675 675 675 975 675 675 675 675 675 
+300 300 300 300 675 675 750 750 750 750 
+750 600 750 675 675 675 675 675 675 600 
+525 525 525 525 525 525 900 525 525 525 
+525 525 225 225 225 225 525 525 525 525 
+525 525 525 525 600 525 525 525 525 450 
+525 450 ]
+endobj
+18 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#49#74#61#6C#69#63
+/Ascent 975
+/CapHeight 750
+/Descent -225
+/Flags 96
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle -11
+/StemV 0
+/AvgWidth 450
+/MaxWidth 1050
+>>
+endobj
+19 0 obj
+<</Type /Font
+/Name /F3
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /#41#72#69#61#6C#2C#42#6F#6C#64#49#74#61#6C#69#63
+/FirstChar 24
+/LastChar 255
+/Widths 20 0 R
+/FontDescriptor 21 0 R
+>>
+endobj
+20 0 obj
+[750 750 750 750 750 750 750 750 281 281 
+469 563 563 750 750 281 375 375 375 563 
+281 375 281 281 563 563 563 563 563 563 
+563 563 563 563 375 375 563 563 563 563 
+938 750 750 750 750 656 656 844 750 281 
+563 750 656 1031 750 844 750 844 750 656 
+656 750 656 1031 750 656 656 375 281 375 
+563 563 375 656 656 563 656 563 375 656 
+656 375 375 656 375 938 656 656 656 656 
+469 469 375 656 563 750 469 563 563 375 
+281 375 563 750 563 0 281 563 563 1031 
+563 563 375 938 656 375 1031 0 656 0 
+0 281 281 563 563 375 563 1031 375 1031 
+469 375 938 0 563 656 281 375 563 563 
+563 563 281 563 375 844 375 563 563 375 
+844 563 375 656 375 375 375 656 563 375 
+375 375 375 656 844 844 844 563 750 750 
+750 750 750 750 1031 750 656 656 656 656 
+281 281 281 281 750 750 844 844 844 844 
+844 563 844 750 750 750 750 656 656 656 
+656 656 656 656 656 656 938 563 563 563 
+563 563 375 375 375 375 656 656 656 656 
+656 656 656 563 656 656 656 656 656 563 
+656 563 ]
+endobj
+21 0 obj
+<<
+/Type /FontDescriptor
+/FontName /#41#72#69#61#6C#2C#42#6F#6C#64#49#74#61#6C#69#63
+/Ascent 1031
+/CapHeight 844
+/Descent -188
+/Flags 96
+/FontBBox [-664 -324 2000 1005]
+/ItalicAngle -11
+/StemV 0
+/AvgWidth 563
+/MaxWidth 1031
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text ] /Font << /F0 7 0 R /F2 16 0 R /F1 10 0 R /F3 19 0 R >> >>
+/Contents 14 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+23 0 obj
+<</Length 24 0 R>>
+stream
+q
+0.00 0.00 603.72 792.00 re W n
+0.00 w
+0 J
+0 j
+[] 0 d
+20.20 744.72 m 374.96 744.72 l 
+20.20 473.84 m 374.96 473.84 l 
+20.20 744.72 m 20.20 473.84 l S
+20.20 715.76 354.76 13.96 re S
+BT
+43.44 705.72 TD
+/F0 8.00 Tf
+(UNITED) Tj
+0.00 -12.00 TD
+(DELTA) Tj
+0.00 -12.04 TD
+(JETBLUE AIRWAYS) Tj
+0.00 -12.00 TD
+(AMERICAN) Tj
+0.00 -12.00 TD
+(US AIRWAYS) Tj
+0.00 -12.00 TD
+(SOUTHWEST AIRLINES) Tj
+0.00 -12.00 TD
+(SPIRIT AIRLINES) Tj
+0.00 -12.00 TD
+(BRITISH AIRWAYS) Tj
+0.00 -12.00 TD
+(AIR CANADA) Tj
+0.00 -12.04 TD
+(VIRGIN AMERICA) Tj
+0.00 -12.00 TD
+(LUFTHANSA) Tj
+0.00 -12.00 TD
+(VIRGIN ATLANTIC) Tj
+0.00 -12.00 TD
+(AIR FRANCE) Tj
+ET
+q
+43.44 545.88 99.76 12.00 re W n
+BT
+43.44 549.64 TD
+(EMIRATES AIRLINES & SK) Tj
+ET
+Q 0 g 0 G
+BT
+43.44 537.64 TD
+/F0 8.00 Tf
+(CATHAY PACIFIC) Tj
+0.00 -12.00 TD
+(CARIBBEAN AIR) Tj
+0.00 -12.04 TD
+(EL AL) Tj
+ET
+q
+43.44 497.84 99.76 12.00 re W n
+BT
+43.44 501.60 TD
+(SWISS INT'L AIR LINES LT) Tj
+ET
+Q 0 g 0 G
+BT
+43.44 489.60 TD
+/F0 8.00 Tf
+(ALITALIA) Tj
+0.00 -12.00 TD
+(TURKISH AIR) Tj
+1.48 241.92 TD
+(Airline Name) Tj
+115.64 -13.80 TD
+/F1 8.00 Tf
+( 20,215,456) Tj
+0.00 -12.00 TD
+( 18,979,455) Tj
+0.00 -12.04 TD
+( 11,900,659) Tj
+4.52 -12.00 TD
+( 9,986,968) Tj
+0.00 -12.00 TD
+( 5,001,356) Tj
+0.00 -12.00 TD
+( 3,199,264) Tj
+0.00 -12.00 TD
+( 2,263,169) Tj
+31.48 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+-31.48 -12.04 TD
+( 1,312,916) Tj
+31.48 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.04 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+-33.00 241.92 TD
+/F0 8.00 Tf
+(Domestic) Tj
+72.00 -13.80 TD
+/F1 8.00 Tf
+( 7,649,003) Tj
+0.00 -12.00 TD
+( 4,932,537) Tj
+0.00 -12.04 TD
+( 2,685,713) Tj
+0.00 -12.00 TD
+( 3,407,896) Tj
+31.52 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+0.00 -12.00 TD
+( 0) Tj
+-31.52 -12.00 TD
+( 1,638,924) Tj
+0.00 -12.00 TD
+( 1,365,688) Tj
+31.52 -12.04 TD
+( 0) Tj
+-31.52 -12.00 TD
+( 1,049,580) Tj
+0.00 -12.00 TD
+( 1,012,287) Tj
+6.76 -12.00 TD
+( 934,595) Tj
+0.00 -12.00 TD
+( 679,134) Tj
+0.00 -12.00 TD
+( 641,062) Tj
+0.00 -12.00 TD
+( 592,313) Tj
+0.00 -12.04 TD
+( 568,932) Tj
+0.00 -12.00 TD
+( 540,060) Tj
+0.00 -12.00 TD
+( 515,202) Tj
+0.00 -12.00 TD
+( 500,888) Tj
+19.52 241.92 TD
+/F0 8.00 Tf
+(Intl) Tj
+33.76 -13.80 TD
+( 27,864,459) Tj
+0.00 -12.00 TD
+( 23,911,992) Tj
+0.00 -12.04 TD
+( 14,586,372) Tj
+0.00 -12.00 TD
+( 13,394,864) Tj
+4.52 -12.00 TD
+( 5,001,356) Tj
+0.00 -12.00 TD
+( 3,199,264) Tj
+0.00 -12.00 TD
+( 2,263,169) Tj
+0.00 -12.00 TD
+( 1,638,924) Tj
+0.00 -12.00 TD
+( 1,365,688) Tj
+0.00 -12.04 TD
+( 1,312,916) Tj
+0.00 -12.00 TD
+( 1,049,580) Tj
+0.00 -12.00 TD
+( 1,012,287) Tj
+6.72 -12.00 TD
+( 934,595) Tj
+0.00 -12.00 TD
+( 679,134) Tj
+0.00 -12.00 TD
+( 641,062) Tj
+0.00 -12.00 TD
+( 592,313) Tj
+0.00 -12.04 TD
+( 568,932) Tj
+0.00 -12.00 TD
+( 540,060) Tj
+0.00 -12.00 TD
+( 515,202) Tj
+0.00 -12.00 TD
+( 500,888) Tj
+12.00 241.92 TD
+(Total) Tj
+-290.76 -13.80 TD
+/F1 8.00 Tf
+(1) Tj
+0.00 -12.00 TD
+(2) Tj
+0.00 -12.04 TD
+(3) Tj
+0.00 -12.00 TD
+(4) Tj
+0.00 -12.00 TD
+(5) Tj
+0.00 -12.00 TD
+(6) Tj
+0.00 -12.00 TD
+(7) Tj
+0.00 -12.00 TD
+(8) Tj
+0.00 -12.00 TD
+(9) Tj
+-2.24 -12.04 TD
+(10) Tj
+0.00 -12.00 TD
+(11) Tj
+0.00 -12.00 TD
+(12) Tj
+0.00 -12.00 TD
+(13) Tj
+0.00 -12.00 TD
+(14) Tj
+0.00 -12.00 TD
+(15) Tj
+0.00 -12.00 TD
+(16) Tj
+0.00 -12.04 TD
+(17) Tj
+0.00 -12.00 TD
+(18) Tj
+0.00 -12.00 TD
+(19) Tj
+0.00 -12.00 TD
+(20) Tj
+93.36 255.88 TD
+/F0 11.00 Tf
+(Airline Ranking by Passengers) Tj
+-98.64 -15.00 TD
+/F0 8.00 Tf
+(Rank) Tj
+332.76 -12.76 TD
+/F1 8.00 Tf
+( 24.6) Tj
+0.00 -12.00 TD
+( 45.8) Tj
+0.00 -12.04 TD
+( 58.7) Tj
+0.00 -12.00 TD
+( 70.5) Tj
+0.00 -12.00 TD
+( 75.0) Tj
+0.00 -12.00 TD
+( 77.8) Tj
+0.00 -12.00 TD
+( 79.8) Tj
+0.00 -12.00 TD
+( 81.2) Tj
+0.00 -12.00 TD
+( 82.5) Tj
+0.00 -12.04 TD
+( 83.6) Tj
+0.00 -12.00 TD
+( 84.5) Tj
+0.00 -12.00 TD
+( 85.4) Tj
+0.00 -12.00 TD
+( 86.3) Tj
+0.00 -12.00 TD
+( 86.9) Tj
+0.00 -12.00 TD
+( 87.4) Tj
+0.00 -12.00 TD
+( 88.0) Tj
+0.00 -12.04 TD
+( 88.5) Tj
+0.00 -12.00 TD
+( 88.9) Tj
+0.00 -12.00 TD
+( 89.4) Tj
+0.00 -12.00 TD
+( 89.8) Tj
+-9.08 241.92 TD
+/F0 8.00 Tf
+(Cum %) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+376.48 475.20 208.44 271.76 re S
+376.48 717.68 208.44 14.28 re S
+BT
+402.72 707.08 TD
+(FEDERAL EXPRESS) Tj
+0.00 -12.04 TD
+(UNITED PARCEL) Tj
+0.00 -12.00 TD
+(AMERICAN) Tj
+0.00 -12.00 TD
+(DELTA) Tj
+0.00 -12.00 TD
+(UNITED) Tj
+0.00 -12.00 TD
+(LUFTHANSA) Tj
+0.00 -12.00 TD
+(BRITISH AIRWAYS) Tj
+0.00 -12.00 TD
+(CATHAY PACIFIC) Tj
+0.00 -12.04 TD
+(KOREAN) Tj
+ET
+q
+402.72 595.24 83.20 12.00 re W n
+BT
+402.72 599.00 TD
+(CHINA AIRLINES \(CAL) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 587.00 TD
+/F0 8.00 Tf
+(ASIANA) Tj
+0.00 -12.00 TD
+(VIRGIN ATLANTIC) Tj
+0.00 -12.00 TD
+(EVA) Tj
+0.00 -12.00 TD
+(TNT AIRWAYS) Tj
+0.00 -12.00 TD
+(ABX AIR INC) Tj
+ET
+q
+402.72 523.20 83.20 12.00 re W n
+BT
+402.72 526.96 TD
+(CARGOLUX AIRLINES) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 514.96 TD
+/F0 8.00 Tf
+(ANA \(ALL NIPPON\)) Tj
+0.00 -12.00 TD
+(AIR FRANCE) Tj
+ET
+q
+402.72 487.20 83.20 12.00 re W n
+BT
+402.72 490.96 TD
+(SWISS INT'L AIR LINE) Tj
+ET
+Q 0 g 0 G
+q
+402.72 475.20 83.20 12.00 re W n
+BT
+402.72 478.96 TD
+/F0 8.00 Tf
+(AIR CHINA INTERNATI) Tj
+ET
+Q 0 g 0 G
+BT
+402.72 721.44 TD
+/F0 8.00 Tf
+(Airline Name) Tj
+114.88 -14.36 TD
+( 415,998) Tj
+0.00 -12.04 TD
+( 178,673) Tj
+0.00 -12.00 TD
+( 116,728) Tj
+0.00 -12.00 TD
+( 110,876) Tj
+4.48 -12.00 TD
+( 93,680) Tj
+0.00 -12.00 TD
+( 69,719) Tj
+0.00 -12.00 TD
+( 59,167) Tj
+0.00 -12.00 TD
+( 58,627) Tj
+0.00 -12.04 TD
+( 52,829) Tj
+0.00 -12.00 TD
+( 49,405) Tj
+0.00 -12.00 TD
+( 45,145) Tj
+0.00 -12.00 TD
+( 43,028) Tj
+0.00 -12.00 TD
+( 41,669) Tj
+0.00 -12.00 TD
+( 40,526) Tj
+0.00 -12.00 TD
+( 37,220) Tj
+0.00 -12.04 TD
+( 35,453) Tj
+0.00 -12.00 TD
+( 29,015) Tj
+0.00 -12.00 TD
+( 28,159) Tj
+0.00 -12.00 TD
+( 27,548) Tj
+0.00 -12.00 TD
+( 24,360) Tj
+4.24 242.48 TD
+(Tons) Tj
+-106.00 14.28 TD
+/F0 10.00 Tf
+(Ranking by Freight Volume) Tj
+-43.84 -14.28 TD
+/F0 8.00 Tf
+(Rank) Tj
+178.52 -0.72 TD
+(Cum%) Tj
+ET
+1.00 w
+0 J
+0 j
+[] 0 d
+189.96 755.20 327.52 19.52 re S
+q
+190.44 758.20 204.00 12.76 re W n
+BT
+215.96 760.48 TD
+/F0 11.00 Tf
+(Top 20 Airlines 12 months ending ) Tj
+ET
+Q 0 g 0 G
+q
+397.44 758.96 96.00 11.24 re W n
+BT
+397.44 759.72 TD
+/F0 11.00 Tf
+(February 2014) Tj
+ET
+Q 0 g 0 G
+BT
+21.68 756.00 TD
+/F0 18.00 Tf
+(Region) Tj
+ET
+0.00 w
+0 J
+0 j
+[] 0 d
+19.44 62.72 569.24 228.44 re S
+BT
+479.96 263.16 TD
+/F3 8.00 Tf
+(Flights \(daily\)) Tj
+79.00 0.00 TD
+(Cities) Tj
+-47.84 -35.40 TD
+/F1 8.00 Tf
+(1148.9) Tj
+57.00 0.16 TD
+(103) Tj
+-545.91 35.60 TD
+/F0 8.00 Tf
+(Domestic Passenger Service) Tj
+151.88 -0.76 TD
+/F3 8.00 Tf
+(Flights \(daily\)) Tj
+91.20 0.32 TD
+(Airlines) Tj
+-218.76 16.20 TD
+/F0 9.00 Tf
+(OAG schedules: airlines serving) Tj
+157.96 -52.40 TD
+/F1 8.00 Tf
+( 1148.9) Tj
+82.00 0.00 TD
+( 19) Tj
+-263.12 -13.20 TD
+/F0 8.00 Tf
+(International Passenger Service) Tj
+186.00 -47.88 TD
+/F1 8.00 Tf
+( 356.6) Tj
+77.52 0.00 TD
+( 68) Tj
+-263.88 -14.08 TD
+/F0 8.00 Tf
+(Freighter Service) Tj
+191.24 -50.12 TD
+/F1 8.00 Tf
+( 11.2) Tj
+73.04 0.00 TD
+( 16) Tj
+-264.04 -18.68 TD
+/F0 8.00 Tf
+(@USA Airlines\(Un-duplicated\)) Tj
+0.00 -14.24 TD
+(@Foreign Airlines\(Un-duplicated\)) Tj
+182.24 14.24 TD
+/F1 8.00 Tf
+( 1345.3) Tj
+4.52 -14.24 TD
+( 171.4) Tj
+77.28 14.24 TD
+( 17) Tj
+0.00 -14.24 TD
+( 65) Tj
+75.84 210.04 TD
+/F0 9.00 Tf
+(OAG schedules: Nonstop Destinations) Tj
+-177.64 1.04 TD
+/F0 8.00 Tf
+(Region) Tj
+-48.28 -53.00 TD
+/F3 8.00 Tf
+(@Sub-Total) Tj
+-1.12 -61.12 TD
+(@Sub-Total) Tj
+-0.36 -63.36 TD
+(@Sub-Total) Tj
+296.24 125.36 TD
+(@Sub-Total) Tj
+83.32 -122.84 TD
+/F1 8.00 Tf
+(360.9) Tj
+52.48 0.16 TD
+(119) Tj
+-136.16 -0.32 TD
+/F3 8.00 Tf
+(@Sub-Total) Tj
+-123.72 108.72 TD
+/F0 8.00 Tf
+(International nonstop cities served) Tj
+202.80 -125.84 TD
+/F1 8.00 Tf
+(1509.8) Tj
+57.40 1.04 TD
+(222) Tj
+ET
+20.96 342.24 279.00 127.60 re S
+20.96 442.88 279.00 12.00 re S
+BT
+23.96 432.96 TD
+/F0 8.00 Tf
+(DOMESTIC) Tj
+0.00 -14.12 TD
+(CANADA) Tj
+0.00 -14.16 TD
+(CARIBBEAN + BERMUDA) Tj
+0.00 -14.12 TD
+(CENTRAL AND SOUTH AMERICA) Tj
+0.00 -14.16 TD
+(MEXICO) Tj
+0.00 -14.12 TD
+(TRANSATLANTIC) Tj
+0.00 -14.16 TD
+(TRANSPACIFIC) Tj
+-3.00 98.52 TD
+(12 Month Ending Data) Tj
+168.00 -13.68 TD
+/F1 8.00 Tf
+( 73,701,308) Tj
+4.52 -14.12 TD
+( 3,606,364) Tj
+0.00 -14.16 TD
+( 5,716,789) Tj
+0.00 -14.12 TD
+( 3,409,823) Tj
+0.00 -14.16 TD
+( 1,552,245) Tj
+-4.52 -14.12 TD
+( 21,927,156) Tj
+4.52 -14.16 TD
+( 3,557,490) Tj
+-12.64 98.52 TD
+/F0 8.00 Tf
+(Passengers) Tj
+85.40 -13.68 TD
+/F1 8.00 Tf
+( 686,480) Tj
+15.76 -14.12 TD
+( 131) Tj
+-11.24 -14.16 TD
+( 19,351) Tj
+0.00 -14.12 TD
+( 65,847) Tj
+4.48 -14.16 TD
+( 7,609) Tj
+-9.00 -14.12 TD
+( 814,845) Tj
+0.00 -14.16 TD
+( 397,821) Tj
+0.52 98.52 TD
+/F0 8.00 Tf
+(Freight) Tj
+-194.08 11.96 TD
+/F0 10.00 Tf
+(Passengers & Freight by Market Group) Tj
+ET
+304.48 291.56 284.00 183.56 re S
+302.95 471.60 m 302.95 289.32 l S
+BT
+307.44 86.76 TD
+/F0 8.00 Tf
+(Total number of cities having nonstop services) Tj
+ET
+302.95 291.16 m 302.95 62.72 l S
+19.44 273.16 m 301.44 273.16 l S
+304.20 273.20 m 588.72 273.20 l S
+BT
+401.20 53.52 TD
+/F2 8.00 Tf
+(Run from Traffic_Summary3.RDF) Tj
+-375.36 0.00 TD
+(15-APR-14 04:34 PM) Tj
+360.76 653.56 TD
+/F1 8.00 Tf
+(1) Tj
+0.00 -12.04 TD
+(2) Tj
+0.00 -12.00 TD
+(3) Tj
+0.00 -12.00 TD
+(4) Tj
+0.00 -12.00 TD
+(5) Tj
+0.00 -12.00 TD
+(6) Tj
+0.00 -12.00 TD
+(7) Tj
+0.00 -12.00 TD
+(8) Tj
+0.00 -12.04 TD
+(9) Tj
+-2.24 -12.00 TD
+(10) Tj
+0.00 -12.00 TD
+(11) Tj
+0.00 -12.00 TD
+(12) Tj
+0.00 -12.00 TD
+(13) Tj
+0.00 -12.00 TD
+(14) Tj
+0.00 -12.00 TD
+(15) Tj
+0.00 -12.04 TD
+(16) Tj
+0.00 -12.00 TD
+(17) Tj
+0.00 -12.00 TD
+(18) Tj
+0.00 -12.00 TD
+(19) Tj
+0.00 -12.00 TD
+(20) Tj
+178.88 228.12 TD
+( 20.9) Tj
+0.00 -12.04 TD
+( 29.9) Tj
+0.00 -12.00 TD
+( 35.7) Tj
+0.00 -12.00 TD
+( 41.3) Tj
+0.00 -12.00 TD
+( 46.0) Tj
+0.00 -12.00 TD
+( 49.5) Tj
+0.00 -12.00 TD
+( 52.4) Tj
+0.00 -12.00 TD
+( 55.4) Tj
+0.00 -12.04 TD
+( 58.0) Tj
+0.00 -12.00 TD
+( 60.5) Tj
+0.00 -12.00 TD
+( 62.8) Tj
+0.00 -12.00 TD
+( 65.0) Tj
+0.00 -12.00 TD
+( 67.0) Tj
+0.00 -12.00 TD
+( 69.1) Tj
+0.00 -12.00 TD
+( 70.9) Tj
+0.00 -12.04 TD
+( 72.7) Tj
+0.00 -12.00 TD
+( 74.2) Tj
+0.00 -12.00 TD
+( 75.6) Tj
+0.00 -12.00 TD
+( 77.0) Tj
+0.00 -12.00 TD
+( 78.2) Tj
+-526.04 -229.12 TD
+(Scheduled) Tj
+0.00 -10.48 TD
+(Commuter) Tj
+172.00 10.48 TD
+( 670.9) Tj
+0.00 -10.48 TD
+( 478.0) Tj
+76.88 10.48 TD
+( 15) Tj
+4.48 -10.48 TD
+( 4) Tj
+-252.96 -39.36 TD
+(Scheduled:  USA Flag) Tj
+0.00 -10.52 TD
+(Scheduled:  Foreign Flag) Tj
+0.00 -10.48 TD
+(Commuter:  USA Flag) Tj
+171.76 21.00 TD
+( 148.7) Tj
+0.00 -10.52 TD
+( 161.8) Tj
+4.48 -10.48 TD
+( 46.1) Tj
+77.64 21.00 TD
+( 5) Tj
+-4.48 -10.52 TD
+( 61) Tj
+4.48 -10.48 TD
+( 2) Tj
+-254.04 -40.92 TD
+(All Cargo:  USA Flag) Tj
+0.00 -11.64 TD
+(All Cargo:  Foreign Flag) Tj
+0.00 -11.64 TD
+(Scheduled Passenger:  Foreign Flag) Tj
+181.32 23.28 TD
+( 2.6) Tj
+0.00 -11.64 TD
+( 1.9) Tj
+0.00 -11.64 TD
+( 6.7) Tj
+73.12 23.28 TD
+( 3) Tj
+0.00 -11.64 TD
+( 3) Tj
+-4.52 -11.64 TD
+( 10) Tj
+20.88 148.36 TD
+/F0 8.00 Tf
+(Domestic nonstop cities served) Tj
+7.48 -10.96 TD
+/F1 8.00 Tf
+(Jet Service Provided ) Tj
+0.00 -11.84 TD
+(Service Exclusively by Regional Airlines ) Tj
+197.64 11.08 TD
+( 921.1) Tj
+0.00 -11.84 TD
+( 227.8) Tj
+56.24 12.60 TD
+( 69) Tj
+0.00 -11.84 TD
+( 34) Tj
+-251.64 -38.24 TD
+(Jet service provided) Tj
+9.72 -11.68 TD
+(Canada ) Tj
+0.00 -11.80 TD
+(Central America Less Mexico ) Tj
+0.00 -11.84 TD
+(Mexico ) Tj
+0.00 -11.84 TD
+(Carribean and Bermuda ) Tj
+0.00 -11.84 TD
+(South America ) Tj
+0.00 -11.84 TD
+(Transatlantic ) Tj
+0.00 -11.84 TD
+(Transpacific ) Tj
+241.88 71.00 TD
+( 10) Tj
+4.52 -11.80 TD
+( 7) Tj
+0.00 -11.84 TD
+( 5) Tj
+-4.52 -11.84 TD
+( 23) Tj
+0.00 -11.84 TD
+( 11) Tj
+0.00 -11.84 TD
+( 50) Tj
+0.00 -11.84 TD
+( 13) Tj
+-56.20 71.00 TD
+( 100.9) Tj
+4.48 -11.80 TD
+( 14.6) Tj
+0.00 -11.84 TD
+( 19.3) Tj
+0.00 -11.84 TD
+( 64.3) Tj
+0.00 -11.84 TD
+( 20.8) Tj
+-4.48 -11.84 TD
+( 119.3) Tj
+4.48 -11.84 TD
+( 21.7) Tj
+ET
+1 G
+1.00 w
+304.95 292.08 282.24 182.00 re S
+q 281.24 0 0 143.68 305.44 329.92 cm /im1 Do Q
+Q 0 g 0 G
+
+endstream
+endobj
+24 0 obj
+12494
+endobj
+25 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Name /im1
+/Width 507
+/Height 259
+/BitsPerComponent 8
+/ColorSpace [/Indexed /DeviceRGB 255 26 0 R]
+/Filter [/ASCII85Decode /FlateDecode] 
+/Length 27 0 R
+>>
+stream
+Gb"/LMkA`^Os[.E-&PTA\g^;2N1?]mM&ADKNR-;GbW:qj-^2Zs3m$4&mHs8qli6u@%eTm\'IAmt
+l5&JNr=W%'![(g'!eCkh"b@IC?G(OQil-fl04$gn$%%)b_7cX*4C!1WqA"u;EKaHu7gFA5LFW\_
+ggSsoVE0Y0#B#ja[\g6V<B0H>h<IG.8Z5LaM1/raNOO$!l)phV1"?!*It"XIl"]'/\Z&On31k#j
+>qUqY%DID1ApsVAeu,T%&%<?M2*I2\40<GrW^X5uX@b<uZElmJ>F-tfC.jXorB;-L1lK9I8"8&3
+P-1(h,iAC)+c4<?G((%s#/Sf"_c2d*)iY*6FKA8;JQ#Sj*(1$_q>hT@lIObcm@6&Xg_uu:mS3?C
+r--YE6q]=`]V``sq#'C/gk`sp(O@?N3(Z[Si-`>`HMDrQhUrV3)6M5a:NOL@?UZ]/deD_HC"mW_
+RkZeRSO.K`*lI<]q1-sBS1i.3+c\&NAc)k#bB0(YC,/Kj(6(O!@jcpPP=q+Vq#roQqrZ!Oj";70
+5J)fjX3]#mWkJ4%-S=&P@tE4#;LY=ISoZB"[F$Df-oHWaHCi$q8?nfjnsktWh*95jVPpG04m`c/
+['ITMBoZ!Qf-E"6`2XS)26D:8+%&tb%&iu8<*DpeP^lV6$6h-->(aPb!C'L-I-FWNPFGn,BeCa;
++]d;(<%@.K]:]P%_5M7O3.o@#<AD2Gf`bCQ.N4?L%M=\eQ_[bRHXf_M_AWk79Z]&R)]GrEnRl38
+7*j,+:.?PCPUPZI(!A]tmg=E9l_`ofc7-Mno>$'rGE,?(U[Wt_RKo+?8D/=5B8UG\eN4&Z5Klbp
+/XS/))A@U/-fO"]E*uU-UT/u2c]?JdiP<)aYn@J8Pu==Z6HP#YEsD*RDMu9nA_96pl'u*<P#o2]
+F*#h0eY;GF6q[>P8F&uf9Zs6p(McuS;tZoE=q4'a'S\2<ht&!l1k^CAG)Fh?oOa=SFq/$L.M]qA
+-8f;PFAsg]%o1+k4UBUUKmKGPAQ0N7:WlrAKY&>=ob5IM4\e^WY0A&5_[c=AB2g5!TU:pjF1c,p
+2>mb1]')LOK;s]6Q%tm0["j!uJ6q5".E8!ABc4IGC]]h3C/qc8%lda!Rd-kR?.bNRlhR_B!^.!7
+kpsi8C#<m7b%<c]%)^%l3hWsU5312aSDQVbi"-fC_-0&J]+*RCm(J'?Tc)FOcdd?OI^2/`.@CR/
+oJ1ZF;5iVo/>Kpu5L['4EZ4ORZVj`I@Z3m,608?)Rfk$P!_!3e*Di)RrK5dqP;\4gSY-_I_t1O2
+C1/%75/nq0\EP/cNg=PG;W7hVS.AM6csYW#W:d--:)RFH2rLI^T=K&I2*I?uXN@:4depd"9S_D0
+d#A!=88ip5lAHQ>KCBj))ZO,uF<'dWdWeT=eisJVp57E3e%laPOu,2.8Xj%<M&!,b2O;J;RU1hF
+BaQj..&T)?FmTT#FM&`(>HbCtFj7&Nc=nBt#[.=,<D80sHm5mCVgbSYfG\Q":gP`QQ6'P:UW+&d
+?YM["PZ%WA+/.6]Ut#$.S^s\qrc$(Arc$t5-u787KM3l?[1g\@2/^Rc.!Y@jF@dJAW<Zf:\9qlT
+.]-T#emrtrIm4OI:L='60I.M^A!7+$!`@NRrt6h0F2GBbebL'k$ZmWU[n89HWR!"(KA\8M\:^o=
+[&-T6Ph'JD92f?D0b]Whq#Q-%#]&;)6)&2/I4.h9WCCBf!V9f8qV9%[X7'jf-"-=QJs\IY+D5T-
+2tpAb@9%_U7MCn12#Ydte%FpbTQgMSQq/SajO0ik^Q\%Iab4nK-Bhg2cbRgmSPoghCVa1=$Rc1H
+iKnE[mu>o<n,\9cN(Q[2hJHp#b1;WH12)D<*s.U(H)k5:89kQUnQfLs1c@<&QSa?'5BuN73j!%q
+n<'4!&'J/6\$L%!m'JtDF#GJFP#?,(?3^?,`bX*5IhGgiARiTuJ,W5l($n1PD0[dTO%F8:Tj.96
+n4OH0*L_?n;r=;]F$]DQ`2Xo.POWi[57FsNWu8sb0AlH*l#Zj,a5MePb'DX$HmH(T0GN'G9jd_!
+GHY1C#uGDRGn)1e_fhg\9)<u^44I.[Uf>%8@h$c-&`msn1g<o,,EeB'$+3n6qXn8pnlkM$M\e$Q
+]\HB\?66'c]B=J0il-hBLD*#"CohbKf+$<pE22-@CD>r<"Q'WuZ!2l`U,;rb)eWqf8Gc'sg-qr0
+9cZ3LC:JH_U\9CcX@?<<?eL?J?l!\3#5q56Z[@]n^T$NVd<.NE`5.,81"1^NH\AW'RllCaVoGc(
+]*]\,WeK;mURMY4"NSHol0;1.I5F%,F;[TpEk,SD#lq8.)cS)He^j0p(PIO5D<q!.-!C7HGk9Ec
+/nDnbaB[Z<D]7f=J_"`RH<]Ugk(d\r6b-t/g"j&k>>dC.ARr,*=R2=K"9(f\(^9i-L(;uqkPK;)
+0`ej$?2jq&Qe1a/3nX:[pE'>p8>**Bg0+mIUVQNkjQ7Xl`\!3[8COoYJ:V`/RtQEei6o2'^]%^5
+m5:PsqTHiKl>%e.(_gP^!,\EF1?efZmlHe;p_LChi*M[Xo.oClJpDW7!0E2o@$L!h".T<6Ml,2N
+;h.&^^&&C`Ek]j9Lm\Sm(1<jJdaSc8_;`;_h')7Gboc>;-![+ncN#cp]_PB':jp/V%0\[,dqng2
+H-UQs$D!.Cj/bIcou0K_#T7b';_-suA6"gs`j]4B:!Q$R`J0O.dAHL=o?%fS;&e"4;0DE2$(33*
+?bcqW\&?[XmjGf2HV$nTc6-X!h*-VB*F[`Yg4`4R=57u"+;<E'-uF4!`i=,H,u,Jl-UI&!^MKT6
+>Wm$.3eGit`EDrM[aP78WH/_"=#ERLVILKZbVqNe$,*'5<?S4F!'N];OatOaYA.g)H9/"-q#Pu\
+0%rkM*(i&b0*&R:(KXIE<$ajh#dQhajg>c$T7ea8pK%'W/tiUk<hIfV;b<DS>i9$M#V)relKct/
+a16eZY<kr2hbB>pJ8-Ra,huG*j=PV?F!*BNNDS+\:-n:pFgXM,-TAS^%u`BE`&ou_a\H;fiKVqe
+*AY1:I!`p:>g5\-(eW9?>Z`c_J<?ql,aOW[X(CG2J"iDdRQuRl$>g#a#Xqp(:bBIm*"!H-'hKcu
+\L'=ciKW4L&_YEuIu.EfN<Q)o#_P9*mY3Z5S$bORRi\0J(D5_ZZ<:"R"Odf0c1gIS;%*3FTtZCI
++BZ9l@9a<hn7K`VS$I"<$J(S9o3LA\lb1/63O6"PgA5GBUcYtf087[RWLb.r,tHb^7I/2\^jK81
+@`]U=gm)Z<7e9aSSDM+M]\%Os@WRs?YU]D\@&FC,kJ:bIcnpg2R\*mI3<.36r'mI1ZW$bV?37,O
+MTN8V24#?d>_-g*[-9oJ4>XRld-a@IM_CnE5-0_P8W?QBd%Z[MeFts#ler_Vo!a!tWUdSh=-EV#
+:M_S2$f-b%#6hS%.l!e.)J6QGD63OI9$>q%/P4]uIK4DX<KReg*r;Z2fMX+*po&mA5X-a?C3DkT
+Gk'e4M\e$Q]QcH*PZPF+KsoWkrFqY3-H"IXa`7X>TY0/3^m)imJp=olX%K($d2)CDIk]R.>d'lD
+Ch;B4[)T7Qh_'4Y=X)]C)O@&J\?@#;0aV]Jo(H;Z*IHG0!4Js5ZF/O;]6eN[pE_[)mO<>AA>:n`
+0,-;Wg(/#2D,M)RKqZbN4WT>:lJUn#a+C%[mBj;U*Ptdl3r4<Y>&V&Dqs^6^-P`H&DNkVPC7USt
+3jb"Kq?J:Nd/(pq#n=6"r6OF&&tg_;L.aBEaOVWW.3/%/fn00"H&A3l8>qgBE2_b9RLE1G*C2^$
+GP%5o<-uE(>"b6CK1.2QbUTQ%\Y/V@';/`pbmG[Hk9H==bYoUc8%FFTQ^)63'C%VAJ?`2iW.6O[
+dKqj03fH`U"GnR$66Hot3_43#C)"=$?o/@TnG^u?#\2)NcRq0dXuaH!n=F/g_>`L8<ml$@+)HOs
+`C%F)n9CU9N&Os=5WL?3Ho!$Pl]7e&4,JZ%J]l%])4fkR$$\ruW[UJ*=<1J:]^nWo8&:\)/icL`
+`]'T)Q(#4B&2TGRas`fo';`SX-eO[oHa`O_cL%rC,9JTg(BAu`o+>jK1C?R%,rG>9`@5?$10:^1
+YZGR8L;Mk,G`F0c5m,nI#g?6SK6!+kZ,1%Q=b?a`cucTDrKDi^RG8O9;^u@H1FMst&lo5Y'RH4W
+!H2Eq!@N_YW@&F9E15Va$q2%8;*sO2b-3tOIDMX[R#^Og$G&WY!XK9H6,S;bWc4*?roc`j,]*q_
+#A]AD',J003H7'\#e.oBA&C(DD_]%<)U15.JFDV-Rp"lnX`2@WaC99?2p,lO'Tj#jXkJ`k,=RNk
+2/t]drDQWHr`Ld><>cOIWJ9Z9ENQ+$(s<Qk5YW?#/T"(EYs3q:'TJmT;WS6epd:&@TrC@ed6]^Y
+U%.&2U?8+`':f@qQSaH]OCfh&_RL/AaT?0%bNXsmRL;4]e[I@R;@!E^jQ.Sc5o-1H"l^ac.lD<.
+f`Ygn8uGW+@d?Tu(l]tVLd4Cf/s0[D!4;EtnNlrhLbP5(_Ig&;\\nE&"k\_2!O;DA2@hE0>\kmo
+"6EX\KUnp.R:b(kVN]uOe]qYsn2\SjJTh5mUTcd*>9D4im?AH,>nL@*.u4^g=Tr&VV`eDl.k/]j
+*gFs-&L>c3^iWrfi3TId"sFgJ(Q>ia!&DGNbq>IBZP`Wrp*[<$T6MaW8)@XI0S,ltaC^rLe7h).
+`1bN%\'.eUJ@<6-_VDa@IU&(J$f4/d/jCS^%cot\*!4trMWd[+U8al$'\'61Zh5r<V$!B4U>OfR
+9AOj14j#@]3[Xsuq(MK6a8:A(4io:rkrTFE?B-\J`9MT'O-bWgqd=..EXHjRT'+(N(GB)9:=tO7
+H3iLl-[L4Go,Wg1'<a!GNg6A*/FGs^p:Boqi[AuoVr]#J6/]e$fAThr3-Q)+liG/^Z9\q<9LB-L
+J,Omm&(.[KXB:36`D2M"Ih!T]kr[YX-`Zk(^[a!aEXNX'OlZAndk(GuJW1Vh1/qF<N3;&&O+Zre
+-c5%#CJ<AB24"a1cTcEu_j4M2(*/P1!*6cX3hm`O/EdI\Z%Zuj`1*N;BBt2QaEjggL.W\:FT(@(
+)&<D[TB\ns(koFZ'j2%Z"[Q@$X]]aJ'U0s@k0h(t(iZ6824<RUWIN8,6)]fQ),_/134rn)@!WT&
+GXM_%ErlugYg^6.mIn"ud:%S4!]K']=Kf4IA-84^&#%h(\$+Z^TG,3>`QU*5.!>lpq>Bg+_JtCZ
+X+JOZ^3o#b"Tj`e1>trK$,m.PWKAhe&d8Z;RONl(0ZqrO?'2@EfL[*P#k9anc-oGl2aR5OPFLe_
+$DPFKAZ]'V8>t/@_YE6WEt&N:RUIb-66g>qcl#DIL`L*]Th!2if`+*6Qt),Ti,VR[`(H/%fQJf,
+,SUn=`!(JW[b)J#R1cI<o$l/Qk_-a,>oBoB.!DQ+;?G2neej1O3?8]n$R02$K1KEDJII97EM.hT
+!k9\1C,!f=#MkJ9`"#`4Ge&NES]5ehIcogSZ5$@!d5E)ZC^&@6[#GkT?G(OQil-hBXpCYQhu9&$
+V<+]T@K@pFmFGN'6$hD1CH<cTB?d[YIf@N^7R'`:VUUE\;IV7%I\=?aPYM;K>O&jC`g-FaPY$rL
+!1^IZdL!edf?IH_!i_\Qm8pGV@:&,,cNgK+kh2$3^'>`,6eJ)F/g5Q!%`dS"`Pc2*p+k0gP1DE3
+A_mC9\n>[YeqpQe[jj"1cCXa1eTs:MI'D=!B:$BQZB(-72X#b@*JMG<fd8m!9oVLG'Z<,!a`P*E
+iI@\X'lnoV*irj.Aif!aqb`d?#&6P'he::XhXG]$F#@qIh"XVK@h)rh]5tN?=3$"%kO3.6MRH/u
+btW,59b]h4g>PZ@^O5@/G[oI%Aj.#*NDfoG]]p4-A=GPD$8tLL/fi`_&X:T4b9*,F`hIRl%58:<
+PUtPhd6IsZOer'q3'r4aO6C47Ru36He@!X=bj-[7G"BVP;tc`rN=q6He2FT?XYt%0OP;a0*4RMl
+Sc%&,BFcVR2b#24g2Q9ZN4'nm9g!;=cNF8h@D,lF3J/lcBnJI&E'Cf>OtcKff_Sk#n[LR.#*u!^
+_;8#`l[PD^i3U:t>H<=,BKG'Hp``I4do4?k@D^MR\7:R*Pen$iS;'k@8=+53V#sr+K$nop%]T[+
+<=?g/)8>mE9$5XL/d:3-RZH)oQKpViN[Jd*RX#oBdE]u9HHF5b0I<-IJ/nm`9JrKYBg(,O-HImE
+:'@r!M/Q-SBEBLABu?dB:c^g(f<dKU2DC08n<mG#dQRi'3(L%M9u/%IP,4W(dd[J"DX/MEU5ks]
+];u77koGi6\hlEtio;$gAo^Vl^`5e&@mN3Hl%!qbBHu@NJ^H0<:8?#d/4q:l7Hl':?lV8dZ\aF[
+X"&*!pBO@<6PMTE1;d2+3l',f[_@crBY0Xm]DqjNOn;A7MG$LMFke"8a-N$I&138Qa+AKGLHaBD
+R<TQ]KO,V%:9k&"'5n-9aN%R=Hp2=?*McT3Hj#E*J$\&*MH<<onBXMgS(0\Ukn$HY\:ajK6T)0R
+l@)o(GaG54@%?`<)Le[cEJ09uOE,ALSF8Mm9i"SJ(rsf)+SS:Rihc6em%3CZM\e$Q*`c[f=iaWO
+@0+JNen>]_Jft#+H!'J_jt2\#Ap+d.[_2bE.n5/<+[4TUE[t(^>sE"NPhSI<BCh0O$C:gp2&ag#
+.;n_(MNIe(iBIj;LWoUIfgp't0sc=c$tso.Mc+of31TRMk[EePe-;cDD#A9D8\mn+oXY)&0gIps
++C%1dQoZS]U-DA'&#3sio0:*,jhb7PL"]kWC#;h*AGo<EpVC+?^Q-4gK`),qZp%*!n6f_^8'\?C
+1;hshJU]JF>/F:`IqHL=^qI(#Kct499@:*7m#CTY&L0eA_VXYX(tBn%:]:@;g#M1'7ZV8/fpI=`
+'g_E2r:<\JHR9S14kuUIlH0\to@O=_i[El(Sg7lBacoPU4B-a-2P@[3*`L$c";m#%15?OBPm$uj
+h>VrV"g43@T<JojilEs7X&fA(/;$o\+<t"DPA'kKiC0Gm!TVGsr98Ia0Ys"[U]Bs"YH/E'rm9ll
+KfkS*/n-\VfL.=VU7*H8>05>=lU/,^h>K9[DNe&A*)NG3YfG#c^R^R2k;"ffU:f17]YqG*=N3D9
+Jl`3dNCY3`FP6tY;1DuGd&9F5%^Q'^)%R&aB-IaB,>dt/'])Ed;<&Fb/lSjmo:3"&,iYPg[ha,&
+iDlJ8pkJgjV1-BP3,F$,2P@\JrY$6e4FRo^1/D)=B9,`s-Y<&_+I#t@#&Qn"V#H`Y8WdJCqJ<uh
+5e_u+!gr%^P,I4@&F?:ib<GaE2M=Xam>oiFAfNGjIt,!@!G[^g0!X_8lkS%d4Ufi*k=V#P[AXIJ
+!hC]%c!=5.4*Z1`2HU0*=%C'JV^0`sFa"2eFH`C1,sB3kd9@5A6J,46OH++6]l2UPF,3mZ.@B.5
+oD&RHJ9[3)@P^3%EUn$2UB"]Ci:4BCLoM%P$@]R.4eA>o_!j8uj&E`no@C8uC^uA$ScXX)RSno'
+-6BZ\<#a1iQpq"d7"ECW9r;W-RRjGRD4m6:JcNAA_&!rmkS<27&]]_`:`2DiW9Xk31cE=sYqMsP
+o:2GSe/ZVq"i1V'3UMr#*@95A;B,D\om$HG_U/qQ/F[Pf\qhhSNQaMOP'Kr1Sg\0U3.T,AjJ@qC
+W=RehF;OqA#l%;e9Uhp8/,Y).1Y6.g-B(G@`t>35+^n&Mn70",1,opNONL6NNYBEk/7Y82##m9T
+:7.'TPkP\H,H0B,>`Vs6c4n/!PUf7o<qEb;2Eg&F'q0B<-^hU*>l,T-6am*PKn!qBGc=F"Y_'D-
+fts@g'Quf'YX)l9./b+Wq2@Ci>iELSVWm'.^J`C-a+gXU).2+I8;DH[/7YF]&Y<IRVeTXuT?7-`
+p6\@co!b/XXQ3(bXnsW#l9b%Ea<o2p.<R7S3,F$,2P@\WY=,#i^*Ib$ZClKbBk6o<Uih)Z:UU=9
+,Wp66\g"9Bj+Jr0NdP/0>1\P55VMjWO`n4J&#0Sb]Bpmg[9J6%\[<ND7j1hboe'UOB0P6i9=SZS
+4n-8(/jK-JkK4SG>lsnBKUUMu-!-\'e:l\iX$]&+'^*1.ep^F:LN)i;7`js<-9kdc9<839WfZjt
+0mY#KP%5+HV?%q_3**c&$QgpTKC(T6`N06N68XF.L?SKYSG*hfn=[tb>`B#A^NFfer'D@RNsC'b
+/0&)t_=tus@9"HDFCo(qSf6qgA)+n_1nmE=\uaZ^6(p.s4<G)@dnjkfEV"(oDlPR`O=u[&W%>@r
+;2f2SB;^#?!)Qq@a=70#pjd,?%ece=m\!g;FA1+SX=eAfTL@C]=HPAsM-Zcg5T?&3Z_1MJrKp>s
+gZ*i`h"TO0I[3W^c\!FBJ9?PY>KVZ8<b;oA`uUDMhhUi8Emp6q+M,;bHVEJ]F:c`Q]#Z6DiEq&n
+_4"Ahq1ZZp@Ndgk(DTG@!Mg>ncS=]m5H02/f6U'RTV\i:HO8S9THBCfCj9ofSt*K^;LX9QS<I=l
+.LEHCKF?H5'7QVa@Nhc`KdD48<hEc>N[$Ru$rEt6's`e[EVHi3W"idU^l=[4r1JSX\$rpIgeGQP
+>S6^$p`_%SQ^(B_3.@P.Yu%5$I,G9\:l(0>&8XTRlt6e_Ib[AdNO$_<)?F$oHIHB<d0uD?2rL/;
+4`S1WjXqLg@bI8\jDbK/q01KT`&>K]]Nth-Aa2_:EYQ\5#k8;1+r5K0_IQd_`Ht69m^+N/I?Ujd
+Cr0MhKO<q$?GIV=:o.]E%#HJ_m<=!5@RG,(8n^f:Z0AV@(@pJ(M\e$Q]QiseW^>H!]4't=B%I6h
+>7Nj^*iEP$&<3_p3'_a_64:N@SS_.E3n*BGXf>:P"<ni3d6<;^AL;AWdb-)!I_-CIBk;(4Tiq3i
+&77WA`UTc(>2F%XIELU2VXkETNURfpD@kQ"o)I[ci'&4X"@8@p[(+G4*?bJK-B9JO]6!Ck=Io.6
+*R&BKX(M3m9El_>_n!2%%+s7;I`rot5E!Noj=+e`M+F11#LB+%dj7A)!d<6_??*nV$GKQ$^pAZi
+kWs2Nl_.OX,d:]MPYUc8O*LB_iuR/ai3p*V.Dk+,*Pd.I%+n-0gj_%0F"nk'*4XmY80-gbKVj#^
+?6-cU(O"IT`A]N]DQ5Z;E?=ZnP.[a`nB_fEo/RkZIogL=E^LYe@bt5g<sgl%C>jQH<)>V2i5;-]
++Ds:AWKV!S++Vo["Vm(>au,"Hr#j,Pm0@J(K``*@<s\fA.%Nj'Lp#X)+X4SqM4@J;+[^0Iij6e%
+<IZP;]?_!]FE1Gc0B5C0^&l*q1>[c6+n#j!I3\OKWV-:"_Z4krp7n/U6f`g8o)phnF#]bHga!5"
+c99h;*MITG`XYi%]JU/0'UKPBZ,dlLnl[8%57^@p\hj=1,*c,uYY!e?NZZlGFMK?"[G7Vnb5V^"
+U![_gN0R2#kaL=TPQ3dV*7'7!c-aEkrFgo50u:.q0KlaK#h^.sbW`)gk-b.\KfOBdDD*aU'8Lc^
+hMnV2FN1C4KgK].ruW)4N'_Gs4aJ5qfCYq;'sOHP4@Ac/oUod8Cb/W"58i5XV%Z#,]ZLD<C)("G
+]Q@(V[;O7cfYfer9%LCR$hn"h9@,]Xdr3SVNE@`Eg.F;Di,_r$>?VOn\!mcgRONFt<KGS-(MLT5
+cK]H@EKr=fOZaB":"/0[HpcR@a3HdTA-skKI,*,,HFR)IBaf"]eYR0;&OA\Q3@[!mXN3Fk7Xnrj
+P?=s`UN2`3B3ljie=:IYP`D9MngGM3?G(OQil-hB`un%e=lE:>Z*4-.]tk%4-h&OTVUD.KPM6C"
+4hshs3H6I<jr=#T9ho"DBYP,iQ+=eP)PqN7?2OVSc]mGKq\n:RX?+$6>q=FgRDTClPYQ:5?AV4U
+P!87<SW'!clW<2r;'fU"!CY\Xinn3i3[M/=?H+940TFLpS4Fg96CX$L<&lPj.+YT?V,O[K[[hDb
+BE$Lcf6/AW8GS'P:u8p'Z#b\VV7Q&Rn-;X]4)=Nd`EGLC0%=#g#$m7CBCZ3$-.atEY8muJQ7*d'
+HA7XSdPkGsldPh_\W1Z.AA.=N2Q&$6rO-b2#gF9)5al-?Br<k`)Tc0]nf<;Vm8,k9V)o*9(62fR
+JmL0a#9afp`%.I&%@a[If(s7Fdc%pcYaTP1"FA7*Bt`I(2b\YH*i26G#qC_>3!&0OpbP0/EDLKu
+HhX)6-HD@WND#&o(N2R%a2-kO:%P4jb%#,1m85p16m],MeMFi<Xj@\s#X$04_0Qr#W(pD?e*#U$
+O4)]5UaQPs_D+HD07Zu5i(J<Kb_"[)V;IN:G)>CmFS5tRWm'8W&ngOF5RKjUr*-g\*a?LdY)9Q7
+,q^4!d]"$H;&ft9;JCkMJod`D7^jI*?*6Tp6sZI`9]FJl4A+e>Z>o<^b@?\-M34T\3KQXaFtr7#
+M\e#W,`t/S=X+)sH/7k*XZ3nU&9Z?QrnbL=i'kcUHHB1sp2Y+$ql#OZ&on>MLi6u%(saP>8*TB)
+SZ%M:mDXON3PH`>FoPAg"^_>R1(c]pPg4HW6Y.7_s#f^&bttrm-Z3;0C/am)!d:\s@j.EAS(k8k
+GW8%d'G'U;lT\j#aMF2c&GI8T99bG?[!Vk*8"f+E.F]oOZ$uBPI1GH"_qkgqV!L,=V1bL'EOH;(
+Iggn9`pHnMQU%HJ$4"p[f[@2nkn(?\4$!$?Fg>,h4:hU?_Ks?$op]2I=D8.FX2P&"@/a4=NXjpp
+&/m]m5C`MKUJu!Snu)[P/A.E(Ms;THJ`\@$G'Pe?!1%F8e7]AZ%\4gb"oNkdS2sa&.6rc<$)@"P
+a.M6r]t'$NT&ifUFK20nm@RsN=,jN(ito&F33p%,B:PeGla0VN%8@ig)^q8o<Z5a9n.AOJjlo%)
+ZI\3To\K-6QesCfT&h[5FEI'.V9C:5*2SiRgDHK]/dRd5C*j`TEfaDd4^k1ncXj1FnhfsML.b$k
+9&/P2XoDhJ[Q\1$ZF0?c>5IS-:O(3+$\?UN[2s_F0q1EIPR]@l/%-QYF4?E+aG$PM#m^Ep#p7G0
+:cRsFN_="5[f-Z_I%&Br[9P8+c4?j28@$SF10"CHLXufKlPD(r-I;sn_n'Xhr0YUcLe#`Gl2Xme
+f3?!4E0:(_\TINN$uO*d]GS_-I!IDC7]u>Xd*Q;bX<J<dH'HTT8Wa8J4L`Lb8Agf&&sJ9E:m#p*
+VCTb6BKU^MGa-J`8]D2/1ioD;^t0eCaO,\h!'%mbHHX4K#$<0:l'VB$M%\@6FS<h+Gd[&#`JYNc
+?G(Xc!Xg`p]s_C+jYk>;?6P,r`tEX[nUuSZ\dS&(`I[hC^\%h8>AJilWLgEh.%Qn1DDK)"onslm
+(<];baps3p&F1Je2qX,W;4PnbP?.KiHch@^>'u6%h<-]ooI-9$63e0J2,kbCb(5Fc3IPH,L2S_3
+(O2k/F46I=BpI;<BW\ql\s`,6Kg.^mB;^E(<d<3TnEiHfJirF!^A_OR98MU(G;+PF^rp'ar26.]
+a.g8ln3sFAF$;r.\\gM%k0E][MOoL18bfacZP@ik8b&5PUp6!)+T0o=]V;$8;***L($r4:-Xo)n
+VAN=cN#2\KBQ.Y=3p`ui[oHZ5iW_^l>\C\P,qL$53<.<bY_)Ls\`AXRc]I[Qh.<9qOc9!u$Lso,
+?-DW^q:QsAM.Rk9)`em7*j>?O>:uK:,i1B[T#MCVaPbR%_PjUbE?1AU2V6CF`IX1_K7rs]ULsXT
+1$o8enB&)oeZuX?\m/YA_W3+!!G)PI_iOm]YeK?nMf0ug?&p,pkkBNr,KU=/A^o%L>WR@:m@'\k
+q.-TB!2nh"ou@i\^aPbdf(td]<Z5d(r*/@=8j[2]=71YEQ1m2?.Y2S#i1,Hs-tY?[^j";9Gga1K
+ZPhKnBWP&1fmnlU[%icN9s6Zc/^E_/G$I(HI\q=^ftgs`Z0Ql,#oPEdld21+;=$,bc2GfbN`"iR
+TANlB_A8261kYqaNp6O?l^)@YP!^cMIK?MhOR&:A)aHQO_"jjkOE@@3q!:SQYZbCKgZ\LIiq_8K
+U0W&WdQcK3]S_VuCt64f3=r3=Sm0"U-t'ClTTnCFN-sINSr;,+-;PsP><H3m]EW*5BV3^dr=!Wn
+C7gYVb]qSlkC<_p^Z=^B!s>L"'H"i0LYUibBR7VJj2]t2[^S7Gan,EP0PsX#m'4"Ln+u`_3oSh`
+N>[:DJ,/=fDVLYQ,\4\-Xht_$;T=bJR%kJkK5@U//#&cs?Lc^6)7dINoBUd.fb!^7`uCK*n&kQh
+]qaaU4V2iUbLF?h$&PblX^p5eS,TR'mN0+0r+m6"898&THR]gR:KR7&CQDODceg^(:3cBmmg)7F
+m+<[`T)M:I=F`"i)nkCJ"c>$Wek\<@g5XNXd#LUD9UFa>0Ed%IfPfZi&OlCA#=9+d>nHd+;uRgA
+=hbcLdh-qL'Hui5fV3GGV)MoG5L@oTR@=e-OlnfZed5o6M%i$W&9Y>]Up7t@a/nr5.:<soD6e9L
+?oB@:1PB`jBH8g)Bij4GH=ZRfY9$"m`Qk6D/pu/q3J'ZZY2ck%Gk(@WV8hOq$$Po$Y+U%5I0&8(
++jGo3M61'%n8^qM[E?%/;FU-BqsK4Cmr7f>C!(K8S"5U:G3C&"s&;fWlj72m%(koTj:-k\iHUu>
+Cu/L7ArV$OZG33S.K[O60B-A'OC5_ns0[-Jp+n.\lrbP0%W&T%`]'W>kRC,N)\+J'<*5gfG")]n
+?D$#^+7K&&D9,JC@oW@:gHAk?duVhnl]l`t+<W"cI4s65/tmN'B@!q;*jo?$&rD"\+o;K1AhL@-
+Mt*3^_oT.N\2PC2Ld_]+.Y]8M3h^9KI>5k[&8OXf)Gkfld:YeTHb@3:S;7gj,$gne=:(m&4D=&Y
+KB./?UcKJep+1cCk7tSV(s-s7Yji"Wk9_k;)\+J"#?eEYZ\ku4blPBP1?>%YL9,N_F[VAim.#>>
+MTKNK60qk0U6\Y=fb-hurpSD!Q,%?`cOs^F-NT/?(<!i`%JN\,8K!7i_WE_)Mr!M8dlKYF,bU?j
+gH@5/8GO&?02&P@IE.e*:"2G@RD.M;($H"!@8J=CF'tf:;;%XfcuPS([!;=-p_$,?fMr^S=[EO#
+b;Pof&4h!+%2TB)GBf7Ik<@c-RjTRLLcgE#TJ1h+ZMg2H"O2e+*T5G$l4gd,1d77WI(.-H0Oocj
+\T#&?"hQ4WG]88TUcJpXiB>A#6t\O^5YThtmE-AgL$ZF,+q+43A'eu5+_%pn#V/@ud$2dVJ43#q
+0=X!G.%&Db%JW&Pg?J,WAgdlq/0_*Sm/!Q2h)H*Ea=&+_cX[:jm9.<Y+r-27hM]sOhLKj?Hk4Tl
+%T;e(cS1o5fK<Vq,9@ckSM4mN@YQ,UM9:?IUEp1(mERO!7$[Ut4^N8Bh$3I*IE@,f/c=C\f)Ifh
+CAOhn_sd_^k#;>Y(oh(LYOZbL*j;l?7lDGaYZ&GZ+Q<rHkN<>E<bso.9I3mr6okT52.&W3V,/2<
+ooM8,i53h;oQ^$plrhb[_og9o@i<q6^TlR1"O4bY*ALk5lE`*WI7BkRnT]bC)a-fk]l\*>p[TGI
+)I-u_mR+8n?pjYI`J^&e6F0i[U-1i:Y<5%1H%_oP-(_[^en7k6V[mm1db,qJoh2paE=2+sl6S$a
+-`3*;/V=g*ND]limI5VS]I0Q$o4'%.EFiRggD8/^?+'moKo-O,Y<f4os2q%.E)+9`8%gI.l4:ah
+Zt%I74d]XRoh/t]-fmj5os<6"6X>1l;tiWW``*#iM@J`pF.i*j/gE)h.E`fs\-AeIgT&RPR.C,"
+gj@OC=?>Kd]IiLfZs_eRqYaF.=m\g7CULmZ59ROGjaPf$b>VVs)fhinQ;i.G+Ej;M4^_LO)^W-6
+I1#C*C.06OoEVBp9*QtEQ0:4p:1hA36O&Xuf8aR_Q>#58T.?KRb/9m6SIGTPj=neE/dk>\#(0oh
+&dA.-Ig6)SL_g"HG.C>3%co,ge(pPTHljI;M*T5M&D@>b"6cLUO?4go#0`O"#V7@#Smb;:dDAnU
+kCMXG+\A5EO+\l5UhrE;/dCpRPfQM?THBnk]ArU7B$C_77ZGHhQpS((%pH8&8R!8bqm_q@?Q02$
+QmaQu@6Qi\d*A4'P1^:NoZWK=l0#<ZK*6[=`gjft;5d;REG0N.%%DP:/@QW7=lp\\k`/i]SuCn1
+0Ze0X]UB*5-U-K,I\?&fPc&o2:c^o5)M"]YKptD'3*6Z+&[ufVH/[E7`3CqJRng\e=GdJ+%^=1o
+,CrN@B'Uaqb/Qcr,LE*q28)Hia;F]GHG"j78d7,!19_Kca)mQDAf=);W]3Za$FF^PWDHH$$t_sL
+"nKLAd!Toc0r!WWq7neXIS)etKc-H,0(i',ms:^<4kU\+5@BORCDsnEi"*(L[mfPK\0&PG4SsF>
+0PaE9Yaf>of]nhKbKjUi[QHXQofs#!kfZd'2o!5i.q6^G.bPUCqGH-QGI$mQTCN%EoH(3E9<)*6
+Qm7Ao3N0YI_mc3I/'esV%L<7LHZB)fP?\I$9k7o3i<!\,'gl5G!79&D)74(ZK0DF]Q];k8?G(OQ
+il0*9OBke5]*S&H/h^9%DXmQ=I]C%#7s;$%8@PPl@RWp/<L6drn5JH13)[Bcbei0[WV9k5:T(_7
+i:<nUT;mO#676U4&Fj5KXZ`YK#4#cV)UQmrHme71`V#^,s89nY00:Q4j]-(\<<j1s:*@>I>Ehl%
+Lh_?fl:s!2HGI-J)gW'\NYp3YA8V]ofS`SZM\W;)BRN0a0YgI!\@cSBVs7ZA]3W'mD\oZ^Tld66
+ViBDZf4`h<;0j?Xbr$mi]<fFJ_GX_-eR#<o`@!:D,3p!I))oE$.mI$h(#D7d^D%0?Q7*bsgs\6!
+B18S;!_\Yt*G]s=6"c;%A2Cr8B`hU*lbuJ14o7Vr\\)+Tnl'[5iI+],m'K1Fn3[#"`!20GEYMf>
+8X*oJ#0HPIf.d@n*2S\Uf]do7XPLJ5j-?,`053SUlBFOqb);PO=t3$d'Q?</[I@+;=HT.HI(+'N
+[./3m^*4oLYLQI5l4>!A4TIfS]R_^+r)2:W\?KqAHRiTIYp^WeeYtk!.-dImpC]'Y%V*`*?E=j4
+LPKs4o'.!>WX^BAF4J5HbM3;u;ogfAib^<$:*Ho"3a>_7pTm/i`X/_8f8'oYi`LiiYts[J?BsaX
+_!`!(,nd8=S]Y'$=/>#_&C2#qbH!rf0Ei)Y[e*L@.*5(gPbE?uBu?dB[TiXljnZ")kQ$%P)R8VU
+o?/d?b30`K[lJj+>"XY3j*nO\N\1[0huGjJiR1T!3bgi/1ce;D#L@jEqRhE_M(IHEi5KI\lZt_h
+0Msl05pr`bS]ED\gn?.2<e\-k`ra]-d=dND>TKZ$L"dT:9<4in6EB-D3a9ROWtX?e-kH+>iJJ$^
+/nA8,6((WKY]-(AQ6RfQF@6X%Qd2/@]=*$mia#bO;Y_GKik0O+o(_;G!u-ZsDZBb;~>
+endstream
+endobj
+27 0 obj
+15621
+endobj
+26 0 obj
+<</Filter [/ASCII85Decode]
+/Length 28 0 R>>
+stream
+s8W-!s3,'Tz!*.6!Wm#(Ts8UW;1B7CT!+sITs3+ICs8SJe/")eU!+sd]s/KZe<QkFC1RZenbc3Ie
+<<+hTrr?&e1P!\*<AU'Cs(8:TRAslCJ2<UnR/e`ns*um]<G'JTbVOd;AcQG2J2:e;!&FU2s4(_L
+<AQE]R:[t;b^]ZnJB\%n1G`#21P#K].qWBn1R\9eAlWH2J7^S;AnD$!1KBj2W\_l!baBt;bgi+;
+.fdenAcO>nB)hmCWgNieAnEOnAq6;;e]aF]Asq2;b^a;;J7\d]1X,leR4Dmn<AU%CR:[s*R=G:*
+J=/3nR:^unbgg=Le]e'nAnEQ*s/O:!.l.0UREV\!s/MKTs-[JL1B7CTzzzzzzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzzzzzzzzzzzzzz~>
+endstream
+endobj
+28 0 obj
+490
+endobj
+22 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 3 0 R
+/Resources <</ProcSet [ /PDF /Text /ImageI ] /Font << /F0 7 0 R /F1 10 0 R /F3 19 0 R /F2 16 0 R >> /XObject << /im1 25 0 R >> >>
+/Contents 23 0 R
+/CropBox [0 0 612 792]
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [ 
+4 0 R 13 0 R 22 0 R ]
+/Count 3
+>>
+endobj
+xref
+0 29
+0000000000 65535 f
+0000000010 00000 n
+0000047765 00000 n
+0000047820 00000 n
+0000005186 00000 n
+0000000210 00000 n
+0000002338 00000 n
+0000002361 00000 n
+0000002564 00000 n
+0000003550 00000 n
+0000003786 00000 n
+0000003977 00000 n
+0000004964 00000 n
+0000018234 00000 n
+0000005379 00000 n
+0000015291 00000 n
+0000015315 00000 n
+0000015527 00000 n
+0000016514 00000 n
+0000016759 00000 n
+0000016983 00000 n
+0000017976 00000 n
+0000047513 00000 n
+0000018451 00000 n
+0000031004 00000 n
+0000031029 00000 n
+0000046915 00000 n
+0000046890 00000 n
+0000047490 00000 n
+trailer
+<<
+/Size 29
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+47902
+%%EOF
+1 0 obj<</Author(Oracle Reports)/CreationDate(D:20140415163414Z)/Creator(Oracle11gR1 AS Reports Services)/ModDate(D:20140416102539-04'00')/Producer(Oracle PDF driver)/Title()>>endobj2 0 obj<</Metadata 30 0 R/Pages 3 0 R/Type/Catalog>>endobj4 0 obj<</Contents 31 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</C2_0 29 0 R/T1_0 7 0 R/T1_1 10 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj7 0 obj<</BaseFont/Arial,Bold/Encoding/WinAnsiEncoding/FirstChar 24/FontDescriptor 9 0 R/LastChar 255/Subtype/Type1/Type/Font/Widths 8 0 R>>endobj10 0 obj<</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 24/FontDescriptor 12 0 R/LastChar 255/Subtype/Type1/Type/Font/Widths 11 0 R>>endobj29 0 obj<</BaseFont/JEZFVL+ArialMT/DescendantFonts 32 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 33 0 R/Type/Font>>endobj30 0 obj<</Length 3436/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Oracle Reports</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default"/>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2014-04-15T16:34:14</xmp:CreateDate>
+         <xmp:CreatorTool>Oracle11gR1 AS Reports Services</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-04-16T10:25:39-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-04-16T10:25:39-04:00</xmp:MetadataDate>
+         <pdf:Producer>Oracle PDF driver</pdf:Producer>
+         <xmpMM:DocumentID>uuid:869b9484-eb29-476c-8dc2-de15e09198d4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:e9303714-f6e5-4d78-897b-5a1da317fb5f</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj31 0 obj<</Length 2080>>stream
+BT
+/T1_0 22 Tf
+227.28 605.24 Td
+(February 2014)Tj
+-32.6 -49.48 Td
+(Monthly Traffic Report)Tj
+ET
+q
+114.8 503.24 393.76 24.76 re
+W n
+BT
+165.08 507.76 Td
+(Newark Liberty International)Tj
+ET
+Q
+q
+114.8 470.2 393.76 24.76 re
+W n
+BT
+157.92 474.68 Td
+(John F.Kennedy International)Tj
+ET
+Q
+q
+114.8 437.88 393.76 24.76 re
+W n
+BT
+257.68 442.4 Td
+(LaGuardia)Tj
+ET
+Q
+BT
+246.04 342.52 Td
+(Teterboro & )Tj
+-118.88 -26.24 Td
+(regional satellite airport summaries)Tj
+ET
+0 w 
+147.04 74.72 342.72 191.96 re
+S
+BT
+/T1_1 10 Tf
+147.04 256.92 Td
+( Aviation Department - Traffic Statistics)Tj
+ET
+/TouchUp_TextEdit MP
+BT
+147.04 232.92 Td
+( JoJo Quayson)Tj
+/C2_0 10 Tf
+66.704 0 Td
+<0003>Tj
+/T1_1 10 Tf
+-66.704 -12 Td
+( John Cuneo)Tj
+/C2_0 10 Tf
+56.709 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+-56.709 -12 Td
+(Deyssi Mesa)Tj
+/C2_0 10 Tf
+57.236 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+/C2_0 10 Tf
+-57.236 -12 Td
+<002700440051004C0048004F0003002A0044004900580055005600520051>Tj
+ET
+/TouchUp_TextEdit MP
+BT
+/T1_1 10 Tf
+147.04 172.96 Td
+(Notes1:)Tj
+1 0 0 1 180.79 172.96 Tm
+( The section entitled Air Transport Association Carriers is included to \)Tj
+ET
+0.48 w 
+q 1 0 0 1 147.04 170.96 cm
+0 0 m
+33.76 0 l
+B*
+Q
+BT
+147.04 160.96 Td
+(give a comparison between Port Authority Airport traffic growth and aggr\egate )Tj
+0 -12 TD
+(growth as measured by the majority of the U.S. carrier industry.)Tj
+T*
+(Note2: The page 2 Access Mode: residents report excludes passengers )Tj
+T*
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous \"other" )Tj
+T*
+(category. The airline OAG summary uses schedules effective for   the wee\k in )Tj
+T*
+(the middle of the month being summarized."Flights \(daily\) refers to th\e daily-)Tj
+T*
+(each-way average flights which can be thought of as 1 directional depart\ing or )Tj
+T*
+(arriving flights.)Tj
+/T1_0 18 Tf
+-48 598.04 Td
+(The Port Authority of New York & New Jersey)Tj
+ET
+q
+114.8 404.2 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+203.68 408.72 Td
+(Stewart International)Tj
+ET
+Q
+q
+120.8 369.68 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+186.04 374.16 Td
+(Atlantic City International)Tj
+ET
+Q
+
+endstreamendobj32 0 obj[34 0 R]endobj33 0 obj<</Filter/FlateDecode/Length 288>>stream
+Hâ\—ÕäÉ0 ‡{ûbéÌ°ƒü™[°∏+xÿ÷ÌÿdÏ÷b<¯ˆ3•P¯úôòÃ∫}nµr¿?Ï$:t0(--Œ”b¬oJ≥8©Ñª+º≈ÿ∆}q∑Œ«V+K‡ü>8;ª¬Ó,ß+Ó∑≠“7ÿ]Ínº[å˘¡µÉ™
+$~£◊ﬁºı#eáV˙∏rÎ¡◊¸e|≠!	éÈ0bí8õ^†ÌıY˘UAŸ¯U1‘Ú_<N©Ï:àÔﬁÜÙ‘ßGQUõí"Ëx$ùIEêˇ∏)èIO§åt"Â§öt"5§:(ãI/§Ñ‘ê≤†"!Â§îDˇ+≤p≠˚˘∑˙9¿£{b±÷7.+tlÎï“¯òßô¯™Ìaø H⁄êx
+endstreamendobj34 0 obj<</BaseFont/JEZFVL+ArialMT/CIDSystemInfo 35 0 R/CIDToGIDMap/Identity/DW 1000/FontDescriptor 36 0 R/Subtype/CIDFontType2/Type/Font/W[0[750 0]2 4 278 5[355]6 7 556 8[889 667 191]11 12 333 13[389 584 278 333]17 18 278 19 28 556 29 30 278 31 33 584 34[556 1015]36 37 667 38 39 722 40[667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944]59 60 667 61[611]62 64 278 65[469 556 333]68 69 556 70[500]71 72 556 73[278]74 75 556 76 77 222 78[500 222 833]81 84 556 85[333 500 278 556 500 722]91 93 500 94[334 260 334 584]98 99 667 100[722 667 722 778 722]105 110 556 111[500]112 115 556 116 119 278 120 130 556 131[400]132 134 556 135[350 537 611]138 139 737 141 142 333 143[549]145[778 713]147 149 549 150[556 576 494 713 823 549 274 370 365 768 889]161 162 611 163[333 584 549 556 549 612]169 170 556 172 173 667 174[778]176[944 556]179 180 333 181 182 222 183[549 494 500 667 167 556]189 190 333 191 192 500 193[556 278 222 333]198 202 667 203 206 278 207 209 778 210 212 722 213[278]214 223 333 224[556 222 667 500 611 500 260 722 556 667 500 667 556]237 238 584 239 241 333 242 244 834 245[556 778 556 278 667 500 722 500 722 500 556 552 333 667 556 667 556 722 615 722 667 556 667]268 269 556 270[222 556 292 556 334 722 556 722 556 778 556 722 333 722 333 667 500 611 278 611 375 722 556 722 556 611 500 611 500 551 778 798 578 557 446 617 395 648 552 500 365 1094]313[500]315[500]317 318 500 319[979 719 583 604 584]324 325 604 326[708 625]328 372 708 373[729 604]376 379 990 380 382 604 383[1021 1052 917]386 387 750 388[531 656 594 510 500 750 735 444 604 188 354 885 323 604]402 403 354 404[604 354 667 556 722 500 722 500 667 556 667 556 667 556 778 556 778 556 778 556 722 556 722 556]428 434 278 435[222 500 222 667]439 440 500 441[556 222 722 556 723 556 778 556 778 556 722 333 667 500 611 278 722 556 722 556 722 556 722 556 944 722 667 500 222 667 556]473[889 778 611 278 944 722 944 722 944 722 667 500 222 333 556 600]489 492 834 493 496 333 497[667 784 838 384 774 855 752 222]505 506 667 507[668 667 611 722 278 667 668 833 722 650 778 722 667 618 611]522 523 667 524[835 748 278 667 578 446 556 222 547 575 500 441]536 537 556 538[222]539 540 500 541[576 500 448 556 569 482 547 525 713 781 222 547 556 547 781 667 865 542 719 667]561 562 278 563[500 1057 1010 854 583 635 719 667 656 667 542 677 667 923 604]578 579 719 580[583 656 833 722 778 719 667 722 611 635 760 667 740 667 917 938 792 885 656 719 1010 722 556 573 531 365 583 556 669 458]610 611 559 612[438 583 688 552 556 542 556 500 458 500 823 500 573 521 802 823 625 719 521 510 750 542]634 635 556 636[365 510 500 222 278 222 906 813 556 438 500 552 489 411]651[1073 690]653 665 0 666[383 0 275]669 670 0 671[278 563 542 399 508 602 247 382 599 590 247 509 461 463 599 601 247 353 574 529 566 546 461 479 550 509 694 643]699 701 493 702[236 417 815 247]706 707 509 708 709 463 710[535]711 714 694 715 717 563 718[542 399 508 602 287 411 590 287 509 461 463 601 353 574 566 546 479 550 509 694 643 247 542 461 546 576]744 747 0 748 749 319 750[356 413 207]753 760 0 761 771 526 772[319 526]774 775 750 776[282 750]778 780 526 781 785 750 786[0]787 794 750 795[638]796 798 750 799 800 713 801 802 244 803 806 750 807[563 526]809 810 530 811 812 489 813[812 933 394 515 812 933 394 515 638 588 375]824 838 750 839 843 0 844 845 750 846 861 0 862[556]864 891 750 892 893 319 894[750 616 413 207 229 207 229]901 902 432 903[207 229 638 588]907 908 244 909[207 229]911 912 713 913 914 244 915[282 375]917 918 713 919 920 244 921 922 713 923 924 244 925[563 526]927 928 530 929[563 526]931 932 530 933[563 526]935 936 530 937 940 337 941 944 489 945 946 821 947 948 531 949 950 821 951 952 531 953 954 1098 955 956 846 957 958 1098 959 960 846 961 968 582 969[544 450 526 394 544 450 526 394]977 978 789 979[268 263]981 982 582 983[268 263]985 986 601 987 988 394 989 990 506 991 992 207 993 994 338 995 996 394 997 998 526 999 1000 244 1001[282 375 450 394]1005 1006 432 1007[638 588 638 588]1011 1012 244 1013[544 601 544 601 544 601 544 601]1021 1022 750 1023 1024 0 1025 1027 750 1028 1029 0 1030 1031 750 1032 1033 0 1034 1036 750 1037 1042 0 1043[750]1044 1045 0 1046 1099 750 1100 1102 319 1103 1126 750 1127[125]1129[2000 857 656 854 669]1134 1149 0 1150[513]1151 1152 834 1153 1186 0 1187[222 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 278 222 278 222 778 556 778 556 778 556 778 556 778 556 778 556 778 556 857 656 857 656 857 656 857 656 857 656 722 556 722 556 854 669 854 669 854 669 854 669 854 669 667 500 667 500 667 500 667 556 278 222 778 556 722 556 722 556 722 556 722 556 722 556]1292 1295 0 1296[542 365 923 669 583 438 583 438 722 552 556 500 556 500 667 500 667 521 667 556 752 556 778 556 713 244 268 263 582]1325 1330 244 1331[269]1332 1333 0 1334 1335 333 1336 1339 0 1340[207 229 207 229 207 229 207 229]1348 1351 432 1352[638 588]1354 1355 713 1356 1357 244 1358 1359 713 1360 1361 244 1362 1363 713 1364 1365 244 1366 1367 713 1368 1369 244 1370 1371 713 1372 1373 244 1374 1375 713 1376 1377 244 1378 1379 713 1380 1381 244 1382[563 526]1384 1385 530 1386[563 526]1388 1389 530 1390[563 526]1392 1393 530 1394[563 526]1396 1397 530 1398[563 526]1400 1401 530 1402[563 526]1404 1405 530 1406 1423 337 1424 1439 489 1440 1441 821 1442 1443 531 1444 1445 821 1446 1447 531 1448 1449 821 1450 1451 531 1452 1453 1098 1454 1455 846 1456 1457 1098 1458 1459 846 1460 1461 582 1462[544 450 526 394]1466 1468 789 1469[268 263]1471 1472 789 1473[268 263]1475 1476 789 1477[268 263]1479 1480 789 1481[268 263]1483 1484 789 1485[268 263]1487 1490 582 1491 1492 1155 1493 1494 906 1495[812 933 394 515]1499 1500 601 1501 1502 394 1503 1504 601 1505 1506 394 1507 1508 601 1509 1510 394 1511[812 933 394 515 812 933 394 515 812 933 394 515 812 933 394 515 812 933 394 515]1531 1532 506 1533 1534 207 1535 1536 506 1537 1538 207 1539 1540 506 1541 1542 207 1543 1544 506 1545 1546 207 1547 1548 526 1549 1550 244 1551 1556 526 1557 1558 244 1559 1560 526 1561[563 526]1563 1564 530 1565[282 375]1567 1569 388 1570 1585 432 1586[638 588 638 588]1590 1591 244 1592 1593 432 1594[638 588]1596 1597 244 1598[638 588]1600 1603 812 1604[207]1605 1611 0 1612[1123 1084]1614 1619 0 1620[194 370]1622 1623 0 1624[600]1625 1627 0 1628 1629 821 1630 1631 531 1632 1633 1098 1634 1635 846 1636[544 450 526 394 413 338 282 244 320]1645 1649 244 1650[812 933 247 0 342 493 544 601 544 601 544 601 544 601 544 601 544 601 544 601]1670 1671 526 1672[544 601 556 758 656 556 656 556]1680 1681 722 1682[500 722 810 656 556 557 667 604 611 778 624 881 222 278 667 500 222 500 891 722 556 778 868 667 754 556]1708 1709 667 1710[500 618 380 278 611 278 611 748 722 772 500 611 500]1723 1724 611 1725 1726 545 1727 1728 556 1729[458 487 556 260 413 584 278 1333 1222 1049 1062 833 451 1222 944 771 556 667 556 0 667 556]1752[889 778 556 778 556 667 500 778 556 778 556 611 545 222 1333 1222 1049 778 556 1034 618 722 556 667 556 667 556 667 556 667 556]1783 1786 278 1787[778 556 778 556 722 333 722 333 722 556 722 556 667 500 611 278 545 437 722 556 706 604 565 611 500 667 556 667 556 778 556 0 778 556 778 556 778 556 667 500]1827 1830 556 1831 1832 500 1833 1835 556 1836[739]1837 1838 458 1839[631 507 278]1842 1843 556 1844[559 501 617]1847 1849 556 1850 1851 222 1852[356 327 304 222 572]1857 1859 833 1860 1861 556 1862[553 556 791 781 550]1867 1873 333 1874 1875 542 1876[500 222 260 222 349]1881 1882 278 1883[556 568 547 500 722 500 520 500 541]1892 1893 545 1894 1897 500 1898[778 531 507 559 552 397 500 404 556]1907 1908 500 1909[964 906 1005 712 429 719 764 661 632 485 527]1920 1921 383 1922[159]1923 1925 240 1926[364 481 321 191 355]1931 1933 222 1934 1935 333 1936 1937 349 1938 1941 584 1942 1948 333 1949 1950 278 1951 1958 333 1959[322 157 340 328 349]1964 1968 383 1969 1973 333 1974 1982 542 1983[383]1984 1988 542 1989[383]1990 1994 542 1995[383]1996 2000 542 2001[383]2002 2006 542 2007[383]2008 2016 542 2017[383]2018 2022 542 2023[383]2024 2028 542 2029[383]2030 2034 542 2035[383]2036 2040 542 2041[383]2042 2050 542 2051[383]2052 2056 542 2057[383]2058 2062 542 2063[383]2064 2068 542 2069[383]2070 2074 542 2075[383]2076 2084 542 2085[383]2086 2090 542 2091[383]2092 2096 542 2097[383]2098 2102 542 2103[383]2104 2108 542 2109[383]2110 2113 542 2114 2204 0 2205 2207 333 2208[575 547 772 958 772 560 781 601 778 556 722 500 611 404 625 529 756 577 891 833 674 556 674 500]2232 2233 667 2234[609 596 737 554 464 410 601 573 500 222 778]2245 2246 442 2247[667 719 556 559 1338 624 778 613 950 713 668 500 897 695 829 685 1053 867 604 458 796 688 778 556 803 631 803 631 1074 896 833 612 1191 852 0 1338 624 722 500 503]2287 2292 0 2293[719 559 656 521 667 556 670 549 604 458 583 438 742 536 879 648 1137 870 753 521 722 500 611 458 925 691 667 521 861 666 861 666 278 923 669 667 551 656 583 722 552 722 552 667 521 833 688 333 667 556 667 556]2346[889 667 556 752 556 923 669 604 458 604 545 719 559 719 559 778 556 778 556 719 510 635 500 635 500 635 500 667 521 885 719 656 556 968 876 956 815 663 509 970 910 1034 878 778 559 747 666]2393 2430 0 2431[667 556 667 556 667 556 667 556 722 500 722 556 722 556 722 556 722 556 722 556 667 556 667 556 667 556 667 556 667 556 611 278 778 556 722 556 722 556 722 556 722 556 722 556 278 222]2477 2478 278 2479[667 500 667 500 667 500 556 222 556 222 556 222 556 222]2493 2498 833 2499[722 556 722 556 722 556 722 556 778 556 778 556 778 556 778 556 667 556 667 556 722 333 722 333 722 333 722 333 667 500 667 500 667 500 667 500 667 500 611 278 611 278 611 278 611 278 722 556 722 556 722 556 722 556 722 556 667 500 667 500 944 722 944 722 667 500 667 500 667 500 611 500 611 500 611 500 556 278 722 500 556 222]2581 2588 578 2589 2590 667 2591 2596 813 2597 2602 446 2603 2604 765 2605 2608 928 2609 2616 556 2617 2618 820 2619 2624 1015 2625 2632 222 2633 2634 375 2635 2640 571 2641 2646 556 2647 2648 827 2649 2650 1022 2651 2652 973 2653 2660 547 2661[813 960 1009 960]2665 2672 781 2673 2674 796 2675 2676 992 2677 2680 943 2681 2682 578 2683 2684 446 2685 2686 556 2687 2688 222 2689 2690 556 2691 2692 547 2693 2694 781 2695 2702 578 2703 2704 667 2705 2710 813 2711 2718 556 2719 2720 820 2721 2726 1015 2727 2734 781 2735 2736 796 2737 2738 992 2739 2742 943 2743 2749 578 2750 2754 667 2755 2759 333 2760 2764 556 2765 2766 813 2767 2768 869 2769[722]2770 2772 333 2773 2778 222 2779 2780 278 2781 2782 424 2783 2785 333 2786 2789 547 2790 2791 569 2792 2793 547 2794 2795 667 2796[862 887 765]2799 2801 333 2802 2806 781 2807[924 827 894 796 748]2812 2813 333 2814[556]2815 2816 722 2817[833 722 1164 944 667 611]2824[500 594]2826 2829 0 2830 2831 222 2832[521 667 682 349 685 367]2838 2839 687 2840 2848 333 2849[278]2850 2853 333 2854 2855 397 2856[333]2857 2867 0 2868[667 556 496 748 889 531 500]2875 2876 551 2877[490 458 222 422 500 401 688 559 556 500]2887 2889 608 2890[944 457]2892 2893 556 2894[521]2895 2896 542 2897[458 547 597 733 597 500 722 500 458 427 607 365 500 542 521 713 583 453 664]2916 2917 415 2918[449]2919 2920 410 2921[496 429 167 314 425 352 510 430 429 512 382 418 451 433 429 623]2937 2938 372 2939[377 600]2941 2942 377 2943 2944 372 2945 2946 318 2947[377 157 339 573 382 377 354]2954 2955 377 2956[378 220 382 407 573 321 391 385 321 378 440 343 157 240 382 321 385 321 379 440 343 741 1300 759 817 657 239 544]2984 2992 0 2993 2994 337 2995 2996 489 2997[450 394 450 394 709 655 749 607 609 745 656 789 584]3010 3012 0 3013[556 333 354]3016 3019 207 3020[793 1221 500]3024[500]3026[333 250 167 556 278 200 83 0 737 722 833 688 908]3039 3040 887 3041[667 722 500 556 611]3046 3047 500 3048[581]3049 3053 0 3054[569]3055 3057 722 3058[542 365]3060 3062 0 3063[353 0 263 289]3067 3073 0 3074 3075 713 3076 3077 244 3078 3079 713 3080 3081 244 3082 3083 713 3084 3085 244 3086 3087 713 3088 3089 244 3090 3091 713 3092 3093 244 3094 3095 713 3096 3097 244 3098 3099 713 3100 3101 244 3102[563 526]3104 3105 530 3106[563 526]3108 3109 530 3110 3113 337 3114 3115 489 3116 3117 821 3118 3119 531 3120[544 450 526 394 544 450 526 394 544 450 526 394]3132 3133 789 3134[268 263]3136 3137 789 3138[268 263 812 933 394 515 812 933 394 515 812 933 394 515]3152 3153 338 3154 3155 394 3156 3157 338 3158 3159 394 3160 3161 526 3162 3163 244 3164 3165 526 3166 3167 244 3168 3169 526 3170 3171 244 3172 3173 506 3174 3175 207 3176 3179 489 3180 3181 821 3182 3183 531 3184 3185 556 3186[278 833]3188 3189 556 3190 3191 333 3192[500 278 500 556 380 557 786]3199 3200 222 3201[556 547 568]3204 3205 556 3206[278 713 500 222 833]3211 3212 556 3213[333 500 387]3216 3218 500 3219 3222 556 3223 3224 458 3225[650 222 500 222 556 545 377 354 348 373 318]3236 3237 229 3238[377 383]3240 3243 157 3244[271]3245 3246 157 3247[275]3248 3249 572 3250 3252 382 3253[377 375 340 157 220 382 388 378 354 321]3263 3265 358 3266[369 364]3268 3271 0 3272[278]3273 3274 372 3275[377 328 372 778 667 556 722 333]3283 3290 578 3291 3298 222 3299 3306 547 3307 3310 222 3311 3314 547 3315[544 601 453 667 722 668 667 556 500 222 737 556 722 333 667]3330 3333 500 3334[222 542 365 667 500 667 500 604 458 656 583]3345 3353 0 3354[943 490 500 556 222 556 667 722 556 278 722 556 667 500 611]3369 3370 500 3371[577 425 648]3374 3379 0 3380[222 723 722 723]3384 3394 0 3395[778 556 944 722 703 0 732 597 1037 841 278 438]3407 3408 191 3409 3410 500 3411 3413 278 3414[333 611]]>>endobj35 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj36 0 obj<</Ascent 1006/CIDSet 37 0 R/CapHeight 716/Descent -325/Flags 4/FontBBox[-665 -325 2000 1006]/FontFamily(Arial)/FontFile2 38 0 R/FontName/JEZFVL+ArialMT/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 88/Type/FontDescriptor/XHeight 519>>endobj37 0 obj<</Filter/FlateDecode/Length 22>>stream
+Hâö¿¿¿¿®¿¿¿q2≠ ¿ {i
+endstreamendobj38 0 obj<</Filter/FlateDecode/Length 14310/Length1 40152>>stream
+Hâ\U|åWˇü{Ô7yâ4$ô§ıMF≤ïGë¨znDí	]Ç<0±R3íH¢B<ïRU¢SÔü⁄JU◊*Ç≠~—∞XTµµ›%¢X™ªıjª¥ª*ªøﬂ≤[Ã∑gFñ˝ŒÔŒ=Á‹sœ˚û¡KêË9≤®GzDzÈLÊ‰Â.õ3Kﬂ˛o ≈ñ‚Iµï5'Êñ4÷Z¶ßVNô;©Áú-ë@ÿE jGUÖß¸À1Œï@¬Ræˇt3"3∫ÿô>Ãt∑™öYu„éﬁµ0}ËÌû2≠ÃCag€W6”Â5û∫⁄»˜µK¿Ú≠,ØOı‘T‹ZÙG¶è≤∏vFEm‚π¸Ä’6v˙0§\J´†!Hk‘2ÿÀ∏˚ª¸ìDdê&B,J¯?u…Ê‘Â∞÷ºPúü£#∫yW;„+†k&ÌŒô¶	®$Ìw~ÎP⁄ƒÚ≤i€´íò◊x]˜ÔæjÛ∫ˇ‹øãÔX~ﬂèh¬ªTçwÒéR;ﬂz˚—ÇOç\l@=÷¢åcŒ´(d–òøñbÕÙ¿&Æ√&¥≤ÏXÃ«t°Û[,¿byÜo-F0£0Ài∏9„qI-B«T‘“K¶À\aÆ1ﬂ¡Ïóüö˜∏≤6î1¥öﬂküõAﬂxÎqâ÷tÿ√Àïﬂ/ﬂ¬4 REf•˘{`«ÛÏÉB>ZÈàHaÌ∏F1T/sXÀf”0?f©xî¢
+ç8@Ωià∞k„Õ|≥]ÿFk]è›ÿÀ∞áÖjÌÊ;f;bëäg8ûú§#“wo°ogL„,uG?>ôÜ√¯=NëÉ>”¥P-]À“^0œ"
+Ω0öΩ›∆7ˇJ∑≈|ÜÚò 3≥ŒyYÌœ6>¡≤QIcDw1Mlî3ƒ{1î£öÛ˝køH)¥WÑä6πYÌTw,è˚.õ·\ë$ºâ∑!Öq§:Õ§óÈ}%rƒÒ¶∏*◊™ÌÍ¥’√Q?ã,«N‹¶HÍKÙ™¢zj†’¥ûZÈ]ÉE±xN‹îUr∫<§≤ä‘LµH[¢ΩfπÓs˘>ˆ}Êªm¶õKP¿˝∞êΩ9≤˝h√ÜK∏JÖP8ÉNvMÛÊ”r˙55—vja+ßË*}Kˇ§—ãàvë¿‡3ƒÛb≠ÿ ⁄Nâøãˇ»hô Sdo9Pñ»iÏUÉ\≈∞G^Q6’¶LŒs∫∂N{[k“vjGµvK®ıÂ ù∏ª˘^ÚΩã>¯ñ˙÷˘v˚ZÃ+ËÃ5¥q∫b {ÔaòÃı^«˜ŒP(ÁŒF…îI√93h2Mß:Œ‰+‘H[æÔ¢Éú•Ûtì}ÒüüΩE∂…¨®”≈*±F¥às‚iï!≤£Ï,ìÂY*+‰,9WÆìÜ<!øîWÂ-yó¡T¡™´JPI*EQ‘lµQ]S◊¥Ò⁄qÌK∞•∆≤ƒ≤œÚÎ”÷LÎ(kÅµ‘∫“∫◊z6»Õ›˘ˆ‡∑xË£Àr°t =X!2T¨8)Nr?O@πÃ‹©¢âñä©Et”Í,ƒ Åvïƒπ>&ﬁ∑ƒ ôO√®ìEØ˚⁄,Qjo’G∏°rl'Ysù%îÊãõñPÏ&à~lÛŸS•»„¯B^"´⁄Ñ?´`ä¶bõ≈]pHej.ÿÂÏí”ÈEÏN ¯N–2Ó„¥ÉÁB1•”ø•	)Fpıë_aûü„ø„•¯%ï´J¨@’„∂Ú´ËÆMµ$[:”DµÚä«®BmÁË˙Q7íZ^°RŸhπ).`6⁄T0. ﬂ∞˜mbóÃWÌZ!UÒxK0›\àπöKù¶JHÉD¥kQ/”ïù˜<U∆ÛL€ÀØ˚ œÅ¡2ü91‹9√π/FÛÑhdxÉÁÑ‚™Ê7>ñßÿI¥Xä≈>Tj·ƒSáÁÒq_!∆ô[±ﬁ¨ƒTs“x4òı¨±	ﬂ`%öh±ojÒøúã4\ÀmZûô&º‚Ç(Î≠/g;ëb√.&2y÷{’yaêπÃ¸w˜ì<a◊c"~éØ9 ÔŸ¬Pyæ¢ŸÃìµÔ%ò€ÃÆå*s
+FÚÂ´è5Ökl–iéw*D°9KV¯™9+9Yú≠Ÿ<^Õ ]<8kPÊœËﬂØoüﬁ?ÕHÔ’≥«Si©)…›ü¸IRb7GÇ]Ô˙ƒ„Òq∂ÿòË.ù£ãÏ—1<,4$∏Cê’¢))©NGû[7í‹ÜJröÊßfxb∏ùYyè ∫; ¶?*ô≈íì˛O2Îæd÷Iä–b`Z™ÓtËFkÆCﬂG„
+\å/œuîË∆ç û¿W0∆Ìvæ†;c™ruÉ‹∫”»õSÂu∫sY]sHpé#ß"8-Õ¡!åÜ0fD;jõ):ìààvˆo
+cßõ#◊iƒ:r˝2—È)7F∏úπqv{IZ™A9eéâŸF«îÄrfKéaò—´˝—‡5Ω9ıàwŸæLtßÑñ; =„]ÜÙî¯mtJaªπFÙ_«¸èdÂë9ÆÜáO„§◊S≠˚IØ∑A7~U‡z¯‘Óˇ-)a|W$ÊπΩylz'qXëŒ÷ƒ‚óAãŸ§Óèƒ’˝¯*N?«=Y7:8≤Uﬁ…n.çÕk†pÆ}∑ÕñµﬂºõS˜ªvcPú£ƒìﬂo·‹˜c≥ÙÿGO“Rõ#:›Olsx«ë–∞áëäg, Ó«Ü>»,˘=r<√aËe:{‚rpL}˝?}·-ÎÀb¸ïﬂ2 π"’Fá∑7¢øüÔøohˇeº⁄c£8Œ¯ÃÏﬁÓΩvoÔ|w{èı›ÆÔeﬂö¯u~ús¡Kª«Ÿ¿—≥	$%`®RU©QC‚ë¢¢JMU£F•Ç4‚ =ªHµˇTjE‘™QJì*@J™\Ç"«		ˆufŒ&ı?UÁvgæ«ÃÓÃ˜˝æÔ€ãIµ¿àî?Y+[ëp1È@HÇì{P√˙U∫®Î≈dí@ÑÔ≈>≈{\O˘ˆuçOóP$rHRÒÄÕ∂`€éçv7aÛkqâí∆1Sú©Ú*^Fì>ZDy¢ô_’x≤D3π™π∑<¡Hû‰sŸS4«Ô]…[”∑ØªΩˇCΩ∑™ÿﬁ1¢ˆÚ+∂ÿ∂Ü´ÍªÓÈV®bMÔD+
+2TãAπÎﬁd¬åÿãl_ıc%ﬁåQI%PÌ/J˘ç’~‘™iˇÁ¢RÂ6YEáoó≠l≥ÿ≠ØÂÔ_√ØŸûΩ¿‡„R9∞mG°`]£√P´æp” Ä∂çhjodqd∆U™Ãwë{4X4∞…z…åø™hÖ]31∏Bè‚F–πÆ±'∫B°?¢ˆÚÖ±Rer<¢Jë¬,∫ÇÆıÂWÅS™Ãù˚_≈∂⁄ªqP ‡Öúæ`¿©≠;Ff%¸Ô`j€»EQo˛¡—Q¨ôU0®)F%Ä¯êëôŒŒ LR-KîﬂSÇÄ Ã´2ˆîPU&≠ ñ±UôAe§ë”ªm‰ø—CCrt@ê~^õü"¿†95gwó‹ª*3◊0ÅoÄ Œ„‚èø@Åi˛O„ µ‡¶—§ÜaØY©·S:•êòÂ∏jÅaCP÷¢JÓ≠Ó}TR™,ªùÀZ·ZIÖ*ﬁ?ùJï≈2ëd.&æû±€)ÒÂYÉâØ´ `*∫óOóu⁄rô•Ã
+ù+ÉÃëª•π˜Y£É	ÚfŒl2≥fñÛ˚>ƒŸ¨v´`e8è◊Ì≠Ò2\êë5ËqÁ3+ÙZù–u®ÎI‹é¡\õSkïΩ≤◊Âq#EbZkGgGG{*ûàG¥_¬;oÓxnÙGÜ~xÚœ«ó/¿Ù…_∑Ù˛Ï˚Co-ˇ…4Á©}d|˘⁄’ﬂ,/ük}´£•Ô„3}ô·S®¸À4k˙+à¡#t=(üÄªÕ5–≈D£@s…(∞U1:ïBNâå‚,∆±® 0*Ryƒ†RÂµ&>ß∂√ƒuj;D$Î—·…L‘∆U+¥JD`ı«˜ÏÙÈC“Çû,Jπ≈™)••å”ïn=Âû2ıÂÒÒÌJS≥>ƒFÇJ@Ò+gèK1O<7«@Ã'‘j¿Î®—dwç cÆŒ”†b√ˆu;q≤hà2∏‰ÖÿŒRF Ë´çX‰`{Ã…±ë∫(jOπ¢m≠¨WÊÔCë:é„9è€≈∂a8ôG–ÅWñﬂ9˝ﬁÚÙÃ€pÀ?¶!|-~^øt¯ïg¥Æ!:˘‹Ìı®Á∑pÈ√√Gf·Ó˜ﬁÖGf/˝¥˘–‰‡Ûõß¶Ø.59÷	ù◊Wn±
+ªŸu¢uF£E∞$˝B Ÿ $ìi°√”ÏNnJÊÑ\Ú	a2ﬂ\^h¯π˜ı¿Y¡S_™‹ö±Ÿ∏lÜüPg¸ÁÍ/˘_’≠˛/ûÍÕyaà∏¬I,Ôrëﬁd'}{©Ú°ë%TX˚Ù∆d*Õ¶7±∑õGıÔô˜ÎO€_¥ˇ—~G∏£;;S"d•¶hJn’‹æÔ6l@Jìÿ#æ"Nã—4-û?—N¿ ñ*ˇû!°%“†ì$.+⁄Iàú√Å{Qa‰:w…w ≠(< ì4 ˙÷VÖ±5åIcÄ£ë”¢• 'ÙaÑ0lDe	¿¢{6%®0Òæa#Øã“a˛.ﬂh	Ì4ƒÑ‚R\ç7«œ«MiÔQDŸx©ÚÓ%J¥ô!Ñ"©ÊÙ|ùN√¥Lˆ∂Å<Qé˘Íö¢‡Æq(Ãıpà…I9;ŸÁ#˚·Ïd3§Á≤úHéÀQ¥s-]´ŸBœMî ∫îõ–I¬XXÖ^fIøyì¿˛ÜﬁS^∫AÇ`u˛D5H»8@éBw`"∆që∫x{™ßÚkO·ƒP«Òâı®≠’ãá«„ˆ ë8√Ò"¬$¡nG;ìylˆâÛóøsdc˚ì◊ám}S?~∂∂Ë{Íùó¶Œmë,r›eEøzpWÎÅ˝˚~Ø˝I∂ˇÕ„C«Ü‹¢à∆¨O≠{`t¬7qb¿{¯æ£∑ø9˛@¸†^ëÍõ6Êwn~‡åËåËF¥‘¬≠Üäeôú)g…⁄ˆ2OöZˆ⁄Ã‚?b&'&åG	U´ê>·˙ªÈk˜bÄmqu˚[îÆ¡¿eÿµÀˇ®2Ê:SérG=ãh—'/t≤º≈õ˜Ú2^≈Ò™tZBíƒ+Ê–9 ±ó	xh6ìà#%·©Öµ…ÜÄÒBì&>•[râ”2ﬂíH¶äaÃΩãß»hl  	√∞∑MäÚF4ô
+Û=¸fû·U‚ûbÅW»cyë`ÅW»y/y>Ô•:´ôØÍ_}pÈ∆ê4°ÎãÑƒ5§ºÑ}{É&@\]&2$˜—‰G≤ı˝a(«ß⁄ZÅ”Õk^‚Z®≈©˚ô›sçüŒ~º¸tøˇ7(¬ª∑¨èÔyyÈ:∂wmÈGg·v˘çÜ¥√˙Â.ﬂë‘Ûs˚‡©z˜ù¡ı°€I\d(!∑:¸M˛fø·?‰›˛·¨`ıB—?Ôg˝ƒıÅp™÷,0vábÖ§ªkXÜ÷i7tWjVé±ÄAØAà[∫Rd4t%úz@øA¢»o8˛ÄõV„zZäÎHDÇ∆ïj¸πa£ÂÿMÏ	™ŸÖÕê8'ı˙w4Åº·Û_Üs@ã–
+|∫æ®€∞Ì2“N¯e©\ŒÅûûLÜîÎr⁄Y-,n……YxŒåc[≤∏Ç¿…9Çâ‰±cPü»Åˇê]Ì±Qg|fovogÔŒ∑{{wª{g„„|æ36·aüm$∑º!õGBxú	•<Ñ¡	∂i“® LîÑ$DiEc ®§i$\pPà≈≠Ä4TÍCm’öD´"K˛É¢ñƒ∏ﬂ7wÊ—¨<;ﬂågvn~ﬂÎ˜u÷ıuıY»¿uµñëéDÍ"∆…û3ˆ‹Sﬂ «ß‘.ù}Ò¢Á«/wl…Œ},ÙmÓ⁄u/Ω<b!t:pd9_∏kx⁄JçÊΩºü!Ó%ºúo„ªyOqÍ2·Z9ßÑzô‰·äÁî(≤¬4≈[)÷√≥^÷œ.3•ü1â∞ª#∆Ä¨£·ñk!íLDL¶·©L†»FQ·∂∞}æv5Ñë5´ÛﬂÂ8Ü:*Ñ,7(ÃdgGçY_Òu∆æææ>v˝‚≈Ø",˝’_‡∫‰9x5ä;_9-ãÀhçS≤¢œ÷˙Iì}≤RÙneƒ ÂrπGêYºÜdOπºMﬁ-è»Ë¢&y*∆‘X4¶h•á–~2HìπD.E≠√-ˆ$P Ö¢-©EC*@ ¬»(ﬂ+bAöŸ˝X ∞Ñ G¯‘œı…›öãwÔB{"`îÓrMŸ£ò“ª˙á˙œ?Ã!œMS¨á‹Èæ@ˆùæ•_≤/€#6K®·íp4T*{©hÅI vÒ
+∂ã?ŸWÖ≤/åWÒa24–=|‚Ræ§XÅÈ áÛÖÒb0˛/¶Lê4tﬂtπuŸÖ?_≥ç ∆≤Ÿ^{»ñ∂ŸáÌ^ªﬂf∂G™ãD÷7˚£»ãÔ@j}RVtœ[Æ!‹R ≤"≤˝nŒ¬tTEÕñ~≥µ„Æã™‡†òÔùÖg‹ÿu.7h4—"å*◊TÕ|ZOJIúµPú¡üÅ uPh%“PÃÖFÖëM∑5∫è~˜okè,÷µæÍ-Ûªé≥Ù¡s∂-™›5‹%Ì}¢}∆Å√øƒäc6‰±h1@∫Âtƒ∆õò»πP"ÁÍB…ˇy5«?OôØ.WV™õîÕ™ö’ßÜ¶FÎÌ9˙¬–¬Ë;/Á˘RΩ5‘]j∑ÀÌ|ΩﬁjèÆ∑ü¶Æ»Å’ûG‰G¥’˛≠ûÚm´_≥Jô◊(ı˘¬©∏®j‚¬º‡π0ÊëeÙ‚Ïê ABπ‘ÉDB%ò© Ï$/%^›õÄ§5y N„8ø ”»%)‚/¡¡◊/Ù[*Ù+“‘Ü¯Ö„DÖÜ]¯d9…`ìcòﬁ@©w5…≠ıfkÎ=∫Ù\bj«¨¸
+ó/ìóÒuÚ:ŒhÎJ¡ÃMΩîF"aëÊLA\†Í’Õ>ˆ‚πø“ËéÎ/‹<s≤{Ô…S/tüîLöŸˇ‘Ì/áø∏˛,C>øªsüˇLÌP„y–†A>sßM4©ŒhÀ≤Yl€»∂3Ö*Wy¿4xÄxTÍ+U¿˘à∆´^S©öLò‘îíF!‹∏˙ˇõÔ=Ê?Æqè;(.dü≈r√ç
+èP^™@∞94ÔÏ˝AÏˇ™ﬁz£Û*Ñ¥t»L¢Úi"˙g›%ªŒ"˚Îƒ™l˙NÇ™ƒx·ËCõs´◊<4sÊ¥5·1,}§c˛‘„ôyπµù√ø«hî˘ßÁÄ¬$èÂÓ`…pr*òœN-OnHÓ‰˚˘Û©üö?ˇkOÄ[1€ö¥p¸-9ú§◊RÕŒ´yû◊Úæº?hS€xõ÷ÊkÛ∑˙“}ô`&ù §∆5§Vi+}Î”Î´∂WlOÌNΩ°Ú®:8˛áìéi?Ûøì9Vu*}.≠B¢éwOé
+£BjTk•‰®P1*§FÖ≤G˛ÓÜ∆4≠R3ï~ç≈ÈÛM(ãAM·&ùÒ~πìsZú«ùŒEG	:ÂŒìŒÄ√ ùW…˘tªÏ–„rù∫T“È%*™S	Ÿ‚©p4[`ç%Fñ“	˘≤≠eRYiƒÀ
+ÂÜHØ◊FSË5◊D≥“	æÚç•◊¥≥µ∏}¢`8v·ç.ÂD—FúÓt∏ÀuÇ#¢• Io™∂~P⁄t©öV„)∏£~F∏Ñù∆M’1q‘X‡´kk˚k•\ÌÓZ©ônäà3â.L.Q@YzT¯Pp¸âTPí†¯y¡.b,O‡ô¡<0(™∏`rÄ–iw&Èlk«¢"•Ñ¶C◊Ÿ\,sjj:Ä◊ﬁ∏Îˇù †œvà23ËU}XtÖZßXÍ@åw3å©ê√„”Ü“M›£$â8·Uﬁ8ïÄ◊ò0«ñTƒI≤"‡W«iqZï·öR√‚§\/√lP£CÓ(º(_]≥gœrO6G”j6FA&ìŒLê†¢,“Ü∑ê1¬dkåTIÈ‹…‡ã;v~ØæÚçÛ?jô1•˙ıeª>^eÙ˙ª6ÔlãF'∆üˇ‰‡ÚÕÁw]¸3}∞tKÁÜŸVÿïµˆ4œ{¶™ºf˛éMˆ“¸“∆ä“2SK’Õÿô_’Ûÿ˚Ç1Åü^fib”ñ3$Üp!)aF≥A$u°p∂∆§)’å˙©ıA†2J=>R≠¥-LË1¡,¡¨$yÇuiâ–d›añ`Ü.¡,?ZÅÖ!Ä∫±høE≠Êò`XHbC1i[Ïp¨76c1%øÅ£ÚøåïÒ—†»ÔE.NÊû Ò˚"r¡∏ÑgÛfÁ>íÜ3¯M —SGnz!*
+â1Ω$HäWUTY*¿¸qPç8A"P]Ωá¥¢⁄«÷£⁄†>™ö De7†Ï…Ì¸√öwZt_üœxb…í˝”˙ıÕoo©ÔíüzeÚº%À^›'5°Ö∏O‰`˛Ê«>ú˛o5Æ|é^…Tcˇõ◊œºubxìNT?9¨«–º›n&≥trÎƒ≠ÔÎbÊﬁ'∞B)NIMwZØÙ'≤Üuë¥ﬁ2Ú¥ºú¨†›dƒ¨ùÿ<eƒeÔìNX˚åg@ˇÓÖıèBÄ6⁄rh±‚‹"hﬂÜ∂«∞ˆÓÖol√Ôàæã¨RÀ…ìÚÚëa8ÔM˘S≤⁄€ eW»ªJiáÒ1ÿ˜	#§◊¿û7ï˜»[0˛ˇò{˙0>rˆM* ‹˚
+q∞á¶¿¸8¯ŒK≈˚f<ø"¨k‰K∏ÀJ¯Ê√–ˆ¬ã°üm!¨1°ü	≠õ~J˛«}πwQ]q¸¸vÔÓ/<4íñ« †  !T,í‘Ú† `iAÕXjƒ÷c°è8ñJ#dP(¡*¥î°;Uä-0uZ+Ì¥"3EZ€2@C≤˝ú˚€ç?6` Ì?˝Õ|Á˚;w˜ﬁ{ÓπÁµïâ˝A-œa©`ˇ%:Fá\»:ãxûœºﬁ»¸Ôä>ú	zÅ~ŒV·dÀ^x0Á/IùÏó9zÊÊ3°®SK§túòˆ¸∏¡á€§ÈGE„›°RóÅn`äsPÊö;$ÅΩ^éã´¿Ô‘N∑ôRôÑú@œiﬁNY£2∏”‚±†—¨ìıÓiπÖgO˘’ú£{ge∞ÛwË˜ë¯◊h÷_jXÛo÷JÂnˆ5«≠-+ÿÎüëù‘6»π◊©Ïu^„Å˘”¿8Ó•<§˙∞ˇ`µπﬁ{¢∏iÔ~¿;3å—Ç≥´OÍùœZ}B?¨˝Ñ•ñw™∞Î_`rTá÷œBÏ-÷È|–«A-(∑Çâ†{˚∫÷_ÒıMÎ¯Ü∑¢õıŸ‘jÏ}¶bfC∏ñÓ”Àﬂ*e!zÈö/Í≥Ë≤#Z[cJ}&bÎﬂe÷Ô?“s™O53±gN 8’¡∆ æ±∆:k<TS›+·5¯qÖ˙¨Í±⁄E}Õ⁄Ñòyd⁄Ysmå¿Æ»°ØWDŸ¢ôÁ»F÷úÌﬂGNY/ÖÊq)tø/˜ô…h∑øÚr„<ºª›9)S3ˆ…PÓr2Ú1^≠H÷'ÙˆqŒ:ÏY//b”GLΩsΩ©Ox^]p¬ìƒØŒôoˇ∑‡8˚RœîÈœÆt¸j‡ÒÍ»ôu¡á^}pûï…ìâ\–3b∆ ¡M´3 ªìthæ»i-S ∑zÚ%≥è˚…!œåyï◊›*YjÍÉwÂRÓ‘À‚dé‹ÎTì”ÿÀ9"
+]˛vö]‡sq_ä8Ú◊8kŒ}™ÏáB|‚,8ÉMƒ'ªhm–¸lÎ9,N˘kq≥êó·Âë∆¸¥,ÊüÌ„~g[[»ÔQú¢«“Ë¸ö5«ié‘<ßy&z?ŒiÛó9[cÕ√eF◊◊áòÄéÔá±OÊæKÇ¿lÚwõ›é¡f?èˇ ^∞âs?Ÿ\SßMa=Ì’“‘∏¥ãÍ®7TÊÜ˘l£Õ7ß‰y[Gã≠~m¸m≤¿k‡ﬁ…ÅVﬂıabOÙ.3≥±˘Y¡9∫∏KàG∆¡LµâΩëŒZ¥&∫´∞≥÷¢*©pﬂ£_–πC•É≠˘RÇÓÏ5UY«º©ıOJû)"◊ÓìRΩ+=áÍ£wüÒ˝Wy¢^ÜòÚNé¥ÂΩı÷≤…˙ÖŒ-£°¬…˚%âœN‚]oÉùS C{l¥∂∞ÛÈE‘á’¨ÈÁ»T€Oúîóº")!Ü6$Àeﬂ9B\lfçóôW§∫0Ø´≠◊´‰‚´í‹TIŒÎˇ3Ç∑éÛ<I^n96™ìŒ^96,≥gmR9vâ∆èªEnTÒWëáµüX%ÀÃ „óIcUyí}ó3ˆÒõKÏ.e~è0o{/e\ÁÊk/£=Ç∆K≤@:˘Â∂´Éˆ)ÏÔûêÓ©ƒèøí±
+;,íÅ∏¥6ç◊Å!)Xy~à)ÿ±¨'zπYÚ]wÜ ;Ï–N$–˙S≥Pæiä%œBÏvêÅÊ∑ƒÍ9YÎf ,Û∂¨5ªeÖ ¶ìÙs∑s˛ùÙñ:~XÓ“qÁ‰’2√åd~•<lf…cÓ|Ôw“÷<¿]3œ{?ÈÕ¸S¨"qLf∏≈ƒ÷b˛ü∂Í{vèùAâ¬ @;/V◊1ùùâújwäæ˙ˇ}—µYœH«ãËgœ©Î2Oﬂ1ke$v:
+˙§∏iäS%u`ΩÛG˘™{ß|'±9ÿÉ]«∆Pò.õaâß¡ 3L~Úˇf¯Á`[J¶w&ÔÅE¨˝¸ö~(ú€e∏2c5`5¯uÙ,∫œ≈∆”·uˆ\ Ô¢÷ÄƒÈ`è"˛>vŒ~√Õm¡æ8A·/êÏ‰<…v˚2~Ûb≤◊çx⁄%Ω]	˛”öNü~πiv,H?ct.G”∏ßrXÆZ∑´˜ª |Õ⁄˜#…I˘ê\õ8ÖãG$À}»ë;EˆåÓâÒÿÒÿ˝·+¢6èè«Â¯Ω∂&;Ø…¨tD~–Ï+eî¬‰Û>àÀdî¬ìgo∂îÕ¶V0Cnr◊®N¯`ﬂñ≤?Y˙*úﬁË⁄UÁs†Y>Lé ˙ÆùçåShÏ*úù|ØÅÊÁ√då"ÕÆ√’ÆÓö‘ÛË~¢{âﬂ˙òC2æOÉ'Dú≥Ò∏çèEπ‰bÔƒb#˜Rk˛?ÅÿyÏo˝Ø˜Jæ
+≤Äî>$ü>≤û˛‰©i$óú^!›ˇû1™wSpˇ;0ˆ¯EëÜ3¸îÒ˙«tìıa_ŸÖ±ás3¬ı¶•Ê7¸J‰„”`[j~√ ˇˇ®ÁÇﬂÄWÛ˛áÃ{˛EÍy„,‰y`/ÚI‰á¿t˛?Á¿7ÉN†#Û´⁄è¥¯˝‹˘‚ﬂóÀÙ,˜£gx¸t¸‚≤9∫œV8˛≠›kÏÖﬂ-9eæôﬁßÔ€û˛ÌÛiﬂ8süMÈ0EA#=e{Ì£µó’˛Ÿˆè!€Ô7€«≤ØHvƒË”F˚WÌùµÖu˝%ægı)BØŸVØ∞n§Á÷ƒi©Y†[»eºsŒÈ"˜d‚ﬂg¯6⁄®@æß¶veRÎ^'ÔûÅ"wáœD5- ≠-rl+5ÌÛñØ¥F^EMÕ1+ÜKçG∏%ƒxEº_)Z´›W]À/Q£”ÎÙgï£:°Õ(…S$Ç=äx_⁄¢hEn≠œΩR9ﬁw\±ÎK"9éœ„æı3]•k3bqw•–o≥Îìﬁ?“!«ÕÒ ÿhL:»˝¬ZKæ†ˇ∫jT∞í±˘Á%/„U…Cﬁ®õMˇÄKı¸R¢Jƒ94"9À¥ÔNQ⁄ö?«˝V˚s€b3õüS˝e0¯2ËvÄπ—]Î7${øÎPuı;◊ÃŒòC ÷∂ √‰*r&r&π8€Ô@ﬁ.êM¸_∑Ö€íﬂßÄ»Âwy˚ÉFˇ)˚Œûç5èK!y˛aSœö«Ç_í”Áö&…L∂ó%‘Œ
+jhûW3∑9ÓúÏ)Yg7ÛókOQK®ám¥v∞o±‘Ä2ﬁùlN…Ûn;Õ:ΩÕ1…9◊kê{µ^˘É$Kkc˝·~ñè…3SFÉ|÷©µ∆≠√Gé3ó˙„dÀ^wíÏ5[ÂQ÷€ﬁvã‘¥Ÿ/5•26cÅT˚[§⁄]'å≠K>+Î¸≤D◊àÍ™÷ƒË?ÕT"Ÿ›÷¸π»]Cæ=:sº'∞˙Õî;®ÀµÈ˚FÛ2∆RKOq~ˆV][Îm®ÒÀ@)Á0Ÿ¯~j#gKõÀú∞∆œkÆ˘≈2=Û’¶÷∂3eä;üÔ>≠È∫ˇ+˘∫YB«uâˆ¬.çóÍÖ¢ﬁÑˇ%†PÔŸB§ì˙ïı•äºˆæ∆Îùyˇeø¸c´¨Œ8˛‹˜º?z•B€•m†∞–F*LÆ¨îÇPVäP3PπTÿ Á–*¨ òÎ 2ò@†≈çRH∫ÕÅ7ƒÖ™lç„G†€0Å•Ùû}üsŒ{ÔÌ€_Y$À˛&ü<˜ú˜¸˛Ò<ﬂìÜ;úŒ˚/Ò˙(GyãrÏ+ gà«…‡|ÂÄ˚¨”(øwtÓ
+Œ†]ÕTC+(+w™zTΩqnçqU¢^ç<óÄV%êÁÏrzNÅı‚˝≥2Â!ÿ≈÷€Ëk8•´ı[Ç1≠£iˆ–CDπXGûw∂=˘|>ßÏ?¯1“˘jÓ∆™µÉzÈx◊Ò°©ƒ"|K#X_a›LYÔ ycp^ªQë≥èÚ≈#–/øÉØÎçΩ+¡æ¶”≥‚c ≥øEsDOä2°"y"‘•ŒXóëv=“UTaΩO≥∞^+¿Ê›¨8≠ p_5Ãe¨ö–WÒ˝,òi˛˜—ˇë7ú(¸6jhg('?Õ÷ãË;BQÎuÙ±cA?‚‹ø ®Ûêa†Ègº}ÓXkÓ	Ç∫loÇ|∂_bÚsÉ üm$Ú#Ìå££rç££¸Ç »/∏	„Ë®›˛AêﬂøìÒMÇ¸âˇ≈8:ZÁ¸ »œÔdìÉ rpOx«∆é·m∫ˆÔ/¡NÇ≈Èã˝ˇÒæêï&˝Å)˜∞l◊@ƒ ü'g£LÏ?¿N05A¨∂7©üﬂè¨É¿t›◊ç÷}+Lü±}∫~Àk∞o“_t™oˆΩu∞˝¡&3ø’¶ﬂΩzÏ±ÍD˘Xo=GUoo)¿wQø/lYÇÿo5Úÿ_É3‡M3.˛üg÷ÉÁ|ê€J¯∫noÇœxÄ±:”´—÷~Ç&)ü˚N´Xı®Úáß] ﬂI¯æë4‘MÉyÖ"¨ÿá;sU˘µN±â†O†î^¯à˚(Â8Ái∂Ωà∆â–≈„·o—á˝s∫ü€føÕöC¨°{A)«0¯MéÖ·s´R˜+˝r d⁄1ﬁçTè7€jgÖPﬂıÜ ˝3ƒımÙ∏Û-KYHıÓ'k#U"^ıug”pÁ*ˆﬂ∂ÓB
+;›°åMŸ@sºo øÜ˙Ÿ®w∏
+∫Ó$ïbÕÓÚ˚ˆµñÌQ&ÚyœéòÛnÇIjÃ/tòmBèA3©x˝=¨ITçg2«O{7Ÿbës±{Ù¬–^∑“Íp6mu?≈<\Ë‘BÍÔ:@‘PÅ˜0›ÓTQÅSé=*Ñn>áuûF©æÖoØ˜ÊêÁT»fh∑mˆ<•{Ÿµî≠¥bW‹˙m‘–g≠√ô‘5æéäk
+GÌqπﬂG|>∞?„Û76Io®uG~âùEÖNŒtGk∆‰e—.î]ÎÎYØûJ<ªì*›üPôs/÷%É º7®ó7û≤Yüyû“u9F;üCãñQˆÊsﬂ¯.ç7w|)Úﬂ{Ù}‰˚≈˘Ín"Øeì…ˇ>xÃ◊ﬂ˘õ\Æˇ∑\—Ì´oOÍÚ-∏árñÕb=j¯P£ﬁ!˝íu™“£Z[∑∂q]ØŒOQó6†?;≤|áqF2‚zÿ◊ìmm5Ï<?ù˜!ÓË®€∏æéZî}	Â)mï6dª√ÿW˘¨±÷⁄∏ÆÓ¿v§_ìt¨ægæ’∫zU¿Œ2∂¿◊◊]Ÿ∏˛ne•4ÈqΩﬁïùNa•;çıûá?Ñı≠…OO≤nõ˜S≤U{B¬ËX÷Ô%X˜5ˆVh—N‡s«∏œ‡¥f:#÷”CÌ·"í0ﬁÇ÷ùﬂ!ÓOQ§Ù"Ø2Û”˘≤°…+FÑà{}yU¡o∑vp_Aø e∞∆k–(˝ﬂ	XÚpÉSz)Îr,Ï®∆ªbXÎ#%„Øªøé˛∫`n0ÔyÒ1˚˝õvøË>~—}πYÛÓlÏ…‡Nûæuôv«ç˝Q\’∞BŸÉãu=j¡qC5Éªíã{˚o1Á	$◊isû«€î1iæãåeÁeÎ{Ä7“eÕlo}ºπ˙¸yÙ:9ÕÙ†—^Á1è4ˆÔåÒ}˘·R⁄¶|¡tÍÀæqóÔ˘mˆÔ©≤µÊìe879|7'îÔÈ,•"Îm˘™≥>·˘ñ≥Z †ØïÜ√V≠˝‰o`ÔVÎ<ú¡ÓNo€<ÜÀ†ø%`á—€¨ckbu~b\æÔüaÕî√∫¡C9JøÃß*ê#özsX-§±3ƒù–V–¨‘]  ∞œ¬j“∞.•bW“˝.§ïv9÷	∞&R˚t1ÄÀSısç_»}â¿èˇç˙ZM(áo®∑ö€pˆ”2÷E/
+g
+Œ≈Tîù*ﬂ`ãüÅEÔtöo≠§¡¢íÜZ'°w≤êˇC˛g√¶Éô`3xånW˘Õ8'◊QÈ?¡:C≠œÎ4¸=°®uÄ¢–ƒQ¥ßÀ5™:ó¢°?®æ¢"ÇˆPŒ¬KI@Qà,Ûﬂ≈˜U®WÇˆBM∫-ıÕ/Nîq˛IE©ïT‰fÄ5≤Œ+ÎBóh§]A=±ßi‡Ïı	Û~`ı¿j…-H∑ˆ—lF\¢≈&Y' cù◊hæ3ä;-–gp>¢ëŒßÙ≤3ö∫•àc{àœ“¿oªJ{âºÅsWf5 °]KÓ 
+•ÒÿC¬˝ ﬂZµ 6TÆ‚·LSà’[≠Vdxws◊îŒı∆—≥∏«E@˚"≠µ2Q7ïÔ˛OQ1vı—:éﬂP1¨ñ‰˚Pﬂêä:SÕûäÛ¥çœñ—Ç®*˜X·w≠ºÀ ïuV)Âô∫˜Îw©|
+ºJ–ÓfºcÓfB◊‰KLR∫éπŸi˚i∫”æå¬ˇQm”ÿœ°ÜV{Îæ@ﬂfÏ—(«T– ±âÎÍΩÓ*ÌN°åïè>r€I/«ªÓ1ºπn^◊ik?ıg‘y–6ç9}áâœª´tŒœ[¸Lw4ˇ%í5r‚JΩ[#ë>÷√ønglíﬂΩ∂Ft√›^ä7Ë ◊>æq	Â¡ÂŸÎpˆ†˚u{îﬂaﬂ?ÉcÑâUh∑ôu©»Üˇg_≠h⁄ÁwR1◊gùø7Å}üÛM*g_À>U≈hQ~ß¡ﬂDŸ∑X4Ã∫°}P®QAÏãDO¯é∆QV˝∑ü°∞5s©÷àtŸ†|RÌ≥°Ω◊Ÿü!˛j’G‰jˇeù“>»:ã2>◊¿eäªpD√1'∂[≈¶Î⁄O*_?Õˇ˘ÌbﬁOÈ|·/∆v•óå∂¨ÿ√æÌJö:µ¶N€ÚTfü¿9ŸäΩ„ò¸&}›ôA›‚Ô.¢aº˛Œı^)∆w÷ 	ùœ1è„§⁄'ÏQ94QÖÇÔªë xoù1‘ãc÷È8ïdgkTúÊuº]ñä∏;Iıáˆ≥pNØôqÚ˚$Átm¸ÌÁøÂ¸∑—{mC›F≈&ﬁIzﬂng¯ú9¥Éﬂllë˜gî+÷qC≈ê£‡$x¸ºŒµú∆ûŒ‡uâøá~I‹Ê!Á÷ÎÖS&Qé[ßıäXAãCUT¡`l‰ÔçSÉ{?ÆΩ?˙ˇ%¥8Å∞˛78ßZ„·6¶\H˛kÇ‘˜4›7ıòï =ä£‘]ìYÛ%_ÚvÀ?∂©Îä„Áﬁglv2HB„¯Ω¸2	 4±É%Ñå≈YFàKGq u“‡!i®+Tùƒ6¶-®LÌ∫é{ @
+S6∂fl†≠c˝ï≤˝±˛—¯ceﬂ{ÌB—h5U⁄¥?Ó{˘úsÓ9ﬂwÔı}˜Ω<ÖB°P(
+ÖB°P(
+ÖB°P(
+ÖB°P(
+ÖB°P(
+ÖB°P(
+≈ˇ)å(øÉÓ—F˙9àìõjiëÌ'∂2öÉ6—˙)¨F‚ÿ/≠à¥-FŸc-]À≈-`,€ªr±qY.v–*ÊáíŸÚDü¨+3Ú∞´πòC;k»ﬂ…≈6Ú˘πÿéxi.∆|xò^%ÉTG´ÄAÌ‘Oq¯Ìî†C`òû£AôŸÑ÷ba{ëêäï®ÑË NÉ⁄ê€áÎá))[q¯8‘G`˚†!¿µB; 5Ω`Xˆ◊Õ≥Ct π=ÛyÊÚ™®[Ug¥˜«çÌâCâ·Á„∆¶ƒ–`b®wx qh•:x–hÿ◊?ú4⁄‚…¯–ëxﬂ mëŒÕªûˆáÜznoˇ¨ñt∆@“Ë5Üáz˚‚œˆ0œ|˙xˇ√µ›FÍ§ÕÿáOìˇ+Ω£
+ı>:åñXﬂœR~ﬁ⁄˝ŒéSª∂4Ì+—o\÷ñ—4‡⁄≤îøL◊ñhe©=ò—*”ÖãÆ–
+Õ¿SQ+≠õ ¿∞Q∑ÊEﬁ{ò‡ò 7Ä£WVê #`ZT¥2Õì2twhâ∂◊.∆”Ê“äiÃçtÿZ–∫¡0ÏR'2	pLÄ;≤‘äS/≠∆‹ãSœKóﬁ0 õΩŸf◊We3˝ÂX÷oﬂëı·ß≤≤YŸ™5ŸÙ Ê¨_≤<Î´¶sÛWBEZ~d&>À¯/…Ö◊éNÁµEdÆŸsô†VòÆÚF&41çk7QüΩ¢±T~A 4óœÚ*$ùˇùò≠”
+#°m¸6] @„∑qæœﬂß„|Z¨9l‡:òv>çÛ=úÔÚw…≈ﬂ°Z–∫¡ò 3¿¡ﬂÅuÛ∑≈;QZ7ŒﬂÜuÛ∑≥ﬁÇuÒ[ànÒ[ò⁄SıÎ„2◊ÊΩ:óÊÇ¬¢@Üˇ!uvîw;ÍíVAç¥Z´HUØ“3ZIj„Äû·I~˝|®éøI¿€÷–
+z¿ ∞#∫âË&ô‡EpX ª÷>ÆÅõTÇ†8˘çÜ…Î)_≥*‚øÁø¶b¨¯Ô¯o§ø∆ØJˇ[˛+ÈﬂÄ˜¬OÒ´)ØN°y®Æq√ª·kQü√ëÆ*‘gC|kß√÷Ç&–∫¡`Áº"’ß¢ìK4Â$(SÙÅÙ?¢óù‹Ø}õ∞a|ûD3bå¯x–wˆ{h
+„;˝"a|ﬂ¯"a|_;ÅHﬂ¡#àÑÒıÌG$åØ≥ë0æñvD0˛√üW-—Î[0#‰‚G±JG±JG±JG…∆èäìÓ€ƒ‹æü™©¡äù˙ó’ËÊEf^ff3_ffúô«òyÇôôπõô~fzòÈefêôóÿ:,Ö…Ç?{§π>X¬Ã)fæŒÃ$3}Ã¨ff3VÃÚ‘S´•ãHóâá˛…Fº}\º+Zé=_éw¬Ïu0+[Aàåä¨x±W¯ätMS∂ΩrC ⁄ 'q·$n√$Ωl∏AìÿFìËd∏`õ@7∏f¿,∞C]Åâüë÷[ö@78fÄ]NgpJ‰¶xAN¨67È—‚ì8+pñÛÚ`ô€„ˆª∑jg<ÃÂe-ﬁY/Øß¢"|Ç82,Ï£¸~îOy°<~öü°2‹às˛LÍ~ôûaﬂM˘.È°EÏ;‰µa◊±ı‰c’Î()€k…„~æL^É§<ªpô+Â[Æ_dƒUc˙}œ_ı<éoûK˙üçåç•Ù?!Û⁄ò˛¶Áî˛Fm∆âÃe_Ü¡]4§t‹≥N}JJO†p.•nLˇ∫gã~¿#Òlaw≠†KoÛuÍ[—_ÿ≥G&—Áòﬁ‰Ÿ≠oÃ™÷äk∆Ù:L¡ük0Ÿe9h•Wv¯•˙Î.wúut8Z_tÀÂ›QÊ(u,t:›ŒŒ˘ŒπNß”Ó¥9πìú3≥”A?·÷-¥ªÖ≥€Ñµ…ÿÕÖï‚•«úˇà≠/hQ›ŸÃ¢÷ïΩ›cXˇÿYôaswtZs*õôU•h{≥µŒÕ8f€¨z‘r¥~•cî±”1d-˛Õ£ˆéõ©ì•V·¶éqb¨‡‰•¬/=˘B,F%EGöJö
+÷o?∆Ù‰¨ˇ·QÚH\fùçÓÏ∞~\≥"ò-ãE≠oÔ4∫:∆Ÿ=v'gwÖãuåkçÏ^§M‰µ∆p,Õ∞]RGªvÃ]©s‚≥–ë·ÙfuÁ≤∫j\]ïp–ÂÂQµ‘UÁÂIùç	›h≤*≠™íöbÉíRì,6>©ô™Ü¶∫ZjäLöíö©"Sh¨F)Òx Òz§Ñ=A)Ò∞'§d◊CImNrÍÅ‰îIc5û¨&˙cM˛44˛ˇÙà7˚˝,›€€âWFz*#q–c=§øƒ2˜∆Ëﬁò(ñÊÎŸ≥∑_¯ﬁ∏´åá≠Ωïac¥°Î1Â.Qn®èRW§Ωc¥+ßÇë ﬁp,Ω•uM˝#cùz0÷ö÷«t÷*:[#∆⁄RˇòrΩ(oc’ã±Í≈X[Ç[‰X$˜xk«®ìöcõ∫≤>ÕÁÕ≈~Ì)-è5πÂÊm(/9Vz_+Ø–<Ãö_ŸlÂQZZ%<S¢¥ iWÆTr¨°ºÙ"{%Wr#]PŸL˛·√…√Tgˇí8ê>,<k˝…O;PãX¡ﬁprò(j’ÏåZM;:;Fd{ƒO≤6|úõ7/íôΩíMÆDrÉHj⁄°»mπººúﬂÔˇ·úﬂ$ûì_JˇKårå¿NB$Û9Ô&`QÙkLTƒ.`[
+T=G=XÃ®ÕX3Ílmmü‰g.)Ö≤†aQ•!:ÅZäaA†¿“ÜáXâ∂6@Ä ©ƒ1I
+endstreamendobjxref
+0 3
+0000000000 65535 f
+0000048572 00000 n
+0000048757 00000 n
+4 1
+0000048818 00000 n
+7 1
+0000048997 00000 n
+10 1
+0000049146 00000 n
+29 10
+0000049293 00000 n
+0000049422 00000 n
+0000052936 00000 n
+0000055068 00000 n
+0000055093 00000 n
+0000055451 00000 n
+0000068939 00000 n
+0000069008 00000 n
+0000069268 00000 n
+0000069359 00000 n
+trailer
+<</Size 39/Root 2 0 R/Info 1 0 R/ID[<0ADD830C540F8446902561014171BED7><0ADD830C540F8446902561014171BED7>]/Prev 47902>>
+startxref
+83755
+%%EOF
+1 0 obj<</Author(Oracle Reports)/CreationDate(D:20140415163414Z)/Creator(Oracle11gR1 AS Reports Services)/ModDate(D:20140416102700-04'00')/Producer(Oracle PDF driver)/Title()>>endobj13 0 obj<</Contents 14 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</F0 7 0 R/F1 10 0 R/F2 16 0 R/F3 19 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj16 0 obj<</BaseFont/Arial,Italic/Encoding/WinAnsiEncoding/FirstChar 24/FontDescriptor 18 0 R/LastChar 255/Subtype/Type1/Type/Font/Widths 17 0 R>>endobj19 0 obj<</BaseFont/Arial,BoldItalic/Encoding/WinAnsiEncoding/FirstChar 24/FontDescriptor 21 0 R/LastChar 255/Subtype/Type1/Type/Font/Widths 20 0 R>>endobj22 0 obj<</Contents 42 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</ColorSpace<</CS0 43 0 R>>/Font<</T1_0 7 0 R/T1_1 10 0 R/T1_2 19 0 R>>/ProcSet[/PDF/Text/ImageC/ImageI]/XObject<</Im0 25 0 R>>>>/Type/Page>>endobj25 0 obj<</BitsPerComponent 8/ColorSpace[/Indexed/DeviceRGB 255 26 0 R]/Filter[/ASCII85Decode/FlateDecode]/Height 259/Length 27 0 R/Name/im1/Subtype/Image/Type/XObject/Width 507>>stream
+Gb"/LMkA`^Os[.E-&PTA\g^;2N1?]mM&ADKNR-;GbW:qj-^2Zs3m$4&mHs8qli6u@%eTm\'IAmt
+l5&JNr=W%'![(g'!eCkh"b@IC?G(OQil-fl04$gn$%%)b_7cX*4C!1WqA"u;EKaHu7gFA5LFW\_
+ggSsoVE0Y0#B#ja[\g6V<B0H>h<IG.8Z5LaM1/raNOO$!l)phV1"?!*It"XIl"]'/\Z&On31k#j
+>qUqY%DID1ApsVAeu,T%&%<?M2*I2\40<GrW^X5uX@b<uZElmJ>F-tfC.jXorB;-L1lK9I8"8&3
+P-1(h,iAC)+c4<?G((%s#/Sf"_c2d*)iY*6FKA8;JQ#Sj*(1$_q>hT@lIObcm@6&Xg_uu:mS3?C
+r--YE6q]=`]V``sq#'C/gk`sp(O@?N3(Z[Si-`>`HMDrQhUrV3)6M5a:NOL@?UZ]/deD_HC"mW_
+RkZeRSO.K`*lI<]q1-sBS1i.3+c\&NAc)k#bB0(YC,/Kj(6(O!@jcpPP=q+Vq#roQqrZ!Oj";70
+5J)fjX3]#mWkJ4%-S=&P@tE4#;LY=ISoZB"[F$Df-oHWaHCi$q8?nfjnsktWh*95jVPpG04m`c/
+['ITMBoZ!Qf-E"6`2XS)26D:8+%&tb%&iu8<*DpeP^lV6$6h-->(aPb!C'L-I-FWNPFGn,BeCa;
++]d;(<%@.K]:]P%_5M7O3.o@#<AD2Gf`bCQ.N4?L%M=\eQ_[bRHXf_M_AWk79Z]&R)]GrEnRl38
+7*j,+:.?PCPUPZI(!A]tmg=E9l_`ofc7-Mno>$'rGE,?(U[Wt_RKo+?8D/=5B8UG\eN4&Z5Klbp
+/XS/))A@U/-fO"]E*uU-UT/u2c]?JdiP<)aYn@J8Pu==Z6HP#YEsD*RDMu9nA_96pl'u*<P#o2]
+F*#h0eY;GF6q[>P8F&uf9Zs6p(McuS;tZoE=q4'a'S\2<ht&!l1k^CAG)Fh?oOa=SFq/$L.M]qA
+-8f;PFAsg]%o1+k4UBUUKmKGPAQ0N7:WlrAKY&>=ob5IM4\e^WY0A&5_[c=AB2g5!TU:pjF1c,p
+2>mb1]')LOK;s]6Q%tm0["j!uJ6q5".E8!ABc4IGC]]h3C/qc8%lda!Rd-kR?.bNRlhR_B!^.!7
+kpsi8C#<m7b%<c]%)^%l3hWsU5312aSDQVbi"-fC_-0&J]+*RCm(J'?Tc)FOcdd?OI^2/`.@CR/
+oJ1ZF;5iVo/>Kpu5L['4EZ4ORZVj`I@Z3m,608?)Rfk$P!_!3e*Di)RrK5dqP;\4gSY-_I_t1O2
+C1/%75/nq0\EP/cNg=PG;W7hVS.AM6csYW#W:d--:)RFH2rLI^T=K&I2*I?uXN@:4depd"9S_D0
+d#A!=88ip5lAHQ>KCBj))ZO,uF<'dWdWeT=eisJVp57E3e%laPOu,2.8Xj%<M&!,b2O;J;RU1hF
+BaQj..&T)?FmTT#FM&`(>HbCtFj7&Nc=nBt#[.=,<D80sHm5mCVgbSYfG\Q":gP`QQ6'P:UW+&d
+?YM["PZ%WA+/.6]Ut#$.S^s\qrc$(Arc$t5-u787KM3l?[1g\@2/^Rc.!Y@jF@dJAW<Zf:\9qlT
+.]-T#emrtrIm4OI:L='60I.M^A!7+$!`@NRrt6h0F2GBbebL'k$ZmWU[n89HWR!"(KA\8M\:^o=
+[&-T6Ph'JD92f?D0b]Whq#Q-%#]&;)6)&2/I4.h9WCCBf!V9f8qV9%[X7'jf-"-=QJs\IY+D5T-
+2tpAb@9%_U7MCn12#Ydte%FpbTQgMSQq/SajO0ik^Q\%Iab4nK-Bhg2cbRgmSPoghCVa1=$Rc1H
+iKnE[mu>o<n,\9cN(Q[2hJHp#b1;WH12)D<*s.U(H)k5:89kQUnQfLs1c@<&QSa?'5BuN73j!%q
+n<'4!&'J/6\$L%!m'JtDF#GJFP#?,(?3^?,`bX*5IhGgiARiTuJ,W5l($n1PD0[dTO%F8:Tj.96
+n4OH0*L_?n;r=;]F$]DQ`2Xo.POWi[57FsNWu8sb0AlH*l#Zj,a5MePb'DX$HmH(T0GN'G9jd_!
+GHY1C#uGDRGn)1e_fhg\9)<u^44I.[Uf>%8@h$c-&`msn1g<o,,EeB'$+3n6qXn8pnlkM$M\e$Q
+]\HB\?66'c]B=J0il-hBLD*#"CohbKf+$<pE22-@CD>r<"Q'WuZ!2l`U,;rb)eWqf8Gc'sg-qr0
+9cZ3LC:JH_U\9CcX@?<<?eL?J?l!\3#5q56Z[@]n^T$NVd<.NE`5.,81"1^NH\AW'RllCaVoGc(
+]*]\,WeK;mURMY4"NSHol0;1.I5F%,F;[TpEk,SD#lq8.)cS)He^j0p(PIO5D<q!.-!C7HGk9Ec
+/nDnbaB[Z<D]7f=J_"`RH<]Ugk(d\r6b-t/g"j&k>>dC.ARr,*=R2=K"9(f\(^9i-L(;uqkPK;)
+0`ej$?2jq&Qe1a/3nX:[pE'>p8>**Bg0+mIUVQNkjQ7Xl`\!3[8COoYJ:V`/RtQEei6o2'^]%^5
+m5:PsqTHiKl>%e.(_gP^!,\EF1?efZmlHe;p_LChi*M[Xo.oClJpDW7!0E2o@$L!h".T<6Ml,2N
+;h.&^^&&C`Ek]j9Lm\Sm(1<jJdaSc8_;`;_h')7Gboc>;-![+ncN#cp]_PB':jp/V%0\[,dqng2
+H-UQs$D!.Cj/bIcou0K_#T7b';_-suA6"gs`j]4B:!Q$R`J0O.dAHL=o?%fS;&e"4;0DE2$(33*
+?bcqW\&?[XmjGf2HV$nTc6-X!h*-VB*F[`Yg4`4R=57u"+;<E'-uF4!`i=,H,u,Jl-UI&!^MKT6
+>Wm$.3eGit`EDrM[aP78WH/_"=#ERLVILKZbVqNe$,*'5<?S4F!'N];OatOaYA.g)H9/"-q#Pu\
+0%rkM*(i&b0*&R:(KXIE<$ajh#dQhajg>c$T7ea8pK%'W/tiUk<hIfV;b<DS>i9$M#V)relKct/
+a16eZY<kr2hbB>pJ8-Ra,huG*j=PV?F!*BNNDS+\:-n:pFgXM,-TAS^%u`BE`&ou_a\H;fiKVqe
+*AY1:I!`p:>g5\-(eW9?>Z`c_J<?ql,aOW[X(CG2J"iDdRQuRl$>g#a#Xqp(:bBIm*"!H-'hKcu
+\L'=ciKW4L&_YEuIu.EfN<Q)o#_P9*mY3Z5S$bORRi\0J(D5_ZZ<:"R"Odf0c1gIS;%*3FTtZCI
++BZ9l@9a<hn7K`VS$I"<$J(S9o3LA\lb1/63O6"PgA5GBUcYtf087[RWLb.r,tHb^7I/2\^jK81
+@`]U=gm)Z<7e9aSSDM+M]\%Os@WRs?YU]D\@&FC,kJ:bIcnpg2R\*mI3<.36r'mI1ZW$bV?37,O
+MTN8V24#?d>_-g*[-9oJ4>XRld-a@IM_CnE5-0_P8W?QBd%Z[MeFts#ler_Vo!a!tWUdSh=-EV#
+:M_S2$f-b%#6hS%.l!e.)J6QGD63OI9$>q%/P4]uIK4DX<KReg*r;Z2fMX+*po&mA5X-a?C3DkT
+Gk'e4M\e$Q]QcH*PZPF+KsoWkrFqY3-H"IXa`7X>TY0/3^m)imJp=olX%K($d2)CDIk]R.>d'lD
+Ch;B4[)T7Qh_'4Y=X)]C)O@&J\?@#;0aV]Jo(H;Z*IHG0!4Js5ZF/O;]6eN[pE_[)mO<>AA>:n`
+0,-;Wg(/#2D,M)RKqZbN4WT>:lJUn#a+C%[mBj;U*Ptdl3r4<Y>&V&Dqs^6^-P`H&DNkVPC7USt
+3jb"Kq?J:Nd/(pq#n=6"r6OF&&tg_;L.aBEaOVWW.3/%/fn00"H&A3l8>qgBE2_b9RLE1G*C2^$
+GP%5o<-uE(>"b6CK1.2QbUTQ%\Y/V@';/`pbmG[Hk9H==bYoUc8%FFTQ^)63'C%VAJ?`2iW.6O[
+dKqj03fH`U"GnR$66Hot3_43#C)"=$?o/@TnG^u?#\2)NcRq0dXuaH!n=F/g_>`L8<ml$@+)HOs
+`C%F)n9CU9N&Os=5WL?3Ho!$Pl]7e&4,JZ%J]l%])4fkR$$\ruW[UJ*=<1J:]^nWo8&:\)/icL`
+`]'T)Q(#4B&2TGRas`fo';`SX-eO[oHa`O_cL%rC,9JTg(BAu`o+>jK1C?R%,rG>9`@5?$10:^1
+YZGR8L;Mk,G`F0c5m,nI#g?6SK6!+kZ,1%Q=b?a`cucTDrKDi^RG8O9;^u@H1FMst&lo5Y'RH4W
+!H2Eq!@N_YW@&F9E15Va$q2%8;*sO2b-3tOIDMX[R#^Og$G&WY!XK9H6,S;bWc4*?roc`j,]*q_
+#A]AD',J003H7'\#e.oBA&C(DD_]%<)U15.JFDV-Rp"lnX`2@WaC99?2p,lO'Tj#jXkJ`k,=RNk
+2/t]drDQWHr`Ld><>cOIWJ9Z9ENQ+$(s<Qk5YW?#/T"(EYs3q:'TJmT;WS6epd:&@TrC@ed6]^Y
+U%.&2U?8+`':f@qQSaH]OCfh&_RL/AaT?0%bNXsmRL;4]e[I@R;@!E^jQ.Sc5o-1H"l^ac.lD<.
+f`Ygn8uGW+@d?Tu(l]tVLd4Cf/s0[D!4;EtnNlrhLbP5(_Ig&;\\nE&"k\_2!O;DA2@hE0>\kmo
+"6EX\KUnp.R:b(kVN]uOe]qYsn2\SjJTh5mUTcd*>9D4im?AH,>nL@*.u4^g=Tr&VV`eDl.k/]j
+*gFs-&L>c3^iWrfi3TId"sFgJ(Q>ia!&DGNbq>IBZP`Wrp*[<$T6MaW8)@XI0S,ltaC^rLe7h).
+`1bN%\'.eUJ@<6-_VDa@IU&(J$f4/d/jCS^%cot\*!4trMWd[+U8al$'\'61Zh5r<V$!B4U>OfR
+9AOj14j#@]3[Xsuq(MK6a8:A(4io:rkrTFE?B-\J`9MT'O-bWgqd=..EXHjRT'+(N(GB)9:=tO7
+H3iLl-[L4Go,Wg1'<a!GNg6A*/FGs^p:Boqi[AuoVr]#J6/]e$fAThr3-Q)+liG/^Z9\q<9LB-L
+J,Omm&(.[KXB:36`D2M"Ih!T]kr[YX-`Zk(^[a!aEXNX'OlZAndk(GuJW1Vh1/qF<N3;&&O+Zre
+-c5%#CJ<AB24"a1cTcEu_j4M2(*/P1!*6cX3hm`O/EdI\Z%Zuj`1*N;BBt2QaEjggL.W\:FT(@(
+)&<D[TB\ns(koFZ'j2%Z"[Q@$X]]aJ'U0s@k0h(t(iZ6824<RUWIN8,6)]fQ),_/134rn)@!WT&
+GXM_%ErlugYg^6.mIn"ud:%S4!]K']=Kf4IA-84^&#%h(\$+Z^TG,3>`QU*5.!>lpq>Bg+_JtCZ
+X+JOZ^3o#b"Tj`e1>trK$,m.PWKAhe&d8Z;RONl(0ZqrO?'2@EfL[*P#k9anc-oGl2aR5OPFLe_
+$DPFKAZ]'V8>t/@_YE6WEt&N:RUIb-66g>qcl#DIL`L*]Th!2if`+*6Qt),Ti,VR[`(H/%fQJf,
+,SUn=`!(JW[b)J#R1cI<o$l/Qk_-a,>oBoB.!DQ+;?G2neej1O3?8]n$R02$K1KEDJII97EM.hT
+!k9\1C,!f=#MkJ9`"#`4Ge&NES]5ehIcogSZ5$@!d5E)ZC^&@6[#GkT?G(OQil-hBXpCYQhu9&$
+V<+]T@K@pFmFGN'6$hD1CH<cTB?d[YIf@N^7R'`:VUUE\;IV7%I\=?aPYM;K>O&jC`g-FaPY$rL
+!1^IZdL!edf?IH_!i_\Qm8pGV@:&,,cNgK+kh2$3^'>`,6eJ)F/g5Q!%`dS"`Pc2*p+k0gP1DE3
+A_mC9\n>[YeqpQe[jj"1cCXa1eTs:MI'D=!B:$BQZB(-72X#b@*JMG<fd8m!9oVLG'Z<,!a`P*E
+iI@\X'lnoV*irj.Aif!aqb`d?#&6P'he::XhXG]$F#@qIh"XVK@h)rh]5tN?=3$"%kO3.6MRH/u
+btW,59b]h4g>PZ@^O5@/G[oI%Aj.#*NDfoG]]p4-A=GPD$8tLL/fi`_&X:T4b9*,F`hIRl%58:<
+PUtPhd6IsZOer'q3'r4aO6C47Ru36He@!X=bj-[7G"BVP;tc`rN=q6He2FT?XYt%0OP;a0*4RMl
+Sc%&,BFcVR2b#24g2Q9ZN4'nm9g!;=cNF8h@D,lF3J/lcBnJI&E'Cf>OtcKff_Sk#n[LR.#*u!^
+_;8#`l[PD^i3U:t>H<=,BKG'Hp``I4do4?k@D^MR\7:R*Pen$iS;'k@8=+53V#sr+K$nop%]T[+
+<=?g/)8>mE9$5XL/d:3-RZH)oQKpViN[Jd*RX#oBdE]u9HHF5b0I<-IJ/nm`9JrKYBg(,O-HImE
+:'@r!M/Q-SBEBLABu?dB:c^g(f<dKU2DC08n<mG#dQRi'3(L%M9u/%IP,4W(dd[J"DX/MEU5ks]
+];u77koGi6\hlEtio;$gAo^Vl^`5e&@mN3Hl%!qbBHu@NJ^H0<:8?#d/4q:l7Hl':?lV8dZ\aF[
+X"&*!pBO@<6PMTE1;d2+3l',f[_@crBY0Xm]DqjNOn;A7MG$LMFke"8a-N$I&138Qa+AKGLHaBD
+R<TQ]KO,V%:9k&"'5n-9aN%R=Hp2=?*McT3Hj#E*J$\&*MH<<onBXMgS(0\Ukn$HY\:ajK6T)0R
+l@)o(GaG54@%?`<)Le[cEJ09uOE,ALSF8Mm9i"SJ(rsf)+SS:Rihc6em%3CZM\e$Q*`c[f=iaWO
+@0+JNen>]_Jft#+H!'J_jt2\#Ap+d.[_2bE.n5/<+[4TUE[t(^>sE"NPhSI<BCh0O$C:gp2&ag#
+.;n_(MNIe(iBIj;LWoUIfgp't0sc=c$tso.Mc+of31TRMk[EePe-;cDD#A9D8\mn+oXY)&0gIps
++C%1dQoZS]U-DA'&#3sio0:*,jhb7PL"]kWC#;h*AGo<EpVC+?^Q-4gK`),qZp%*!n6f_^8'\?C
+1;hshJU]JF>/F:`IqHL=^qI(#Kct499@:*7m#CTY&L0eA_VXYX(tBn%:]:@;g#M1'7ZV8/fpI=`
+'g_E2r:<\JHR9S14kuUIlH0\to@O=_i[El(Sg7lBacoPU4B-a-2P@[3*`L$c";m#%15?OBPm$uj
+h>VrV"g43@T<JojilEs7X&fA(/;$o\+<t"DPA'kKiC0Gm!TVGsr98Ia0Ys"[U]Bs"YH/E'rm9ll
+KfkS*/n-\VfL.=VU7*H8>05>=lU/,^h>K9[DNe&A*)NG3YfG#c^R^R2k;"ffU:f17]YqG*=N3D9
+Jl`3dNCY3`FP6tY;1DuGd&9F5%^Q'^)%R&aB-IaB,>dt/'])Ed;<&Fb/lSjmo:3"&,iYPg[ha,&
+iDlJ8pkJgjV1-BP3,F$,2P@\JrY$6e4FRo^1/D)=B9,`s-Y<&_+I#t@#&Qn"V#H`Y8WdJCqJ<uh
+5e_u+!gr%^P,I4@&F?:ib<GaE2M=Xam>oiFAfNGjIt,!@!G[^g0!X_8lkS%d4Ufi*k=V#P[AXIJ
+!hC]%c!=5.4*Z1`2HU0*=%C'JV^0`sFa"2eFH`C1,sB3kd9@5A6J,46OH++6]l2UPF,3mZ.@B.5
+oD&RHJ9[3)@P^3%EUn$2UB"]Ci:4BCLoM%P$@]R.4eA>o_!j8uj&E`no@C8uC^uA$ScXX)RSno'
+-6BZ\<#a1iQpq"d7"ECW9r;W-RRjGRD4m6:JcNAA_&!rmkS<27&]]_`:`2DiW9Xk31cE=sYqMsP
+o:2GSe/ZVq"i1V'3UMr#*@95A;B,D\om$HG_U/qQ/F[Pf\qhhSNQaMOP'Kr1Sg\0U3.T,AjJ@qC
+W=RehF;OqA#l%;e9Uhp8/,Y).1Y6.g-B(G@`t>35+^n&Mn70",1,opNONL6NNYBEk/7Y82##m9T
+:7.'TPkP\H,H0B,>`Vs6c4n/!PUf7o<qEb;2Eg&F'q0B<-^hU*>l,T-6am*PKn!qBGc=F"Y_'D-
+fts@g'Quf'YX)l9./b+Wq2@Ci>iELSVWm'.^J`C-a+gXU).2+I8;DH[/7YF]&Y<IRVeTXuT?7-`
+p6\@co!b/XXQ3(bXnsW#l9b%Ea<o2p.<R7S3,F$,2P@\WY=,#i^*Ib$ZClKbBk6o<Uih)Z:UU=9
+,Wp66\g"9Bj+Jr0NdP/0>1\P55VMjWO`n4J&#0Sb]Bpmg[9J6%\[<ND7j1hboe'UOB0P6i9=SZS
+4n-8(/jK-JkK4SG>lsnBKUUMu-!-\'e:l\iX$]&+'^*1.ep^F:LN)i;7`js<-9kdc9<839WfZjt
+0mY#KP%5+HV?%q_3**c&$QgpTKC(T6`N06N68XF.L?SKYSG*hfn=[tb>`B#A^NFfer'D@RNsC'b
+/0&)t_=tus@9"HDFCo(qSf6qgA)+n_1nmE=\uaZ^6(p.s4<G)@dnjkfEV"(oDlPR`O=u[&W%>@r
+;2f2SB;^#?!)Qq@a=70#pjd,?%ece=m\!g;FA1+SX=eAfTL@C]=HPAsM-Zcg5T?&3Z_1MJrKp>s
+gZ*i`h"TO0I[3W^c\!FBJ9?PY>KVZ8<b;oA`uUDMhhUi8Emp6q+M,;bHVEJ]F:c`Q]#Z6DiEq&n
+_4"Ahq1ZZp@Ndgk(DTG@!Mg>ncS=]m5H02/f6U'RTV\i:HO8S9THBCfCj9ofSt*K^;LX9QS<I=l
+.LEHCKF?H5'7QVa@Nhc`KdD48<hEc>N[$Ru$rEt6's`e[EVHi3W"idU^l=[4r1JSX\$rpIgeGQP
+>S6^$p`_%SQ^(B_3.@P.Yu%5$I,G9\:l(0>&8XTRlt6e_Ib[AdNO$_<)?F$oHIHB<d0uD?2rL/;
+4`S1WjXqLg@bI8\jDbK/q01KT`&>K]]Nth-Aa2_:EYQ\5#k8;1+r5K0_IQd_`Ht69m^+N/I?Ujd
+Cr0MhKO<q$?GIV=:o.]E%#HJ_m<=!5@RG,(8n^f:Z0AV@(@pJ(M\e$Q]QiseW^>H!]4't=B%I6h
+>7Nj^*iEP$&<3_p3'_a_64:N@SS_.E3n*BGXf>:P"<ni3d6<;^AL;AWdb-)!I_-CIBk;(4Tiq3i
+&77WA`UTc(>2F%XIELU2VXkETNURfpD@kQ"o)I[ci'&4X"@8@p[(+G4*?bJK-B9JO]6!Ck=Io.6
+*R&BKX(M3m9El_>_n!2%%+s7;I`rot5E!Noj=+e`M+F11#LB+%dj7A)!d<6_??*nV$GKQ$^pAZi
+kWs2Nl_.OX,d:]MPYUc8O*LB_iuR/ai3p*V.Dk+,*Pd.I%+n-0gj_%0F"nk'*4XmY80-gbKVj#^
+?6-cU(O"IT`A]N]DQ5Z;E?=ZnP.[a`nB_fEo/RkZIogL=E^LYe@bt5g<sgl%C>jQH<)>V2i5;-]
++Ds:AWKV!S++Vo["Vm(>au,"Hr#j,Pm0@J(K``*@<s\fA.%Nj'Lp#X)+X4SqM4@J;+[^0Iij6e%
+<IZP;]?_!]FE1Gc0B5C0^&l*q1>[c6+n#j!I3\OKWV-:"_Z4krp7n/U6f`g8o)phnF#]bHga!5"
+c99h;*MITG`XYi%]JU/0'UKPBZ,dlLnl[8%57^@p\hj=1,*c,uYY!e?NZZlGFMK?"[G7Vnb5V^"
+U![_gN0R2#kaL=TPQ3dV*7'7!c-aEkrFgo50u:.q0KlaK#h^.sbW`)gk-b.\KfOBdDD*aU'8Lc^
+hMnV2FN1C4KgK].ruW)4N'_Gs4aJ5qfCYq;'sOHP4@Ac/oUod8Cb/W"58i5XV%Z#,]ZLD<C)("G
+]Q@(V[;O7cfYfer9%LCR$hn"h9@,]Xdr3SVNE@`Eg.F;Di,_r$>?VOn\!mcgRONFt<KGS-(MLT5
+cK]H@EKr=fOZaB":"/0[HpcR@a3HdTA-skKI,*,,HFR)IBaf"]eYR0;&OA\Q3@[!mXN3Fk7Xnrj
+P?=s`UN2`3B3ljie=:IYP`D9MngGM3?G(OQil-hB`un%e=lE:>Z*4-.]tk%4-h&OTVUD.KPM6C"
+4hshs3H6I<jr=#T9ho"DBYP,iQ+=eP)PqN7?2OVSc]mGKq\n:RX?+$6>q=FgRDTClPYQ:5?AV4U
+P!87<SW'!clW<2r;'fU"!CY\Xinn3i3[M/=?H+940TFLpS4Fg96CX$L<&lPj.+YT?V,O[K[[hDb
+BE$Lcf6/AW8GS'P:u8p'Z#b\VV7Q&Rn-;X]4)=Nd`EGLC0%=#g#$m7CBCZ3$-.atEY8muJQ7*d'
+HA7XSdPkGsldPh_\W1Z.AA.=N2Q&$6rO-b2#gF9)5al-?Br<k`)Tc0]nf<;Vm8,k9V)o*9(62fR
+JmL0a#9afp`%.I&%@a[If(s7Fdc%pcYaTP1"FA7*Bt`I(2b\YH*i26G#qC_>3!&0OpbP0/EDLKu
+HhX)6-HD@WND#&o(N2R%a2-kO:%P4jb%#,1m85p16m],MeMFi<Xj@\s#X$04_0Qr#W(pD?e*#U$
+O4)]5UaQPs_D+HD07Zu5i(J<Kb_"[)V;IN:G)>CmFS5tRWm'8W&ngOF5RKjUr*-g\*a?LdY)9Q7
+,q^4!d]"$H;&ft9;JCkMJod`D7^jI*?*6Tp6sZI`9]FJl4A+e>Z>o<^b@?\-M34T\3KQXaFtr7#
+M\e#W,`t/S=X+)sH/7k*XZ3nU&9Z?QrnbL=i'kcUHHB1sp2Y+$ql#OZ&on>MLi6u%(saP>8*TB)
+SZ%M:mDXON3PH`>FoPAg"^_>R1(c]pPg4HW6Y.7_s#f^&bttrm-Z3;0C/am)!d:\s@j.EAS(k8k
+GW8%d'G'U;lT\j#aMF2c&GI8T99bG?[!Vk*8"f+E.F]oOZ$uBPI1GH"_qkgqV!L,=V1bL'EOH;(
+Iggn9`pHnMQU%HJ$4"p[f[@2nkn(?\4$!$?Fg>,h4:hU?_Ks?$op]2I=D8.FX2P&"@/a4=NXjpp
+&/m]m5C`MKUJu!Snu)[P/A.E(Ms;THJ`\@$G'Pe?!1%F8e7]AZ%\4gb"oNkdS2sa&.6rc<$)@"P
+a.M6r]t'$NT&ifUFK20nm@RsN=,jN(ito&F33p%,B:PeGla0VN%8@ig)^q8o<Z5a9n.AOJjlo%)
+ZI\3To\K-6QesCfT&h[5FEI'.V9C:5*2SiRgDHK]/dRd5C*j`TEfaDd4^k1ncXj1FnhfsML.b$k
+9&/P2XoDhJ[Q\1$ZF0?c>5IS-:O(3+$\?UN[2s_F0q1EIPR]@l/%-QYF4?E+aG$PM#m^Ep#p7G0
+:cRsFN_="5[f-Z_I%&Br[9P8+c4?j28@$SF10"CHLXufKlPD(r-I;sn_n'Xhr0YUcLe#`Gl2Xme
+f3?!4E0:(_\TINN$uO*d]GS_-I!IDC7]u>Xd*Q;bX<J<dH'HTT8Wa8J4L`Lb8Agf&&sJ9E:m#p*
+VCTb6BKU^MGa-J`8]D2/1ioD;^t0eCaO,\h!'%mbHHX4K#$<0:l'VB$M%\@6FS<h+Gd[&#`JYNc
+?G(Xc!Xg`p]s_C+jYk>;?6P,r`tEX[nUuSZ\dS&(`I[hC^\%h8>AJilWLgEh.%Qn1DDK)"onslm
+(<];baps3p&F1Je2qX,W;4PnbP?.KiHch@^>'u6%h<-]ooI-9$63e0J2,kbCb(5Fc3IPH,L2S_3
+(O2k/F46I=BpI;<BW\ql\s`,6Kg.^mB;^E(<d<3TnEiHfJirF!^A_OR98MU(G;+PF^rp'ar26.]
+a.g8ln3sFAF$;r.\\gM%k0E][MOoL18bfacZP@ik8b&5PUp6!)+T0o=]V;$8;***L($r4:-Xo)n
+VAN=cN#2\KBQ.Y=3p`ui[oHZ5iW_^l>\C\P,qL$53<.<bY_)Ls\`AXRc]I[Qh.<9qOc9!u$Lso,
+?-DW^q:QsAM.Rk9)`em7*j>?O>:uK:,i1B[T#MCVaPbR%_PjUbE?1AU2V6CF`IX1_K7rs]ULsXT
+1$o8enB&)oeZuX?\m/YA_W3+!!G)PI_iOm]YeK?nMf0ug?&p,pkkBNr,KU=/A^o%L>WR@:m@'\k
+q.-TB!2nh"ou@i\^aPbdf(td]<Z5d(r*/@=8j[2]=71YEQ1m2?.Y2S#i1,Hs-tY?[^j";9Gga1K
+ZPhKnBWP&1fmnlU[%icN9s6Zc/^E_/G$I(HI\q=^ftgs`Z0Ql,#oPEdld21+;=$,bc2GfbN`"iR
+TANlB_A8261kYqaNp6O?l^)@YP!^cMIK?MhOR&:A)aHQO_"jjkOE@@3q!:SQYZbCKgZ\LIiq_8K
+U0W&WdQcK3]S_VuCt64f3=r3=Sm0"U-t'ClTTnCFN-sINSr;,+-;PsP><H3m]EW*5BV3^dr=!Wn
+C7gYVb]qSlkC<_p^Z=^B!s>L"'H"i0LYUibBR7VJj2]t2[^S7Gan,EP0PsX#m'4"Ln+u`_3oSh`
+N>[:DJ,/=fDVLYQ,\4\-Xht_$;T=bJR%kJkK5@U//#&cs?Lc^6)7dINoBUd.fb!^7`uCK*n&kQh
+]qaaU4V2iUbLF?h$&PblX^p5eS,TR'mN0+0r+m6"898&THR]gR:KR7&CQDODceg^(:3cBmmg)7F
+m+<[`T)M:I=F`"i)nkCJ"c>$Wek\<@g5XNXd#LUD9UFa>0Ed%IfPfZi&OlCA#=9+d>nHd+;uRgA
+=hbcLdh-qL'Hui5fV3GGV)MoG5L@oTR@=e-OlnfZed5o6M%i$W&9Y>]Up7t@a/nr5.:<soD6e9L
+?oB@:1PB`jBH8g)Bij4GH=ZRfY9$"m`Qk6D/pu/q3J'ZZY2ck%Gk(@WV8hOq$$Po$Y+U%5I0&8(
++jGo3M61'%n8^qM[E?%/;FU-BqsK4Cmr7f>C!(K8S"5U:G3C&"s&;fWlj72m%(koTj:-k\iHUu>
+Cu/L7ArV$OZG33S.K[O60B-A'OC5_ns0[-Jp+n.\lrbP0%W&T%`]'W>kRC,N)\+J'<*5gfG")]n
+?D$#^+7K&&D9,JC@oW@:gHAk?duVhnl]l`t+<W"cI4s65/tmN'B@!q;*jo?$&rD"\+o;K1AhL@-
+Mt*3^_oT.N\2PC2Ld_]+.Y]8M3h^9KI>5k[&8OXf)Gkfld:YeTHb@3:S;7gj,$gne=:(m&4D=&Y
+KB./?UcKJep+1cCk7tSV(s-s7Yji"Wk9_k;)\+J"#?eEYZ\ku4blPBP1?>%YL9,N_F[VAim.#>>
+MTKNK60qk0U6\Y=fb-hurpSD!Q,%?`cOs^F-NT/?(<!i`%JN\,8K!7i_WE_)Mr!M8dlKYF,bU?j
+gH@5/8GO&?02&P@IE.e*:"2G@RD.M;($H"!@8J=CF'tf:;;%XfcuPS([!;=-p_$,?fMr^S=[EO#
+b;Pof&4h!+%2TB)GBf7Ik<@c-RjTRLLcgE#TJ1h+ZMg2H"O2e+*T5G$l4gd,1d77WI(.-H0Oocj
+\T#&?"hQ4WG]88TUcJpXiB>A#6t\O^5YThtmE-AgL$ZF,+q+43A'eu5+_%pn#V/@ud$2dVJ43#q
+0=X!G.%&Db%JW&Pg?J,WAgdlq/0_*Sm/!Q2h)H*Ea=&+_cX[:jm9.<Y+r-27hM]sOhLKj?Hk4Tl
+%T;e(cS1o5fK<Vq,9@ckSM4mN@YQ,UM9:?IUEp1(mERO!7$[Ut4^N8Bh$3I*IE@,f/c=C\f)Ifh
+CAOhn_sd_^k#;>Y(oh(LYOZbL*j;l?7lDGaYZ&GZ+Q<rHkN<>E<bso.9I3mr6okT52.&W3V,/2<
+ooM8,i53h;oQ^$plrhb[_og9o@i<q6^TlR1"O4bY*ALk5lE`*WI7BkRnT]bC)a-fk]l\*>p[TGI
+)I-u_mR+8n?pjYI`J^&e6F0i[U-1i:Y<5%1H%_oP-(_[^en7k6V[mm1db,qJoh2paE=2+sl6S$a
+-`3*;/V=g*ND]limI5VS]I0Q$o4'%.EFiRggD8/^?+'moKo-O,Y<f4os2q%.E)+9`8%gI.l4:ah
+Zt%I74d]XRoh/t]-fmj5os<6"6X>1l;tiWW``*#iM@J`pF.i*j/gE)h.E`fs\-AeIgT&RPR.C,"
+gj@OC=?>Kd]IiLfZs_eRqYaF.=m\g7CULmZ59ROGjaPf$b>VVs)fhinQ;i.G+Ej;M4^_LO)^W-6
+I1#C*C.06OoEVBp9*QtEQ0:4p:1hA36O&Xuf8aR_Q>#58T.?KRb/9m6SIGTPj=neE/dk>\#(0oh
+&dA.-Ig6)SL_g"HG.C>3%co,ge(pPTHljI;M*T5M&D@>b"6cLUO?4go#0`O"#V7@#Smb;:dDAnU
+kCMXG+\A5EO+\l5UhrE;/dCpRPfQM?THBnk]ArU7B$C_77ZGHhQpS((%pH8&8R!8bqm_q@?Q02$
+QmaQu@6Qi\d*A4'P1^:NoZWK=l0#<ZK*6[=`gjft;5d;REG0N.%%DP:/@QW7=lp\\k`/i]SuCn1
+0Ze0X]UB*5-U-K,I\?&fPc&o2:c^o5)M"]YKptD'3*6Z+&[ufVH/[E7`3CqJRng\e=GdJ+%^=1o
+,CrN@B'Uaqb/Qcr,LE*q28)Hia;F]GHG"j78d7,!19_Kca)mQDAf=);W]3Za$FF^PWDHH$$t_sL
+"nKLAd!Toc0r!WWq7neXIS)etKc-H,0(i',ms:^<4kU\+5@BORCDsnEi"*(L[mfPK\0&PG4SsF>
+0PaE9Yaf>of]nhKbKjUi[QHXQofs#!kfZd'2o!5i.q6^G.bPUCqGH-QGI$mQTCN%EoH(3E9<)*6
+Qm7Ao3N0YI_mc3I/'esV%L<7LHZB)fP?\I$9k7o3i<!\,'gl5G!79&D)74(ZK0DF]Q];k8?G(OQ
+il0*9OBke5]*S&H/h^9%DXmQ=I]C%#7s;$%8@PPl@RWp/<L6drn5JH13)[Bcbei0[WV9k5:T(_7
+i:<nUT;mO#676U4&Fj5KXZ`YK#4#cV)UQmrHme71`V#^,s89nY00:Q4j]-(\<<j1s:*@>I>Ehl%
+Lh_?fl:s!2HGI-J)gW'\NYp3YA8V]ofS`SZM\W;)BRN0a0YgI!\@cSBVs7ZA]3W'mD\oZ^Tld66
+ViBDZf4`h<;0j?Xbr$mi]<fFJ_GX_-eR#<o`@!:D,3p!I))oE$.mI$h(#D7d^D%0?Q7*bsgs\6!
+B18S;!_\Yt*G]s=6"c;%A2Cr8B`hU*lbuJ14o7Vr\\)+Tnl'[5iI+],m'K1Fn3[#"`!20GEYMf>
+8X*oJ#0HPIf.d@n*2S\Uf]do7XPLJ5j-?,`053SUlBFOqb);PO=t3$d'Q?</[I@+;=HT.HI(+'N
+[./3m^*4oLYLQI5l4>!A4TIfS]R_^+r)2:W\?KqAHRiTIYp^WeeYtk!.-dImpC]'Y%V*`*?E=j4
+LPKs4o'.!>WX^BAF4J5HbM3;u;ogfAib^<$:*Ho"3a>_7pTm/i`X/_8f8'oYi`LiiYts[J?BsaX
+_!`!(,nd8=S]Y'$=/>#_&C2#qbH!rf0Ei)Y[e*L@.*5(gPbE?uBu?dB[TiXljnZ")kQ$%P)R8VU
+o?/d?b30`K[lJj+>"XY3j*nO\N\1[0huGjJiR1T!3bgi/1ce;D#L@jEqRhE_M(IHEi5KI\lZt_h
+0Msl05pr`bS]ED\gn?.2<e\-k`ra]-d=dND>TKZ$L"dT:9<4in6EB-D3a9ROWtX?e-kH+>iJJ$^
+/nA8,6((WKY]-(AQ6RfQF@6X%Qd2/@]=*$mia#bO;Y_GKik0O+o(_;G!u-ZsDZBb;~>
+endstreamendobj30 0 obj<</Length 3430/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Oracle Reports</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default"/>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2014-04-15T16:34:14</xmp:CreateDate>
+         <xmp:CreatorTool>Oracle11gR1 AS Reports Services</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-04-16T10:27-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-04-16T10:27-04:00</xmp:MetadataDate>
+         <pdf:Producer>Oracle PDF driver</pdf:Producer>
+         <xmpMM:DocumentID>uuid:869b9484-eb29-476c-8dc2-de15e09198d4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:792015df-b3d9-4647-a6d9-365b7cd25b44</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj42 0 obj<</Length 8950>>stream
+q
+0 0 603.72 792 re
+W n
+0 w 
+q
+1 0 0 1 20.2 744.72 cm
+0 0 m
+354.76 0 l
+0 -270.88 m
+354.76 -270.88 l
+0 0 m
+0 -270.88 l
+S
+Q
+20.2 715.76 354.76 13.96 re
+S
+BT
+/T1_0 8 Tf
+43.44 705.72 Td
+(UNITED)Tj
+0 -12 TD
+(DELTA)Tj
+0 -12.04 TD
+(JETBLUE AIRWAYS)Tj
+0 -12 TD
+(AMERICAN)Tj
+T*
+(US AIRWAYS)Tj
+T*
+(SOUTHWEST AIRLINES)Tj
+T*
+(SPIRIT AIRLINES)Tj
+T*
+(BRITISH AIRWAYS)Tj
+T*
+(AIR CANADA)Tj
+0 -12.04 TD
+(VIRGIN AMERICA)Tj
+0 -12 TD
+(LUFTHANSA)Tj
+T*
+(VIRGIN ATLANTIC)Tj
+T*
+(AIR FRANCE)Tj
+ET
+q
+43.44 545.88 99.76 12 re
+W n
+BT
+43.44 549.64 Td
+(EMIRATES AIRLINES & SK)Tj
+ET
+Q
+BT
+43.44 537.64 Td
+(CATHAY PACIFIC)Tj
+T*
+(CARIBBEAN AIR)Tj
+0 -12.04 TD
+(EL AL)Tj
+ET
+q
+43.44 497.84 99.76 12 re
+W n
+BT
+43.44 501.6 Td
+(SWISS INT'L AIR LINES LT)Tj
+ET
+Q
+BT
+43.44 489.6 Td
+(ALITALIA)Tj
+0 -12 TD
+(TURKISH AIR)Tj
+1.48 241.92 Td
+(Airline Name)Tj
+/T1_1 8 Tf
+115.64 -13.8 Td
+( 20,215,456)Tj
+T*
+( 18,979,455)Tj
+0 -12.04 TD
+( 11,900,659)Tj
+4.52 -12 Td
+( 9,986,968)Tj
+0 -12 TD
+( 5,001,356)Tj
+T*
+( 3,199,264)Tj
+T*
+( 2,263,169)Tj
+31.48 -12 Td
+( 0)Tj
+T*
+( 0)Tj
+-31.48 -12.04 Td
+( 1,312,916)Tj
+31.48 -12 Td
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+0 -12.04 TD
+( 0)Tj
+0 -12 TD
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+/T1_0 8 Tf
+-33 241.92 Td
+(Domestic)Tj
+/T1_1 8 Tf
+72 -13.8 Td
+( 7,649,003)Tj
+T*
+( 4,932,537)Tj
+0 -12.04 TD
+( 2,685,713)Tj
+0 -12 TD
+( 3,407,896)Tj
+31.52 -12 Td
+( 0)Tj
+T*
+( 0)Tj
+T*
+( 0)Tj
+-31.52 -12 Td
+( 1,638,924)Tj
+T*
+( 1,365,688)Tj
+31.52 -12.04 Td
+( 0)Tj
+-31.52 -12 Td
+( 1,049,580)Tj
+T*
+( 1,012,287)Tj
+6.76 -12 Td
+( 934,595)Tj
+T*
+( 679,134)Tj
+T*
+( 641,062)Tj
+T*
+( 592,313)Tj
+0 -12.04 TD
+( 568,932)Tj
+0 -12 TD
+( 540,060)Tj
+T*
+( 515,202)Tj
+T*
+( 500,888)Tj
+/T1_0 8 Tf
+19.52 241.92 Td
+(Intl)Tj
+33.76 -13.8 Td
+( 27,864,459)Tj
+T*
+( 23,911,992)Tj
+0 -12.04 TD
+( 14,586,372)Tj
+0 -12 TD
+( 13,394,864)Tj
+4.52 -12 Td
+( 5,001,356)Tj
+T*
+( 3,199,264)Tj
+T*
+( 2,263,169)Tj
+T*
+( 1,638,924)Tj
+T*
+( 1,365,688)Tj
+0 -12.04 TD
+( 1,312,916)Tj
+0 -12 TD
+( 1,049,580)Tj
+T*
+( 1,012,287)Tj
+6.72 -12 Td
+( 934,595)Tj
+T*
+( 679,134)Tj
+T*
+( 641,062)Tj
+T*
+( 592,313)Tj
+0 -12.04 TD
+( 568,932)Tj
+0 -12 TD
+( 540,060)Tj
+T*
+( 515,202)Tj
+T*
+( 500,888)Tj
+12 241.92 Td
+(Total)Tj
+/T1_1 8 Tf
+-290.76 -13.8 Td
+(1)Tj
+T*
+(2)Tj
+0 -12.04 TD
+(3)Tj
+0 -12 TD
+(4)Tj
+T*
+(5)Tj
+T*
+(6)Tj
+T*
+(7)Tj
+T*
+(8)Tj
+T*
+(9)Tj
+-2.24 -12.04 Td
+(10)Tj
+T*
+(11)Tj
+T*
+(12)Tj
+T*
+(13)Tj
+T*
+(14)Tj
+T*
+(15)Tj
+T*
+(16)Tj
+0 -12.04 TD
+(17)Tj
+0 -12 TD
+(18)Tj
+T*
+(19)Tj
+T*
+(20)Tj
+/T1_0 11 Tf
+93.36 255.88 Td
+(Airline Ranking by Passengers)Tj
+/T1_0 8 Tf
+-98.64 -15 Td
+(Rank)Tj
+/T1_1 8 Tf
+332.76 -12.76 Td
+( 24.6)Tj
+T*
+( 45.8)Tj
+0 -12.04 TD
+( 58.7)Tj
+0 -12 TD
+( 70.5)Tj
+T*
+( 75.0)Tj
+T*
+( 77.8)Tj
+T*
+( 79.8)Tj
+T*
+( 81.2)Tj
+T*
+( 82.5)Tj
+0 -12.04 TD
+( 83.6)Tj
+0 -12 TD
+( 84.5)Tj
+T*
+( 85.4)Tj
+T*
+( 86.3)Tj
+T*
+( 86.9)Tj
+T*
+( 87.4)Tj
+T*
+( 88.0)Tj
+0 -12.04 TD
+( 88.5)Tj
+0 -12 TD
+( 88.9)Tj
+T*
+( 89.4)Tj
+T*
+( 89.8)Tj
+/T1_0 8 Tf
+-9.08 241.92 Td
+(Cum %)Tj
+ET
+376.48 475.2 208.44 271.76 re
+S
+376.48 717.68 208.44 14.28 re
+S
+BT
+402.72 707.08 Td
+(FEDERAL EXPRESS)Tj
+0 -12.04 TD
+(UNITED PARCEL)Tj
+0 -12 TD
+(AMERICAN)Tj
+T*
+(DELTA)Tj
+T*
+(UNITED)Tj
+T*
+(LUFTHANSA)Tj
+T*
+(BRITISH AIRWAYS)Tj
+T*
+(CATHAY PACIFIC)Tj
+0 -12.04 TD
+(KOREAN)Tj
+ET
+q
+402.72 595.24 83.2 12 re
+W n
+BT
+402.72 599 Td
+(CHINA AIRLINES \(CAL)Tj
+ET
+Q
+BT
+402.72 587 Td
+(ASIANA)Tj
+0 -12 TD
+(VIRGIN ATLANTIC)Tj
+T*
+(EVA)Tj
+T*
+(TNT AIRWAYS)Tj
+T*
+(ABX AIR INC)Tj
+ET
+q
+402.72 523.2 83.2 12 re
+W n
+BT
+402.72 526.96 Td
+(CARGOLUX AIRLINES)Tj
+ET
+Q
+BT
+402.72 514.96 Td
+(ANA \(ALL NIPPON\))Tj
+T*
+(AIR FRANCE)Tj
+ET
+q
+402.72 487.2 83.2 12 re
+W n
+BT
+402.72 490.96 Td
+(SWISS INT'L AIR LINE)Tj
+ET
+Q
+q
+402.72 475.2 83.2 12 re
+W n
+BT
+402.72 478.96 Td
+(AIR CHINA INTERNATI)Tj
+ET
+Q
+BT
+402.72 721.44 Td
+(Airline Name)Tj
+114.88 -14.36 Td
+( 415,998)Tj
+0 -12.04 TD
+( 178,673)Tj
+0 -12 TD
+( 116,728)Tj
+T*
+( 110,876)Tj
+4.48 -12 Td
+( 93,680)Tj
+T*
+( 69,719)Tj
+T*
+( 59,167)Tj
+T*
+( 58,627)Tj
+0 -12.04 TD
+( 52,829)Tj
+0 -12 TD
+( 49,405)Tj
+T*
+( 45,145)Tj
+T*
+( 43,028)Tj
+T*
+( 41,669)Tj
+T*
+( 40,526)Tj
+T*
+( 37,220)Tj
+0 -12.04 TD
+( 35,453)Tj
+0 -12 TD
+( 29,015)Tj
+T*
+( 28,159)Tj
+T*
+( 27,548)Tj
+T*
+( 24,360)Tj
+4.24 242.48 Td
+(Tons)Tj
+/T1_0 10 Tf
+-106 14.28 Td
+(Ranking by Freight Volume)Tj
+/T1_0 8 Tf
+-43.84 -14.28 Td
+(Rank)Tj
+178.52 -0.72 Td
+(Cum%)Tj
+ET
+1 w 
+189.96 755.2 327.52 19.52 re
+S
+q
+190.44 758.2 204 12.76 re
+W n
+BT
+/T1_0 11 Tf
+215.96 760.48 Td
+(Top 20 Airlines 12 months ending )Tj
+ET
+Q
+q
+397.44 758.96 96 11.24 re
+W n
+BT
+/T1_0 11 Tf
+397.44 759.72 Td
+(February 2014)Tj
+ET
+Q
+BT
+/T1_0 18 Tf
+21.68 756 Td
+(Region)Tj
+ET
+0 w 
+19.44 62.72 569.24 228.44 re
+S
+BT
+/T1_2 8 Tf
+479.96 263.16 Td
+[(Flights \(daily\))-2657(Cities)]TJ
+/T1_1 8 Tf
+31.16 -35.4 Td
+(1148.9)Tj
+57 0.16 Td
+(103)Tj
+/T1_0 8 Tf
+-545.91 35.6 Td
+(Domestic Passenger Service)Tj
+/T1_2 8 Tf
+151.88 -0.76 Td
+(Flights \(daily\))Tj
+91.2 0.32 Td
+(Airlines)Tj
+/T1_0 9 Tf
+-218.76 16.2 Td
+(OAG schedules: airlines serving)Tj
+/T1_1 8 Tf
+157.96 -52.4 Td
+( 1148.9)Tj
+82 0 Td
+( 19)Tj
+/T1_0 8 Tf
+-263.12 -13.2 Td
+(International Passenger Service)Tj
+/T1_1 8 Tf
+186 -47.88 Td
+( 356.6)Tj
+77.52 0 Td
+( 68)Tj
+/T1_0 8 Tf
+-263.88 -14.08 Td
+(Freighter Service)Tj
+/T1_1 8 Tf
+191.24 -50.12 Td
+( 11.2)Tj
+73.04 0 Td
+( 16)Tj
+/T1_0 8 Tf
+-264.04 -18.68 Td
+(@USA Airlines\(Un-duplicated\))Tj
+0 -14.24 TD
+(@Foreign Airlines\(Un-duplicated\))Tj
+/T1_1 8 Tf
+182.24 14.24 Td
+( 1345.3)Tj
+4.52 -14.24 Td
+( 171.4)Tj
+77.28 14.24 Td
+( 17)Tj
+T*
+( 65)Tj
+/T1_0 9 Tf
+75.84 210.04 Td
+(OAG schedules: Nonstop Destinations)Tj
+/T1_0 8 Tf
+-177.64 1.04 Td
+(Region)Tj
+/T1_2 8 Tf
+-48.28 -53 Td
+(@Sub-Total)Tj
+-1.12 -61.12 Td
+(@Sub-Total)Tj
+-0.36 -63.36 Td
+(@Sub-Total)Tj
+296.24 125.36 Td
+(@Sub-Total)Tj
+/T1_1 8 Tf
+83.32 -122.84 Td
+(360.9)Tj
+52.48 0.16 Td
+(119)Tj
+/T1_2 8 Tf
+-136.16 -0.32 Td
+(@Sub-Total)Tj
+/T1_0 8 Tf
+-123.72 108.72 Td
+(International nonstop cities served)Tj
+/T1_1 8 Tf
+202.8 -125.84 Td
+(1509.8)Tj
+57.4 1.04 Td
+(222)Tj
+ET
+20.96 342.24 279 127.6 re
+S
+20.96 442.88 279 12 re
+S
+BT
+/T1_0 8 Tf
+23.96 432.96 Td
+(DOMESTIC)Tj
+0 -14.12 TD
+(CANADA)Tj
+0 -14.16 TD
+(CARIBBEAN + BERMUDA)Tj
+0 -14.12 TD
+(CENTRAL AND SOUTH AMERICA)Tj
+0 -14.16 TD
+(MEXICO)Tj
+0 -14.12 TD
+(TRANSATLANTIC)Tj
+0 -14.16 TD
+(TRANSPACIFIC)Tj
+-3 98.52 Td
+(12 Month Ending Data)Tj
+/T1_1 8 Tf
+168 -13.68 Td
+( 73,701,308)Tj
+4.52 -14.12 Td
+( 3,606,364)Tj
+T*
+( 5,716,789)Tj
+0 -14.12 TD
+( 3,409,823)Tj
+0 -14.16 TD
+( 1,552,245)Tj
+-4.52 -14.12 Td
+( 21,927,156)Tj
+4.52 -14.16 Td
+( 3,557,490)Tj
+/T1_0 8 Tf
+-12.64 98.52 Td
+(Passengers)Tj
+/T1_1 8 Tf
+85.4 -13.68 Td
+( 686,480)Tj
+15.76 -14.12 Td
+( 131)Tj
+-11.24 -14.16 Td
+( 19,351)Tj
+0 -14.12 TD
+( 65,847)Tj
+4.48 -14.16 Td
+( 7,609)Tj
+-9 -14.12 Td
+( 814,845)Tj
+0 -14.16 TD
+( 397,821)Tj
+/T1_0 8 Tf
+0.52 98.52 Td
+(Freight)Tj
+/T1_0 10 Tf
+-194.08 11.96 Td
+(Passengers & Freight by Market Group)Tj
+ET
+304.48 291.56 284 183.56 re
+S
+q
+1 0 0 1 302.95 471.6 cm
+0 0 m
+0 -182.28 l
+S
+Q
+BT
+/T1_0 8 Tf
+307.44 86.76 Td
+(Total number of cities having nonstop services)Tj
+ET
+q
+1 0 0 1 302.95 291.16 cm
+0 0 m
+0 -228.44 l
+S
+Q
+q
+1 0 0 1 19.44 273.16 cm
+0 0 m
+282 0 l
+S
+Q
+q
+1 0 0 1 304.2 273.2 cm
+0 0 m
+284.52 0 l
+S
+Q
+BT
+/T1_1 8 Tf
+386.6 707.08 Td
+(1)Tj
+0 -12.04 TD
+(2)Tj
+0 -12 TD
+(3)Tj
+T*
+(4)Tj
+T*
+(5)Tj
+T*
+(6)Tj
+T*
+(7)Tj
+T*
+(8)Tj
+0 -12.04 TD
+(9)Tj
+-2.24 -12 Td
+(10)Tj
+0 -12 TD
+(11)Tj
+T*
+(12)Tj
+T*
+(13)Tj
+T*
+(14)Tj
+T*
+(15)Tj
+0 -12.04 TD
+(16)Tj
+0 -12 TD
+(17)Tj
+T*
+(18)Tj
+T*
+(19)Tj
+T*
+(20)Tj
+178.88 228.12 Td
+( 20.9)Tj
+0 -12.04 TD
+( 29.9)Tj
+0 -12 TD
+( 35.7)Tj
+T*
+( 41.3)Tj
+T*
+( 46.0)Tj
+T*
+( 49.5)Tj
+T*
+( 52.4)Tj
+T*
+( 55.4)Tj
+0 -12.04 TD
+( 58.0)Tj
+0 -12 TD
+( 60.5)Tj
+T*
+( 62.8)Tj
+T*
+( 65.0)Tj
+T*
+( 67.0)Tj
+T*
+( 69.1)Tj
+T*
+( 70.9)Tj
+0 -12.04 TD
+( 72.7)Tj
+0 -12 TD
+( 74.2)Tj
+T*
+( 75.6)Tj
+T*
+( 77.0)Tj
+T*
+( 78.2)Tj
+-526.04 -229.12 Td
+(Scheduled)Tj
+0 -10.48 TD
+(Commuter)Tj
+172 10.48 Td
+( 670.9)Tj
+T*
+( 478.0)Tj
+76.88 10.48 Td
+( 15)Tj
+4.48 -10.48 Td
+( 4)Tj
+-252.96 -39.36 Td
+(Scheduled:  USA Flag)Tj
+0 -10.52 TD
+(Scheduled:  Foreign Flag)Tj
+0 -10.48 TD
+(Commuter:  USA Flag)Tj
+171.76 21 Td
+( 148.7)Tj
+0 -10.52 TD
+( 161.8)Tj
+4.48 -10.48 Td
+( 46.1)Tj
+77.64 21 Td
+( 5)Tj
+-4.48 -10.52 Td
+( 61)Tj
+4.48 -10.48 Td
+( 2)Tj
+-254.04 -40.92 Td
+(All Cargo:  USA Flag)Tj
+0 -11.64 TD
+(All Cargo:  Foreign Flag)Tj
+T*
+(Scheduled Passenger:  Foreign Flag)Tj
+181.32 23.28 Td
+( 2.6)Tj
+T*
+( 1.9)Tj
+T*
+( 6.7)Tj
+73.12 23.28 Td
+( 3)Tj
+T*
+( 3)Tj
+-4.52 -11.64 Td
+( 10)Tj
+/T1_0 8 Tf
+20.88 148.36 Td
+(Domestic nonstop cities served)Tj
+/T1_1 8 Tf
+7.48 -10.96 Td
+(Jet Service Provided )Tj
+0 -11.84 TD
+(Service Exclusively by Regional Airlines )Tj
+197.64 11.08 Td
+( 921.1)Tj
+T*
+( 227.8)Tj
+56.24 12.6 Td
+( 69)Tj
+T*
+( 34)Tj
+-251.64 -38.24 Td
+(Jet service provided)Tj
+9.72 -11.68 Td
+(Canada )Tj
+0 -11.8 TD
+(Central America Less Mexico )Tj
+0 -11.84 TD
+(Mexico )Tj
+T*
+(Carribean and Bermuda )Tj
+T*
+(South America )Tj
+T*
+(Transatlantic )Tj
+T*
+(Transpacific )Tj
+241.88 71 Td
+( 10)Tj
+4.52 -11.8 Td
+( 7)Tj
+T*
+( 5)Tj
+-4.52 -11.84 Td
+( 23)Tj
+T*
+( 11)Tj
+T*
+( 50)Tj
+T*
+( 13)Tj
+-56.2 71 Td
+( 100.9)Tj
+4.48 -11.8 Td
+( 14.6)Tj
+T*
+( 19.3)Tj
+T*
+( 64.3)Tj
+T*
+( 20.8)Tj
+-4.48 -11.84 Td
+( 119.3)Tj
+4.48 -11.84 Td
+( 21.7)Tj
+ET
+1 G
+1 w 
+304.95 292.08 282.24 182 re
+S
+q
+281.24 0 0 143.68 305.44 329.92 cm
+/Im0 Do
+Q
+Q
+
+endstreamendobj43 0 obj[/Indexed/DeviceRGB 255 26 0 R]endobjxref
+0 2
+0000000000 65535 f
+0000084263 00000 n
+13 1
+0000084448 00000 n
+16 1
+0000084632 00000 n
+19 1
+0000084786 00000 n
+22 1
+0000084944 00000 n
+25 1
+0000085187 00000 n
+30 1
+0000101015 00000 n
+39 5
+0000000000 00000 f
+0000000000 00000 f
+0000000000 00000 f
+0000104523 00000 n
+0000113525 00000 n
+trailer
+<</Size 44/Root 2 0 R/Info 1 0 R/ID[<0ADD830C540F8446902561014171BED7><FFCA93DD85407141BEE6BFF3A0F792BE>]/Prev 83755>>
+startxref
+113573
+%%EOF
+1 0 obj<</Author(Oracle Reports)/CreationDate(D:20140415163414Z)/Creator(Oracle11gR1 AS Reports Services)/ModDate(D:20140416110843-04'00')/Producer(Oracle PDF driver)/Title()>>endobj4 0 obj<</Contents 45 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</C2_0 29 0 R/T1_0 7 0 R/T1_1 10 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj13 0 obj<</Contents 44 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</T1_0 7 0 R/T1_1 16 0 R/T1_2 10 0 R/T1_3 19 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj30 0 obj<</Length 3436/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Oracle Reports</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default"/>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2014-04-15T16:34:14</xmp:CreateDate>
+         <xmp:CreatorTool>Oracle11gR1 AS Reports Services</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-04-16T11:08:43-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-04-16T11:08:43-04:00</xmp:MetadataDate>
+         <pdf:Producer>Oracle PDF driver</pdf:Producer>
+         <xmpMM:DocumentID>uuid:869b9484-eb29-476c-8dc2-de15e09198d4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:7fefac55-b39c-4e95-af8e-a6d544a6da4b</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj44 0 obj<</Length 7963>>stream
+q
+0 0 603.72 792 re
+W n
+0 w 
+10.24 514.44 547.04 56.04 re
+S
+BT
+/T1_0 10 Tf
+252.32 519.12 Td
+( 7,254,615)Tj
+105.24 0 Td
+( 15,513,655)Tj
+109.56 0 Td
+( 113,471,175)Tj
+-456.88 39.76 Td
+(PASSENGERS)Tj
+/T1_1 10 Tf
+16.36 -15.72 Td
+(Domestic)Tj
+0 -12 TD
+(International)Tj
+/T1_2 10 Tf
+225.72 12 Td
+( 4,798,320)Tj
+T*
+( 2,456,295)Tj
+64.8 12 Td
+(-3.6)Tj
+T*
+( 3.9)Tj
+40.44 12 Td
+( 10,093,434)Tj
+5.24 -12 Td
+( 5,420,221)Tj
+61.56 12 Td
+(-3.3)Tj
+T*
+( 3.8)Tj
+47.84 12 Td
+( 73,701,308)Tj
+T*
+( 39,769,867)Tj
+65.56 12 Td
+( 0.6)Tj
+T*
+( 5.1)Tj
+/T1_0 10 Tf
+-220.64 -12.04 Td
+(-1.2)Tj
+107.24 0 Td
+(-0.9)Tj
+113.4 -0.76 Td
+( 2.1)Tj
+ET
+9.76 405.96 548.24 71.92 re
+S
+BT
+265.84 410.6 Td
+( 83,846)Tj
+105.2 0 Td
+( 176,561)Tj
+106.4 0 Td
+( 1,247,118)Tj
+-467.2 55.4 Td
+(FLIGHTS)Tj
+/T1_1 10 Tf
+16.36 -16.48 Td
+(Domestic)Tj
+0 -12.76 TD
+(International)Tj
+T*
+(General Aviation)Tj
+/T1_0 10 Tf
+290.52 -13.4 Td
+(-6.6)Tj
+107.24 0 Td
+(-7.1)Tj
+113.4 0 Td
+(-0.3)Tj
+ET
+9.76 389.64 548.24 14.12 re
+S
+BT
+/T1_3 8 Tf
+24.72 393.4 Td
+(Note:freighter flights included in above)Tj
+/T1_0 10 Tf
+245.6 -1.48 Td
+[( 2,256)-1350(-11.3)-4716( 4,841)-1554(-9.4)-4950( 32,748)-1404(-6.0)]TJ
+ET
+q 1 0 0 1 10.24 367.96 cm
+0 0 m
+549.28 0 l
+549.28 0 m
+549.28 -40.64 l
+0 0 m
+0 -40.64 l
+S
+Q
+q 1 0 0 1 559.48 327.28 cm
+0 0 m
+0 -14.24 l
+-548.92 -14.24 m
+0 -14.24 l
+-548.92 0 m
+-548.92 -14.24 l
+S
+Q
+BT
+261.39 317.52 Td
+( 143,376)Tj
+110.48 0 Td
+( 297,509)Tj
+106.4 0 Td
+( 1,992,084)Tj
+-468.04 39.2 Td
+(FREIGHT \(in short tons\))Tj
+/T1_1 10 Tf
+13 -13.52 Td
+(Domestic)Tj
+0 -12.8 TD
+(International)Tj
+/T1_0 10 Tf
+401.96 -12.88 Td
+(-5.0)Tj
+113.36 -0.28 Td
+(-4.3)Tj
+ET
+10.24 280.76 550.04 29.24 re
+S
+BT
+10.24 298.16 Td
+(MAIL \(in short tons\))Tj
+/T1_3 10 Tf
+13 -13.48 Td
+(Total)Tj
+ET
+10.24 212 550.04 65 re
+S
+BT
+/T1_0 10 Tf
+10.24 265.88 Td
+(Ground Transportation)Tj
+/T1_1 10 Tf
+12 -15.04 Td
+(Paid Parked Cars)Tj
+0 -12.12 TD
+(Taxis Dispatched)Tj
+0 -12.16 TD
+(Air Train: JFK & EWR Passengers)Tj
+T*
+(Other Ground Transportation Passengers)Tj
+ET
+10.24 147.92 550.76 59.04 re
+S
+BT
+/T1_0 10 Tf
+10.24 197.2 Td
+(Air Transport Association Carriers \(USA\))Tj
+/T1_1 10 Tf
+14.52 -15.84 Td
+(Passengers:Domestic Enplaned \(000\))Tj
+0 -14.4 TD
+(Passengers:International Enplaned \(000\))Tj
+T*
+(Freight:revenue ton miles \(000\))Tj
+/T1_2 10 Tf
+241.88 28.8 Td
+( 32,979)Tj
+5.24 -14.4 Td
+( 5,593)Tj
+-18.72 -14.4 Td
+( 1,838,395)Tj
+64.8 28.8 Td
+(-0.3)Tj
+T*
+( 3.2)Tj
+T*
+(-1.3)Tj
+59.16 28.8 Td
+( 67,872)Tj
+T*
+( 12,122)Tj
+-13.52 -14.4 Td
+( 3,899,373)Tj
+61.6 28.8 Td
+( 0.1)Tj
+T*
+( 4.4)Tj
+T*
+(-0.5)Tj
+61.32 28.8 Td
+( 467,985)Tj
+5.24 -14.4 Td
+( 80,432)Tj
+-18.72 -14.4 Td
+( 25,584,096)Tj
+65.4 28.8 Td
+( 1.1)Tj
+T*
+( 3.9)Tj
+T*
+(-0.5)Tj
+ET
+10.24 62.28 550.76 78.16 re
+S
+BT
+/T1_0 10 Tf
+10.24 130.68 Td
+(Regional Airports: Other)Tj
+/T1_1 10 Tf
+14.52 -15.92 Td
+(Teterboro: Flight Movements)Tj
+0 -14.44 TD
+(MacArthur,Islip: Total Passengers)Tj
+0 -14.4 TD
+(White Plains, NY: Total Passengers)Tj
+/T1_2 10 Tf
+244.12 28.84 Td
+( 11,134)Tj
+0 -14.44 TD
+( 96,976)Tj
+0 -14.4 TD
+( 94,641)Tj
+51.32 28.84 Td
+( 0.3)Tj
+0 -14.44 TD
+( 3.9)Tj
+-5.28 -14.4 Td
+(-12.1)Tj
+64.44 28.84 Td
+( 22,905)Tj
+-5.24 -14.44 Td
+( 199,169)Tj
+0 -14.4 TD
+( 199,956)Tj
+54.48 28.84 Td
+( 3.2)Tj
+0 -14.44 TD
+( 5.5)Tj
+0 -14.4 TD
+(-9.6)Tj
+60.16 28.84 Td
+( 155,751)Tj
+-8.24 -14.44 Td
+( 1,338,474)Tj
+T*
+( 1,411,567)Tj
+60.16 28.84 Td
+( 6.1)Tj
+0 -14.44 TD
+( 2.0)Tj
+-5.24 -14.4 Td
+(-16.7)Tj
+/T1_3 10 Tf
+-503.6 433.2 Td
+(Total Revenue Passengers)Tj
+0.48 -201.6 Td
+(Total)Tj
+/T1_0 20 Tf
+-26.32 268.36 Td
+(Region)Tj
+ET
+228.64 633.88 105.8 14.24 re
+S
+BT
+/T1_3 10 Tf
+266.52 638.36 Td
+(Month)Tj
+ET
+339.28 634.16 101.96 14.24 re
+S
+BT
+362.48 638.68 Td
+(Year-to-date)Tj
+ET
+454.56 634.16 101.96 14.24 re
+S
+BT
+463.12 638.68 Td
+(12 Months Ending)Tj
+ET
+228.64 621.88 69.76 12 re
+S
+BT
+246.28 624.12 Td
+(Current)Tj
+ET
+338.96 622.16 70.4 12 re
+S
+BT
+356.88 624.4 Td
+(Current)Tj
+ET
+454.48 621.68 69.76 12.8 re
+S
+BT
+472.08 624.72 Td
+(Current)Tj
+ET
+298.48 621.88 35.96 12 re
+S
+BT
+312.36 624.12 Td
+(%)Tj
+ET
+409.12 622.16 31.76 12 re
+S
+BT
+420.88 624.44 Td
+(%)Tj
+ET
+524.36 621.68 32.2 12.8 re
+S
+BT
+536.32 624.72 Td
+(%)Tj
+/T1_0 14 Tf
+-265.95 94.56 Td
+(THE PORT AUTHORITY OF NY & NJ)Tj
+/T1_0 18 Tf
+-30.36 -23.32 Td
+(FEBRUARY 2014 TRAFFIC REPORT)Tj
+/T1_1 10 Tf
+-234 85.56 Td
+(Aviation Department)Tj
+/T1_1 8 Tf
+349.52 0 Td
+(Traffic Statistics: J.Quayson, J. Cuneo, D. Mesa, S.Khalilov )Tj
+ET
+1 1 0.875 rg
+1 w 
+4.52 631.56 215.24 146.92 re
+B*
+BT
+0 g
+4.52 770.24 Td
+(Our monthly results were subdued due to severe winter )Tj
+0 -10.52 TD
+(weather that caused a large number of flight cancellations )Tj
+0 -10.48 TD
+(and delays at our facilities. As a result, passenger traffic )Tj
+0 -10.52 TD
+(decreased 1.2%, pushing YTD down 0.9%. Nearly 20,000 )Tj
+0 -10.48 TD
+(flights were cancelled in January and February, compared)Tj
+T*
+(to only 6,000 for the same period last year. Domestic )Tj
+0 -10.52 TD
+(traffic bore the brunt of cancellations, falling 3.6%. In )Tj
+0 -10.48 TD
+(contrast, international traffic was affected mostly by delays)Tj
+T*
+(and was able to post a 3.9% gain. Transatlantic )Tj
+0 -10.52 TD
+(passenger traffic was a major contributor following seat )Tj
+0 -10.48 TD
+(capacity increases and a more favorable outlook for )Tj
+T*
+(economic growth across the ocean. Cargo tonnage )Tj
+0 -10.52 TD
+(decreased 5% at our facilities, continuing the negative )Tj
+0 -10.48 TD
+(sentiment that carried over from last year.)Tj
+-0.04 -12.04 Td
+(Current month,12 months ending,year-to-date totals)Tj
+T*
+(Showing percentage change from prior year period)Tj
+/T1_3 10 Tf
+28.12 -202.16 Td
+(Total)Tj
+/T1_0 10 Tf
+231.04 -340.28 Td
+( 191,617)Tj
+216.88 0.56 Td
+( 2,750,041)Tj
+-51.92 -0.24 Td
+(-2.7)Tj
+112.08 0.28 Td
+(-9.4)Tj
+/T1_3 10 Tf
+-507.6 0.28 Td
+(Total suburban airport passengers )Tj
+/T1_0 10 Tf
+284.88 247.36 Td
+(-5.0)Tj
+2.24 -247.64 Td
+(-4.9)Tj
+53.92 -0.48 Td
+( 399,125)Tj
+/T1_2 10 Tf
+-108.28 381.32 Td
+( 58,919)Tj
+0 -12.76 TD
+( 19,659)Tj
+5.24 -12.76 Td
+( 5,268)Tj
+99.96 25.52 Td
+( 124,141)Tj
+5.24 -12.76 Td
+( 41,806)Tj
+T*
+( 10,614)Tj
+109.44 25.52 Td
+( 882,475)Tj
+T*
+( 282,532)Tj
+5.24 -12.76 Td
+( 82,111)Tj
+-173.84 25.52 Td
+(-8.6)Tj
+T*
+(-2.4)Tj
+T*
+( 2.8)Tj
+107.24 25.52 Td
+(-9.2)Tj
+T*
+(-2.5)Tj
+T*
+( 1.3)Tj
+/T1_0 10 Tf
+-152.47 -140.08 Td
+( 9,525)Tj
+105.24 0 Td
+( 21,325)Tj
+109.4 -0.48 Td
+( 155,518)Tj
+-173.84 0.48 Td
+(-21.0)Tj
+107.28 0 Td
+(-13.7)Tj
+118.48 -0.48 Td
+(-8.8)Tj
+/T1_2 10 Tf
+-271.8 59 Td
+( 47,489)Tj
+0 -12.8 TD
+( 95,887)Tj
+46.04 12.8 Td
+(-12.4)Tj
+5.28 -12.8 Td
+(-0.9)Tj
+53.92 12.8 Td
+( 101,749)Tj
+T*
+( 195,760)Tj
+48.08 12.8 Td
+(-12.2)Tj
+5.24 -12.8 Td
+(-0.7)Tj
+61.32 12.8 Td
+( 686,480)Tj
+-8.24 -12.8 Td
+( 1,305,604)Tj
+55.04 12.8 Td
+(-11.1)Tj
+5.24 -12.8 Td
+(-0.3)Tj
+-277.16 -79.56 Td
+( 531,692)Tj
+0 -12.12 TD
+( 520,921)Tj
+0 -12.16 TD
+( 565,591)Tj
+T*
+( 105,923)Tj
+61.04 36.44 Td
+(-8.1)Tj
+-5.24 -12.12 Td
+(-12.0)Tj
+T*
+( 12.7)Tj
+T*
+( 13.8)Tj
+46.4 36.44 Td
+( 1,185,132)Tj
+0 -12.12 TD
+( 1,133,109)Tj
+0 -12.16 TD
+( 1,125,467)Tj
+8.27 -12.16 Td
+( 215,417)Tj
+63.8 36.44 Td
+(-5.1)Tj
+-5.24 -12.12 Td
+(-10.4)Tj
+5.24 -12.16 Td
+( 6.3)Tj
+T*
+( 4.7)Tj
+42.6 36.32 Td
+( 8,527,677)Tj
+T*
+( 8,174,161)Tj
+T*
+( 8,456,035)Tj
+T*
+( 1,671,843)Tj
+60.16 36.48 Td
+(-1.1)Tj
+T*
+(-1.9)Tj
+T*
+( 8.3)Tj
+T*
+( 1.2)Tj
+-0.68 236.04 Td
+(-1.0)Tj
+0 -12.76 TD
+( 1.8)Tj
+T*
+( 0.2)Tj
+ET
+q
+168.76 45.32 402 9.68 re
+W n
+BT
+/T1_1 8 Tf
+168.76 46.76 Td
+(Other Information about our airports? Visit URL: www.panynj.gov/airports\/general-information.html?tabnum=2 )Tj
+ET
+Q
+0 w 
+10.52 496.12 546.76 15 re
+S
+BT
+/T1_3 10 Tf
+33.76 501.36 Td
+(Non Revenue Passengers)Tj
+/T1_0 10 Tf
+228.48 -1.48 Td
+[( 233,917)-1850(-5.8)-3670( 500,649)-1522(-6.0)-3590( 3,697,764)-1315( 0.8)]TJ
+ET
+9.76 480.24 547.52 14.24 re
+S
+BT
+254.04 484.16 Td
+[( 1,051,556)-1855(-7.5)-2846( 2,230,126)-1527(-5.2)-3066( 17,505,249)-1293( 4.8)]TJ
+/T1_3 8 Tf
+-230.08 0.56 Td
+(Note: Commuter - Regional Pax incl. in above )Tj
+ET
+9.76 371.52 548.24 15.76 re
+S
+BT
+24.76 376.04 Td
+(Note: Commuter - Regional Flights incl. in above)Tj
+/T1_0 10 Tf
+240.36 -0.6 Td
+[( 26,574)-1328(-13.9)-4192( 56,784)-1008(-13.6)-4404( 420,225)-1382(-0.3)]TJ
+ET
+Q
+
+endstreamendobj45 0 obj<</Length 2023>>stream
+BT
+/T1_0 22 Tf
+227.28 605.24 Td
+(February 2014)Tj
+-32.6 -49.48 Td
+(Monthly Traffic Report)Tj
+ET
+q
+114.8 503.24 393.76 24.76 re
+W n
+BT
+165.08 507.76 Td
+(Newark Liberty International)Tj
+ET
+Q
+q
+114.8 470.2 393.76 24.76 re
+W n
+BT
+157.92 474.68 Td
+(John F.Kennedy International)Tj
+ET
+Q
+q
+114.8 437.88 393.76 24.76 re
+W n
+BT
+257.68 442.4 Td
+(LaGuardia)Tj
+ET
+Q
+BT
+246.04 342.52 Td
+(Teterboro & )Tj
+-118.88 -26.24 Td
+(regional satellite airport summaries)Tj
+ET
+0 w 
+147.04 74.72 342.72 191.96 re
+S
+BT
+/T1_1 10 Tf
+147.04 256.92 Td
+( Aviation Department - Traffic Statistics)Tj
+ET
+/TouchUp_TextEdit MP
+BT
+147.04 232.92 Td
+( JoJo Quayson)Tj
+0 -12 TD
+( John Cuneo)Tj
+/C2_0 10 Tf
+56.709 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+-56.709 -12 Td
+(Deyssi Mesa)Tj
+/C2_0 10 Tf
+57.236 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+/C2_0 10 Tf
+-57.236 -12 Td
+<002700440051004C0048004F0003002A0044004900580055005600520051>Tj
+ET
+/TouchUp_TextEdit MP
+BT
+/T1_1 10 Tf
+147.04 172.96 Td
+(Notes1:)Tj
+1 0 0 1 180.79 172.96 Tm
+( The section entitled Air Transport Association Carriers is included to \)Tj
+ET
+0.48 w 
+q
+1 0 0 1 147.04 170.96 cm
+0 0 m
+33.76 0 l
+B*
+Q
+BT
+147.04 160.96 Td
+(give a comparison between Port Authority Airport traffic growth and aggr\egate )Tj
+T*
+(growth as measured by the majority of the U.S. carrier industry.)Tj
+T*
+(Note2: The page 2 Access Mode: residents report excludes passengers )Tj
+T*
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous \"other" )Tj
+T*
+(category. The airline OAG summary uses schedules effective for   the wee\k in )Tj
+T*
+(the middle of the month being summarized."Flights \(daily\) refers to th\e daily-)Tj
+T*
+(each-way average flights which can be thought of as 1 directional depart\ing or )Tj
+T*
+(arriving flights.)Tj
+/T1_0 18 Tf
+-48 598.04 Td
+(The Port Authority of New York & New Jersey)Tj
+ET
+q
+114.8 404.2 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+203.68 408.72 Td
+(Stewart International)Tj
+ET
+Q
+q
+120.8 369.68 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+186.04 374.16 Td
+(Atlantic City International)Tj
+ET
+Q
+
+endstreamendobjxref
+0 2
+0000000000 65535 f
+0000114041 00000 n
+4 1
+0000114226 00000 n
+13 1
+0000114405 00000 n
+30 1
+0000114597 00000 n
+44 2
+0000118111 00000 n
+0000126126 00000 n
+trailer
+<</Size 46/Root 2 0 R/Info 1 0 R/ID[<0ADD830C540F8446902561014171BED7><5033F71FEC0F1145B7CD447E318B31A9>]/Prev 113573>>
+startxref
+128201
+%%EOF
+1 0 obj<</Author(Oracle Reports)/CreationDate(D:20140415163414Z)/Creator(Oracle11gR1 AS Reports Services)/ModDate(D:20140416130226-04'00')/Producer(Oracle PDF driver)/Title()>>endobj4 0 obj<</Contents 47 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</C2_0 46 0 R/C2_1 29 0 R/T1_0 7 0 R/T1_1 10 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj30 0 obj<</Length 3436/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Oracle Reports</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default"/>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2014-04-15T16:34:14</xmp:CreateDate>
+         <xmp:CreatorTool>Oracle11gR1 AS Reports Services</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-04-16T13:02:26-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-04-16T13:02:26-04:00</xmp:MetadataDate>
+         <pdf:Producer>Oracle PDF driver</pdf:Producer>
+         <xmpMM:DocumentID>uuid:869b9484-eb29-476c-8dc2-de15e09198d4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:b3b26a59-9b73-4712-80be-ce3ba62182ad</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj46 0 obj<</BaseFont/NCHDZY+Arial-BoldMT/DescendantFonts 48 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 49 0 R/Type/Font>>endobj47 0 obj<</Length 2045>>stream
+BT
+/T1_0 22 Tf
+227.28 605.24 Td
+(February 2014)Tj
+-32.6 -49.48 Td
+(Monthly Traffic Report)Tj
+ET
+q
+114.8 503.24 393.76 24.76 re
+W n
+BT
+165.08 507.76 Td
+(Newark Liberty International)Tj
+ET
+Q
+q
+114.8 470.2 393.76 24.76 re
+W n
+BT
+157.92 474.68 Td
+(John F.Kennedy International)Tj
+ET
+Q
+q
+114.8 437.88 393.76 24.76 re
+W n
+BT
+257.68 442.4 Td
+(LaGuardia)Tj
+ET
+/TouchUp_TextEdit MP
+Q
+BT
+/C2_0 22 Tf
+246.04 342.52 Td
+<00090003>Tj
+/T1_0 22 Tf
+1 0 0 1 268.04 342.52 Tm
+(Teterboro )Tj
+ET
+0 w 
+147.04 74.72 342.72 191.96 re
+S
+BT
+/T1_1 10 Tf
+147.04 256.92 Td
+( Aviation Department - Traffic Statistics)Tj
+ET
+/TouchUp_TextEdit MP
+BT
+147.04 232.92 Td
+( JoJo Quayson)Tj
+0 -12 TD
+( John Cuneo)Tj
+/C2_1 10 Tf
+56.709 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+-56.709 -12 Td
+(Deyssi Mesa)Tj
+/C2_1 10 Tf
+57.236 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+/C2_1 10 Tf
+-57.236 -12 Td
+<002700440051004C0048004F0003002A0044004900580055005600520051>Tj
+ET
+/TouchUp_TextEdit MP
+BT
+/T1_1 10 Tf
+147.04 172.96 Td
+(Notes1:)Tj
+1 0 0 1 180.79 172.96 Tm
+( The section entitled Air Transport Association Carriers is included to \)Tj
+ET
+0.48 w 
+q
+1 0 0 1 147.04 170.96 cm
+0 0 m
+33.76 0 l
+B*
+Q
+BT
+147.04 160.96 Td
+(give a comparison between Port Authority Airport traffic growth and aggr\egate )Tj
+T*
+(growth as measured by the majority of the U.S. carrier industry.)Tj
+T*
+(Note2: The page 2 Access Mode: residents report excludes passengers )Tj
+T*
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous \"other" )Tj
+T*
+(category. The airline OAG summary uses schedules effective for   the wee\k in )Tj
+T*
+(the middle of the month being summarized."Flights \(daily\) refers to th\e daily-)Tj
+T*
+(each-way average flights which can be thought of as 1 directional depart\ing or )Tj
+T*
+(arriving flights.)Tj
+/T1_0 18 Tf
+-48 598.04 Td
+(The Port Authority of New York & New Jersey)Tj
+ET
+q
+114.8 404.2 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+203.68 408.72 Td
+(Stewart International)Tj
+ET
+Q
+q
+120.8 369.68 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+186.04 374.16 Td
+(Atlantic City International)Tj
+ET
+Q
+
+endstreamendobj48 0 obj[50 0 R]endobj49 0 obj<</Filter/FlateDecode/Length 235>>stream
+Hâ\ê¡j√0ÜÔ~
+€C±õAa£cê√∂“l‡ÿJfXl£8áº}ßt0Å?˙?ÒKÚ‹º6¡gêä∂≈Ωépä3YÑƒ±Ámæ´Ú€—$!nó)„ÿÑ>ä∫yÂÊîiÅ›ããÓÖ¸$á‰√ ªÔsªŸŒ)˝‚à!É≠¡aœÉﬁM˙0#Ç,ÿ°q‹˜y90ÛÁ¯ZBUÙqc£√)ãd¬Ä¢V\Í7.-0∏˝j£∫ﬁ˛*Ó'v+U)]‘Û¶NÖΩª÷)º,<"⁄ôà”ïãîXk q¥0µ>q` $rA
+endstreamendobj50 0 obj<</BaseFont/NCHDZY+Arial-BoldMT/CIDSystemInfo 51 0 R/CIDToGIDMap/Identity/DW 1000/FontDescriptor 52 0 R/Subtype/CIDFontType2/Type/Font/W[0[750 0]2 3 278 4[333 474]6 7 556 8[889 722 238]11 12 333 13[389 584 278 333]17 18 278 19 28 556 29 30 333 31 33 584 34[611 975]36 39 722 40[667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944]59 60 667 61[611 333 278 333 584 556 333 556 611 556 611 556 333]74 75 611 76 77 278 78[556 278 889]81 84 611 85[389 556 333 611 556 778]91 92 556 93[500 389 280 389 584]98 100 722 101[667 722 778 722]105 115 556 116 119 278 120 129 611 130[556 400]132 134 556 135[350 556 611]138 139 737 141 142 333 143[549]145[778 713]147 149 549 150[556 576 494 713 823 549 274 370 365 768 889]161 162 611 163[333 584 549 556 549 612]169 170 556 172 173 722 174[778]176[944 556]179 180 500 181 182 278 183[549 494 556 667 167 556]189 190 333 191 192 611 193[556]194 195 278 196[500]198[722 667 722]201 202 667 203 206 278 207 209 778 210 212 722 213[278]214 223 333 224[611 278 667 556 611 500 280 722 611 667 556 667 611]237 238 584 239 241 333 242 244 834 245[556 778 611 278 667 556 722 556 722 556 611 552 333 722 556 722 556 722 719 722 667 556 667 556 611 278 611 385 611 479 722 611 722 611 778 611 722 389 722 389 667 556 611 333 611 479 722 611 722]294 295 611 296[500 611 500 601 778 821 615 606 475 684 446 715 552 604 396 1094]313[500]315[500]317 318 500 319[979 722 583 604 584]324 325 604 326[708 625]328 372 708 373[729 604]376 379 990 380 382 604 383[1021 1052 917]386 387 750 388[531 656 594 510 500 750 785 556 708 240 479 885 489 604]402 403 354 404[604 354 722 556 722 556 722 556 667 556 667 556 667 556 778 611 778 611 778 611 722 611 722 611]428 435 278 436[556 278 722]439 440 556 441[611 278 722 611 723 611 778 611 778 611 722 389 667 556 611 333 722 611 722 611 722 611 722 611 944 778 667 556 278 722 556]473[889 778 611 333 944 778 944 778 944 778 667 556 278 333 556 600]489 492 834 493 495 333 496[465 722 853 906 474 825 927 838 278]505 506 722 507[719 667 611 722 278 722 667 833 722 644 778 722 667 600 611]522 523 667 524[809 802 278 667 615 451 611 278 582 610 556 460 611 541 278 558 556 612 556 445 611 619 520 582 576 753 845 278 582 611 582 845 669 885 567 711 667 278 276 556 1094 1063 875 610 622 719 722 719 722 567 712 667 904 626]578 579 719 580[610 702 833 722 778 719 667 722 611 622 854 667 730 703 1005 1019 870 979 719 711 1031 719 556 618 615 417 635 556 709 497]610 611 615 612[500 635 740 604 611 604 611 556 490 556 875 556 615 581 833 844 729 854 615 552 854 583 556 611 417 552 556 278 281 278 969 906 611 500 556 604 487 447]651[1115 766]653 665 0 666[447 0 299]669 670 0 671[333 583 576 457 550 614 273 413 616 626 273 521 491 496 611 630 273 386 613 543 594 587 500 512 573 521 715 673]699 701 546 702[276 504 818 273]706 707 521 708 709 496 710[559]711 714 715 715 717 583 718[576 454 550 614 323 438 626 323 521 491 496 630 386 613 594 587 512 573 521 715 673 273 576 491 587 607]744 747 0 748 749 319 750[356 469 198]753 760 0 761 770 562 771[526 319 526]774 775 750 776[343 750]778 780 562 781 785 750 786[0]787 794 750 795[612]796 798 750 799 800 649 801 802 271 803 806 750 807[577 559]809 810 523 811 812 433 813[757 879 360 542 757 879 360 542 645 554 415]824 838 750 839 843 0 844 845 750 846 861 0 862[556]864 891 750 892 893 319 894[750 703 469 238 253 217 234]901 902 451 903[217 234 645 577]907 908 271 909[217 234]911 912 649 913 914 271 915[343 415]917 918 649 919 920 271 921 922 649 923 924 271 925[577 559]927 928 523 929[577 559]931 932 523 933[577 559]935 936 523 937 940 343 941 944 433 945 946 899 947 948 608 949 950 899 951 952 608 953 954 1063 955 956 771 957 958 1063 959 960 771 961 968 523 969[541 469 541 360 541 469 541 360]977 978 758 979[305 324]981 982 612 983[305 324]985 986 541 987 988 360 989 990 451 991 992 234 993 994 360 995 996 415 997 998 541 999 1000 271 1001[343 415 469]1004 1006 451 1007[645 554 645 577]1011 1012 271 1013[541 596 486 541 486 541 486 541]1021 1022 750 1023 1024 0 1025 1027 750 1028 1029 0 1030 1031 750 1032 1033 0 1034 1036 750 1037 1042 0 1043[750]1044 1045 0 1046 1099 750 1100 1102 319 1103 1125 750 1126[343 125]1129[2000 853 711 830 724]1134 1149 0 1150[513]1151 1152 834 1153 1186 0 1187[278 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556]1228 1231 278 1232[778 611 778 611 778 611 778 611 778 611 778 611 778 611 853 711 853 711 853 711 853 711 853 711 722 611 722 611 830 724 830 724 830 724 830 724 830 724 667 556 667 556 667 556 722 556]1278 1279 278 1280[778 611 722 611 722 611 722 611 722 611 722 611]1292 1295 0 1296[567 417 904 709 610 500 610 500 722 604]1306 1309 556 1310[667 556 703 581 703 611 726 556 778 611 649 271 305 324 612]1325 1330 271 1331 1333 0 1334 1335 333 1336 1339 0 1340[217 234 217 234 217 234 217 234]1348 1351 451 1352[645 554]1354 1355 649 1356 1357 271 1358 1359 649 1360 1361 271 1362 1363 649 1364 1365 271 1366 1367 649 1368 1369 271 1370 1371 649 1372 1373 271 1374 1375 649 1376 1377 271 1378 1379 649 1380 1381 271 1382[577 559]1384 1385 523 1386[577 559]1388 1389 523 1390[577 559]1392 1393 523 1394[577 559]1396 1397 523 1398[577 559]1400 1401 523 1402[577 559]1404 1405 523 1406 1423 343 1424 1439 433 1440 1441 899 1442 1443 608 1444 1445 899 1446 1447 608 1448 1449 899 1450 1451 608 1452 1453 1063 1454 1455 771 1456 1457 1063 1458 1459 771 1460 1461 523 1462[541 469 541 360]1466 1468 758 1469[305 324]1471 1472 758 1473[305 324]1475 1476 758 1477[305 324]1479 1480 758 1481[305 324]1483 1484 758 1485[305 324]1487 1490 612 1491 1492 1155 1493 1494 906 1495[757 879 360 542]1499 1500 541 1501 1502 360 1503 1504 541 1505 1506 360 1507 1508 541 1509 1510 360 1511[757 879 360 542 757 879 360 542 757 879 360 542 757 879 360 542 757 879 360 542]1531 1532 451 1533 1534 234 1535 1536 451 1537 1538 234 1539 1540 451 1541 1542 234 1543 1544 451 1545 1546 234 1547 1548 541 1549 1550 271 1551 1556 541 1557 1558 271 1559 1560 541 1561[577 559]1563 1564 523 1565[343 415]1567 1569 388 1570 1585 451 1586[645 554 645 554]1590 1591 271 1592 1593 451 1594[645 554]1596 1597 271 1598[645 554]1600 1603 812 1604[207]1605 1611 0 1612[1123 1084]1614 1619 0 1620[213 371]1622 1623 0 1624[600]1625 1627 0 1628 1629 899 1630 1631 608 1632 1633 1063 1634 1635 771 1636[541 469 541 360 469 360 343 271 320]1645 1649 244 1650[757 879 273 0 414 546 486 541 486 541 486 541 486 541 486 541 486 541 486 541]1670 1671 562 1672[486 541 611 836 719 611 719 611]1680 1681 722 1682[556 722 837 719 611 606 667 626 611 778 637 931]1694 1695 278 1696[722 556 278 556 992 722 611 778 887 744 782 611]1708 1709 667 1710[556 600 360 333 611 333 611 802 722 770 556 611 500]1723 1724 611 1725 1726 526 1727 1728 556 1729[497 579 611 280 498 584 333 1333 1222 1111 1167 889 556 1278]1744[889 556 722 556 0 722 556]1752[889 778 611 778 611 722 556 778 611 778]1762 1763 611 1764[526 278 1333 1222 1111 778 611 1033 665 722 611 722 556 722 556 667 556 667 556]1783 1786 278 1787[778 611 778 611 722 389 722 389 722 611 722 611 667 556 611 333 577 520 722 611 703]1808 1809 631 1810[611 500 722 556 667 556 778 611 0 778 611 778 611 778 611 667]1826 1827 556 1828 1830 611 1831 1832 556 1833 1834 611 1835[556 782]1837 1838 497 1839[691 567 333]1842 1843 611 1844[586 556 601]1847 1849 611 1850 1851 278 1852[405 332 356 278 604]1857 1859 889 1860 1861 611 1862[615 611 833 845 750]1867 1873 389 1874 1875 583 1876[556]1877 1879 333 1880[540]1881 1882 333 1883[611 621 582 556 778 556 571 500 680]1892 1893 526 1894 1897 556 1898[778 615 567 586 604 458 556 452 611]1907 1908 556 1909[1031 942 1210 813 534 824 869 776 692 534 563]1920 1921 368 1922[194]1923 1925 252 1926[375 523 360 238 474]1931 1933 278 1934 1935 333 1936 1937 375 1938 1941 584 1942 1958 333 1959[366 141 376 366 375]1964 1968 383 1969 1972 333 1973[500]1974 1982 542 1983[383]1984 1988 542 1989[383]1990 1994 542 1995[383]1996 2000 542 2001[383]2002 2006 542 2007[383]2008 2016 542 2017[383]2018 2022 542 2023[383]2024 2028 542 2029[383]2030 2034 542 2035[383]2036 2040 542 2041[383]2042 2050 542 2051[383]2052 2056 542 2057[383]2058 2062 542 2063[383]2064 2068 542 2069[383]2070 2074 542 2075[383]2076 2084 542 2085[383]2086 2090 542 2091[383]2092 2096 542 2097[383]2098 2102 542 2103[383]2104 2108 542 2109[383]2110 2113 542 2114 2204 0 2205 2207 333 2208[610 582 770 1001 770 750 845 676 778 611 722 556 611 452 751 529 804 610 992 889 703 611 703 605]2232 2233 667 2234[643 604 735 578 507 439 676 618 556 278 778]2245 2246 479 2247[667 719 556 615 1280 778 869 703 976 796 667 556 926 800 809 753 1077 980 626 497 809 753 778 611 815 646 815 646 1120 974 814 638 1280 901 0 1280 778 722 556 584]2287 2292 0 2293[719 615 719 615 667 611 703 598 626 497 610 500 761 623 879 714 1126 921 722 578 722 556 611 490 853 689 703 581 856 678 856 678 278 904 709 702 598 702 635 722 604 722 604 703 581 833 740 333 722 556 722 556]2346[889 667 556 726 556 904 709 626 497 626 526 719 615 719 615 778 611 778 611 711 552 622 556 622 556 622 556 703 581 979 854 719 611 1030 935 959 846 658 536 1013 956 1033 925 778 586 766 701]2393 2430 0 2431[722 556 722 611 722 611 722 611 722 556 722 611 722 611 722 611 722 611 722 611 667 556 667 556 667 556 667 556 667 556 611 333 778 611 722 611 722 611 722 611 722 611 722 611]2475 2478 278 2479[722 556 722 556 722 556 611 278 611 278 611 278 611 278 833 889 833 889 833 889 722 611 722 611 722 611 722 611 778 611 778 611 778 611 778 611 667 611 667 611 722 389 722 389 722 389 722 389 667 556 667 556 667 556 667 556 667 556 611 333 611 333 611 333 611 333 722 611 722 611 722 611 722 611 722 611 667 556 667 556 944 778 944 778 667 556 667 556 667 556 611 500 611 500 611 500 611 333 778]2578 2579 556 2580[278]2581 2588 615 2589 2590 722 2591 2596 869 2597 2602 475 2603 2604 765 2605 2608 960 2609 2616 611 2617 2618 820 2619 2624 1015 2625 2632 278 2633 2634 375 2635 2640 571 2641 2646 611 2647 2648 827 2649 2650 1042 2651 2652 973 2653 2660 582 2661[813 999 1048 960]2665 2672 845 2673 2674 851 2675 2676 1065 2677 2680 997 2681 2682 615 2683 2684 475 2685 2686 611 2687 2688 278 2689 2690 611 2691 2692 582 2693 2694 845 2695 2702 615 2703 2704 722 2705 2710 869 2711 2718 611 2719 2720 820 2721 2726 1015 2727 2734 845 2735 2736 851 2737 2738 1065 2739 2742 997 2743 2749 615 2750 2754 722 2755 2759 333 2760 2764 611 2765 2766 862 2767 2768 917 2769[722]2770 2772 333 2773 2780 278 2781 2782 473 2783 2785 333 2786 2789 582 2790 2791 619 2792 2793 582 2794 2795 667 2796[862 911 765]2799 2800 465 2801[333]2802 2806 845 2807[924 827 948 851 802]2812 2813 333 2814[556]2815 2816 722 2817[889 722 1225 944 722 611 1086 500 594]2826 2829 0 2830 2831 278 2832[556 667 837 499 833 506]2838 2839 729 2840 2853 333 2854 2855 397 2856[333]2857 2867 0 2868[667 611 588 776 889 615 556]2875 2876 575 2877[500 497 278 507 558 452 740 615 611 556]2887 2889 618 2890[944 571]2892 2893 611 2894[614]2895 2896 583 2897[490 582 611 768 609 556 778 500 484 493 615 417 556 604 614 753 635 486 696]2916 2917 454 2918[455]2919 2920 417 2921[501 436 181 358 461 390 517 433 434 519 435 419 459 433 435 635]2937 2938 377 2939[391 589]2941 2942 391 2943 2944 376 2945 2946 351 2947[391 141 349 564 368 410 380]2954 2955 411 2956[391 217 368 407 564 364 412 388 364 408 481 379 141 252 368 364 388 364 407 481 379 741 1324 759 817 657 239 541]2984 2992 0 2993 2994 343 2995 2996 433 2997[469 451 469 451 723 696 761 637 643 757 668 820 584]3010 3012 0 3013[556 500 479]3016 3019 234 3020[852 1189 500]3024[500]3026[333 250 167 556 278 200 83 0 737 722 833 740 922]3039 3040 954 3041 3042 722 3043[556]3044 3045 611 3046[556 500 645]3049 3053 0 3054[619]3055 3057 722 3058[567 417]3060 3062 0 3063[386 0 324 405]3067 3073 0 3074 3075 649 3076 3077 271 3078 3079 649 3080 3081 271 3082 3083 649 3084 3085 271 3086 3087 649 3088 3089 271 3090 3091 649 3092 3093 271 3094 3095 649 3096 3097 271 3098 3099 649 3100 3101 271 3102[577 559]3104 3105 523 3106[577 559]3108 3109 523 3110 3113 343 3114 3115 433 3116 3117 899 3118 3119 608 3120[541 469 541 360 541 469 541 360 541 469 541 360]3132 3133 758 3134[305 324]3136 3137 758 3138[305 324 757 879 360 542 757 879 360 542 757 879 360 542]3152 3153 360 3154 3155 415 3156 3157 360 3158 3159 415 3160 3161 541 3162 3163 271 3164 3165 541 3166 3167 271 3168 3169 541 3170 3171 271 3172 3173 451 3174 3175 234 3176 3179 433 3180 3181 899 3182 3183 608 3184 3185 611 3186[333 889]3188 3189 611 3190 3191 389 3192[556 333 500 611 367 607 873]3199 3200 278 3201[611 582 621]3204 3205 611 3206[333 768 556 278 889]3211 3212 611 3213[389 556 466]3216 3217 556 3218[500 556]3220 3221 611 3222[556]3223 3224 497 3225[655 278 556 333 611 526 391]3232 3233 380 3234[410 351]3236 3237 242 3238[391 368 182]3241 3242 141 3243[182 308 194 164 286]3248 3249 564 3250 3251 421 3252[372 410 501 376 278 217 406 421]3260 3262 364 3263 3264 361 3265[468 380 363]3268 3271 0 3272[333 377 376 410 366 376 778 722 667 722 333]3283 3290 615 3291 3298 278 3299 3306 582 3307 3310 278 3311 3314 582 3315[486 541 484]3318 3319 722 3320 3321 667 3322 3323 556 3324[278 775 611 722 389 667]3330 3333 556 3334[278 567 417 667 556 667 556 626 497 702 635]3345 3353 0 3355[500 556 611 278 611 667 722 556 333 722 611 722 556 611 500 556 541 436 715]3374 3379 0 3380[278 723 722 723]3384 3394 0 3395[778 611 944 778 715 0 763 606 1044 858 333 389]3407 3408 238 3409 3410 500 3411 3414 333 3415[611]]>>endobj51 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj52 0 obj<</Ascent 1018/CIDSet 53 0 R/CapHeight 716/Descent -376/Flags 4/FontBBox[-628 -376 2000 1018]/FontFamily(Arial)/FontFile2 54 0 R/FontName/NCHDZY+Arial-BoldMT/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 136/Type/FontDescriptor/XHeight 519>>endobj53 0 obj<</Filter/FlateDecode/Length 12>>stream
+Hâö‡ ` b —
+endstreamendobj54 0 obj<</Filter/FlateDecode/Length 11897/Length1 37126>>stream
+Hâ|U	Tî◊˛Ó{ÔüQAÌ#ƒ≤®†à"¬Ä£b0pÈå\I$ƒòD*ji–4çM¢1.1ÓÈè“h]1=ÊD„¢1∆j¬1ó»9Fkµ*Û˜Œò∂¶Á4Ôù7ÛÓ{˜›˚›ı¿o!—sT~èîv&æ«'˚x9ã++Ù˚ÎœXã&ó?3›veO7¿V	h_=3Ì≈…—G≤A# —•¥ƒÂæ∞¶(û Ô˚îÚA»‹–h¶◊2›µtz≈Ïå‹◊ô>§:ßÕ,v!*9»çe⁄=›5ªº„`≈≤_zï˘ıÆÈ%Æ”ÛO0Ωêã ü+)ˇÒÒÊP†™7–ÓHyZÏÉõˆé÷ãQF>¸óçò,Blö∞*·™	Òffg≥T?^3"[OÛÅv 3özY3hG&»4M@≈i{º⁄°¯? ∑6"J≈Å}`^˙˜Úîôóºwﬁqçuw~∏~;∞_Q7“±ìÓ!w)úí1
+wÿ”B+ﬁDå¡
+
+AWÑ‚)#≈<	XL+ÕJÛ*‚¨3wQµπÖÔ_«'∏ÀæQÑ4åd˛ßPÇ´≤ÖÊ;∞°Üc8 OR(\8√Û6cXÜÂ8@/õwYkT≥ºt∆`Ûê˘ ÒX¨ñhg˝˛å•ÿK≥ÿ,Cƒ†V$ògÃoáB¨«6∆î@j(¢1ÒÖÀOx˜&ﬁáá≈ô≠dM√03j±G)ÑÚ¥≥⁄Û%Û2,hènå©W)ïFà*–Ã0œa˛ÇOŸ^ÔlP„‘Fmúgê˘Æ˘1:b˘”>:§•hhùgÆ5?D „Ifèåd=ì0áp?‚¶®2´0˘¨˘0u&ù‚ÿ„gD∏ò+Ê SËŒ÷N`¥œ„=ë=ÿã˝Ïõø°	Õ‘Å"ÈqöDKÈ¶nqRÆîıÚ¥"µô˝mG,˚®é·8Ní∆Ú{RM°ôÙGzóöÑ!Æã; ¶Ê´˚™UãÛ4yÓõ#Õ€ËÑ<Å9®bﬂÆ«N‘„æƒM‹¬?(ò˙R)≠%ÉöË∫1bî(+ƒ±]éîKÂ!ï™≤‘Tu\ù”~ß-≤∫¨ûxñy∂{Õ]f#ÁNÀèC.{tg≈ƒ)ñ˛5.‡¢7X˛ *¢â¨e˝ûñ”v:Lçtç≠Ño∆à¬¡ZgäÁÿO’bôXŒ⁄OÚ¸\úƒ‚∂‘dåÏ#üïk•!wÀœÂ˜*X≈©Ó*YçRE ‰»§hC¥|mì∂U˚XªaI∑∏-Âñ+÷jÎ€±÷¯÷o<îzœNŒ]g“ˆƒj¨„ºØÁeèû`ƒM¯;G!Ç¢È1∆›èri8ç†ßi<ïP5’–Ù≠§uÙ![¿6+cOÉEæpâ±@‘à◊D=œ=‚à8#ŒäF&Ì2A&Àa≤Héì3ÿÜ
+9W.`œ.ï[‰IyJ^ñWdG-LuQœ´9ÍmµQ’´FÌ	m:œu⁄A≠Ak‘h,¬aâ≤Ù∞L±l≤\¥Z¨}¨y÷W≠ß≠∑lÂEÒå\«#CÑsv[DUE-|–ô⁄≤Â	á|Æä[$=ó Ô=cÎ(¬U{ÔKK¶2¯}ÌE*FïEHÓ ‹¥v–y—§˛*‚KrR∏⁄(ghGE4∂r7Z"ˆâΩîÖzë.∆äU‘Lõ–Ã˘>Ài*Õ¬Vj°˛Ù
+•QNãPôOênÆä¸h› #¿<Â∆D¸‚†~8è´û’™çzô˚”n¨‡àn√∑¥˜H3Øswì‹ç\‹esæ/Ñ∑ÎM‡:´‚zÁ2Õrıd·/Hö%CÕ¡¸Wµ=úQY‹I/{ ‘jıùôf&qÖqïa◊])Üp≈4sñÏg⁄KçÁJ˜Á^í¬Uùá"∏Ò
+wΩ•¶aÆ2Áõ/ö3ÒøΩGâtè÷pEÏÊÈ¯îÁÎ¯öq˘e;ˇﬂ∏—Äk‘âb)ÖÎ°E´‘ñh[¥zÌÄv‹íÃﬁ^Äïú—9õ˝ŸÇb4‚ÓêçcéDÙfº}{¶âBπŸÅrÆŸn‹«≥~≤dK©fÔ≠‚zﬁœµqÉ˚ƒx¿Y∆≥~ÀŒ~˛s¿úO;˘ƒÕ];?∞›A‘WT∞æLñ¥ÇªVc:èÔŸ€¶W"˜çeYw4‹¨°Ú®é#˙qgu»cÏÔÆå,ä°˜˘ùì+4ù—O˚é=#Õæ¢LÓÁoå…Ák¯ÎâÅÙ,£hÀv¥¢#çB™ÁI∆pä§2Ëä∑EâY#_L√gÿÃ1…TïVGÊ‡1ôÉ2¶ËﬂØoZjÔ^)…={tOJLàˇu∑«‚bª⁄c¢ı_uÈﬁ),¥cáˆ!ÌÇ€µ	˜≥Y-öíÇêòcœuÍFú”Pqˆ°Cìº¥›≈ÆGúÜŒGπ?Á1tßèMˇ9g&sN˛ŒÃáúôˇ·§`=ÈIâzé]7é;Ï˙n*]¿˚◊ˆB›hÒÌG¯ˆK|˚6ºèéÊzNßRánêSœ1r+KksúW‡ümœ.ÒOJDù oxgÑŸÀÎ(,É|ñ”øN¿÷ÜAvGénwx26«Â6ÚF‰8"££ì .∂O2`œ2⁄&¯XêÌScX≤´Oç^ÊµãÙ∫ƒÜ⁄≈ªÉ1…ôË∂ª]„È*ÙÍhó¿zFÿúKù˛K≤êÏÇöGo#emNß2›K÷÷÷ËF√ËÇGo£ΩøÖÖ,Éﬂäÿ\gm.´^ÃNûØ≥6±∞∞¿†Ö¨R˜Z‚µÍ°}%ˆÔâsän¯Ÿ≥Ï•µSúöàZ„_úW{Pî◊?ﬂ{ëpW	ãü¨·a»C6Rë%> wQ'ÄöFh'6LLuö‘È§’¨“™QÉ†mÃ4>¿iu¶K»¥4mGM„43)6ı/£MZãt⁄Qì)æ˛Œ›]
+Ù1”.¸æsÔ9˜uŒ˝ù{øè÷ÓÃ<Ôr˘zÌ‰ZÓ÷¯≠ÃPŸ,+–¯•Ÿ=3(∏vÁßœÌúhôü◊c&G€35)Zòí8æ∞uÃ&J¢9ó™÷éEV‚YOÄ!˜f7V‚∑‡S?∂Qpsö·ê–+¥;≤-Wﬁ4KXœ˝CZñiπÉ˜	∞ÜÓL‘4F5zñyü∏»<£Ï±r(77îì√1 ±ßX„c¢^0?oGX^bm7›≠Fl%^Ñ?3ì7x_ÿGM®ÑvØÒGÍnjöuû|ﬁ‹@Hn`KÃíRÀñ›1ÀX˜LæH¸…êrx∆˛ìÃ‘ÈÀü-	I©ˇ≈º5bØZgU≠©˜ªó¢±≠™ôPãÿã∆l—Rhzπ_ô%GKÚ,EXA çcçπ‚üR≥ØRo	) •PHÓäêŸPy‚33ˇcü∞·◊)lˇï{	Òœn—UÜJr'÷óN®OX›î†Çı™π™¶>åü`´¿VXÓä`C∞1lÔn≤‹¶ÏïOÀßÉ€ó7ƒ64løΩoV®b N<+ïÄ¨2-Î±§Ωkz|“ﬁuı˛^_.{k¸ÁeI.oXËôõø/*>°ï«¥\ssç™$˝ºÏ¶YΩ>¢›¬™
+Ö®oK$téòN¢Õa9¢3Öø˘$Ûﬁk¯√+ÅAÀ. “®nÑÂ2ﬂt“‘QÖ‚uT"ßC◊FeÂ…CqxûI3sÕœJGJ´Õ{•´FJ©eÛÚ3ì3ì≥êvÒ¿≠Ù?iÙπ’~û°ﬁæÆù“>ƒgÀ#T$…æØ'$«{]…NoaFa˛âπß¶ûuæÂ>;˜‘#S‚T›r™iVñíìÓ…, ?l)ü∫fœv•ß':ù3-ÀÌıÊ%&.ÙZN%Øh∂KQ=ÓtI¡∑Ä¢y-w˙ló31Æ ªq∫T∞BOê»U‚È4SΩ©rjXz≈óü◊ôdfòÃ7L’K˘ív&≈gƒÁ«+ÒŒ‚Uﬂòôˇ6≠Ÿ4d’ÊßTV∂j®l(9≠xZq±î<2≠X‘ˆòéR`Ÿ£ÀÂ5˛∞$+lﬂ∏7u±Ú'êäâÂÊÊn
+,»ßM“¶,√3O◊-˜<O¡‚%Ö~.Zà˚S7¶/)L”u#5U*\R∞ÿcÕ—Sf§):û©ã.)‘NuΩ‘∏˝K∞ÂÃÈ™ïø˙ÈµÊìÔœuçzä‹ﬁ##ûï5kñóØÙe76º∏eŸÆ ø¥eı é;€>^8Y˘Ìﬁw˜ﬁÿ:z◊˜Âí=/Â‰mS¶î<Ó[≤≤<oÒì£ﬂ\¨‹–∫∏îƒ¡†%mÏ'9ûN*ΩÔp:ƒ÷õ∑J”Y^>¯ÀÔ?1…1m„ ÓèçVSπI√√√ªÃ»8„~â~=™íã£Ë¢∞Úk⁄Æ∂“4†¬HßÄvâÍ•?“FÿZÄr%ùf´Á®Ì_@ΩÚ5πÿA˚:‡M`∞
+ ÄıQ¨Gü+@∆xö«Ú5WÈQÃE¿Q†8¨’—ÿ^◊ã©âıòk?∆∞P>˝	Ωã¢‹{Ä€
+…˝ÎËIÿÛP~M´≥m£çËÂËS1ˇ!^3§Û∑™≠ˆ 9˚	ÿ˜@÷B÷D◊;Sîoq·+˚¯*óüó°?¨ˆÓüè~®∑°úÄu≈AN¶™Ds–¶'!»˘òø<Í7	ø·«òOXøX”øG-Øo<∞&ˆÎ6p¯`‹⁄&£mZÒªHÏ˚ú,ïØ“2ƒeî˝“>±?gÄw¡Ø>@√–Ÿ]Xgôvë⁄Q_î
+¥í§ßÁî{ÿÉã¥K?J'°'ye…w»•gQ!‚Á«¯ÎÅ≠ÛÇ[xˆ»ıra¨†s_â≈âcÉz%ˆ’è∂8◊WÄmàA;<ØÛ{9Êÿ˜œ•∫—≥h{ÛT10gÜ |èÏ+ΩÄ˛_√Xíò'≤	¿ﬁåò˛¯s^CÇgQà±∫HëªÏªê”p8»|ÄbnÉ˘„—>^úan2?ò⁄%¡’uºˆà"ˆEsÊ´ËøpÎÁhc£-«ßâ9À˘õπ≈úâI¡È¡˚ÀÏ'sjú<¨ı”^Éò‹äIŒ;åªì•í"÷‘°ﬂ€ôo1…qaÆq>rNDÂÍqæÊEs$˝\c2ã1˘Í¿òu˙Atê™’ÎTçOØjm'‰!¯◊¸QÒ	´‰“Sé~ ∆^>Öæ«&…vÜ1 5cÆÔ©›à≈ ùqêÁ®í¶u€∑5íÆh›ÚÀ¢¸/r2§˛àç%cºÌ’ˇ?êØi›Ù ÷l˛‚ú0•|¿ì–üv9é\©›—"ÖçZ2u¢{¿s™èJ4‚5°LM¡''QÙµ˙
+qÓ¿¯ó§Aj√~}«H!Kπç≥s…◊p? <>‰™q<ö¿π…\ä…_'KÊüªê§y˜6–\è‚c‡&¯X	¨‡ªÅœgq?‡å⁄"|µá∆¯yÖéC~7∆œI<ÕôƒOc2/'Kæ[¯|wÚÎhã˘œÁ#üq|FÚ9«w_¨˝d9ÆˇúøÁU™èÊu6êx1∆;—s§O	€˜ê£“?¥˚å2ªOyœÓ”èŸßå˚≤~—>ø≥«Ó‘˛»Y∆˘ªK9N|/∆ÓQÕCœDœ≥—Ûã{¥Nú§ÔD˛5S∆}üÔUŒCÂ8ÚÒƒxﬂRœ–W‘õt kOR~—´Î®öœDu –„Lg{Çr@ÿ◊™wiáöçÚ»NJ÷⁄°øÀ}Ï´Bw+bcùVOØÉw^ıU˙°÷C~ﬁ+ˆC.∞ﬂ„ΩGŒªªÈÑA‡MÍPá·s?|º$dß‡˜Ω`≥∆RJ”¯«m Ó£ù w4GE,˙Eåé#<¶˛[ÒæA⁄Ghˇz…Oéy8üÓìÀ¿Y"ÊÍ°ıüàª*ÓÎø!?¡±Z⁄´Õ∞ˇ.¯Œ∂ïa‰– ÚãÅØ-Öú⁄ u"óˆä¯D‰>ŒeêRò#ØFºOÇ„o—Ûz7Ì◊˚¡ª‹ÿ∑A¯“BE(TªÌ/–v9∆ û˙5‚˝ÑÔ)ü˝Áã—ˇÓÀ=∏ãÍä„Á˜€˝Ì&—
+X¡
+BA
+6öVP¥#B"QS`tlÒ1
+-ï!Bp§ "èî‚àîGÖZ-E™XôÇ0‡î¬X©u,µR•Vhë<∂üs˜n≤n¯ÒOwÊ3Áﬁª˜qˆÓΩ˜|Ø‰˚Éü:ÍÉ—åÎ¸Hg…‡ú£Ú§◊YzU4vÇoÑò¸ò’!¶¨uhS]Ë„A-Oﬂ&;"-§t/∏ø`Ô-ï¡Œ”íÁND?º'3”E2€≈∫{üò·»Éöw•áÛæåpNö¯3;ì'WòzÌà„Ô h∑Çˆ[ÂV˜Wr´êŒá«Xè¥Àlí2∑†≥∆”è%›è6π2⁄õK∫(XßıÃ'Évä{üõv1åØÍÛ òœèÒU?f=®ø§„˛™Øç~ZOÁü˘NÌóv¶Œ_d0ÛÙ&\⁄Ü1Èy≤V§†√∑ Ù‘¢`3Û:<¡w‚ywz™
+FÉÎNól/Ï{∞ñ¡¯¿Ì+≥Ë˚eÏ≥z/P“/äπ#˛)¯ºΩã£„úÆ<é{$ÿœgäÂJ%]»ô^¯…w¶~çÙqÔÂÓlVúiíßxHO?Gz¶Q^NªD>”Cw'S∑îh>ù	ûﬁ±yˇ∆Ë`€ùo∆lgµÏØ^ü?ãü˛ÔòdÊÖ\n÷–ªhr?x%µE∆ßﬁNqû{Jòó3ü5“&˙OîWôÚƒˇc≠Ù”9OñìæJâÚ…ˇ⁄Rû~+„DÎ ¬/ñAä˚ı!ô'R<]cÖÕÛç„f£L˙0O√›2|9‘<Ôµñ"%=Ö¸bﬁëØ)ç˘2È©h]ÖπÌ™0◊õïÙ!È¢8•º+5ı*±yßÛÍl’∂¶Ω˘?—:O˛⁄äªçÛË4sô$m|œ&˜m≤,:KNW'±7zgÎÛˇ	ˆŒNÿ¯B«aùßÑµ
+≠M˜'Ù∆¥Íì‹≥v…<ë˙*ë⁄óEÍ&pÉÎ÷S6ñtwÏáêOY%ñhT˚6È)º€ªaÖ€AÓµ∫≤=˘aa€˙U∂øK√ˆ⁄Ójß∂_ÿæv6,%ΩXeµØ`bOPÌ*∞hÄ∫ôÿ>‰GÎ°Óè‰qøÆ?¸≥SWD˚ò¶z‰4˜–œ◊fπú≠≈«;‡{Fs‚oÚq÷6˙ü-ÿ‰]#˙ˇ-ŸË.—Ã⁄y@ÛÌTbwü3ﬁq"Àˇ¸ÿréπıhJﬂËh¥¨—‹™≠5z{ø—ì)£)≠e>’èÛU;´~≈.3˜º◊Ánâ_Â∆Ø(éƒŒ÷t°‹Ì,ú{RBùΩ¯Û/ŒûVƒ◊hÀG	üÒ!¡.bW+Œ‹óR[Çÿ›‰;Àr£òù≠ÕŒÿÊ1ÌÕükå¸1ı:KeÇ®|¢%˘æ»ÚU%ãœïñb˜ßéÂYbt<N÷|Á#rJ±‚¬ÔAÕuiR¥îoIÁûk>©;b˘ç ﬁõ|RóD˘$Õﬁ7_{°û)`øE$ˆ›π¬>‚Nﬁàˆk‰Cr7Ó7õ˜f»PŸ‘jÈ¡9“™ÌΩ´+ib`pø∆∑ú:)ŒY/≈‰üÉÁ√3'®c_Pù˙5Z˙øz‰4Ã"ÔªªM›qñäñ÷sr›™>7˙ê93æ? ø8.E0 .ÑçpW„øÊ…ÿ;"ØﬁsùwÇÙu"õÃfπÁM’˚˘V‰[qw6JßÃVYJz66õ«˘^	ﬂÁÃõŸ‘{œö:7ÒÆÃ= £8Á'fôÏ÷q¶ﬂú…Á™1U~™±|⁄>A€áIw¿∂Úè…"˙YO˚G4¯˘ƒ¡èd¨7X:Q6W„0‹J›[ò€“•Á¸%ºÀ∑∂ów„Øºû&∆\@Y;W¯Æ√“*‹~r\…ªo¬çŒ)˙^i⁄ŒM_-úZŸ‡Æór˙€î∑FÊnóÖ9|Onπ,˜ø"À›©≤ Øø,Ê˛∂ò¸|çWQ\eÓ¢4⁄mçﬂQ∆Èw”w7kÀ¢oNj„_?Œ’+ÉïÒq£v9%ÃM)ﬂø]ìüﬂí∂°ü+†á#…Ò46;É›°ïŸ?©1ÊóÀµÙ”õt°ô€π‹Ìi∆[db51;s>˝úo|7súÙ%ãy©œ¶Ö"m√Ã∫9,3uçëÔŸ≤2£ÀH˛◊uêüô-˘Ó)MØ	∂5÷A3È:r˜ò5;G˝Tt}¡ùŒ@ö^Õ}C.“5ËÓì¸£YñÈ¨”U:∑ÓQ©6>ÆÖﬂ≥é)eÆé4¡ﬁj$8‚Æe,Ö˘R,K›1f}∂∑k≥É{RF∏´ÕöπêÔœ5æŒùª)¨—~ñª9œÿSë5suîyü#◊ôoDS9kY∑ÃèSÉæ:,7FusÆë2ˇa÷Î3¨ùôå;\.Ò√q…˜˙¢Á›√h;S™“J±íz$8îvI„à‚àª(sŒI˝]nrv…Êk1¸Ú=)Zœ‘]',ó)È5©.º¢Ùó√¥)€i˘»≤*ıÇÉPõ~ü±ª–ø>}rZ≥V–Êfãqø“Ωûπ˙$%Ih´∂(	Âj/MbÀíPÆvH áú∆èlı≤˘ë≠º{ ª~dÎ∑k ªû¡øI(q~dõÁnI(Ôv?F%°|T“Œßg‡%Ó®œi¸$Vﬂã›àΩ;~Iö{o0—Êwÿz∑7°Opâe(L†Ò8¯',É1MËXA€∞M4Np'Ècøé•m^«6ÿ1VY_É}1ñWﬂª·P8û?6á:&XBùﬂí`«}:Ùª·bÏÏx~£i˜t€/‡Ø◊o˚nÍ{√“?5S√&;ó+√qÎπ'Ì°ó}_’t.»Óâì8Û4VÁ§E‘ÍYkŒ‹Jπ(´Ó1Á·ay\œ;o‹´§£áÜ£è<’zÜõ˚$ÁæπOæé>A+∫Gˆë?H+Xápn>$=t˜CÙ
+}k‹UÕ·Ïì1ä—[M¨¨Ò Ôj©˙„”q)†ˇ˛©ˆ∆sûÜwŸÛ¸€…OBw‹'Âû/”rj§⁄ˇ3ÔNº*â £ª≠7+2Ör^ds˛#˛. íÆôÈ™„˘}e,svE4v§µ8c[ŸˇÆkg^H›◊a§Ò±m∞L,VÌ§sÚ™T·O°∆OÊ≠çõí/y≥ØÍ§áüãæx^™r”ÚÑ?Åz€eÄ˚3È”8&⁄ 9*mΩΩRò˘â¥5s˝îLı0ØwÒ≠%>T˚‰‚Ã:ækπ,qw–◊rÈúi+Ìçvÿo˙m‘«ÙÃQY ö(HÍöHG5Íõ◊XhÅ∆1Ï˜®’ÿ˚~ccz√Ã{f£\Ôﬁ)ﬂrOY}ò∞ëO˛~YÓÌ7k`º—_eº?±uΩ˜∂II¶ù~≠î‰Hgˇ)iØ˙Ãü»⁄TΩFåˆ:KØÃRaè%¸ßW±˜¿ªøÀÌû{÷Ÿ≥£4,7{ì≤˙%∂¸x *√˜˙.ò¶ÎèÖ˝õwÑıÎı¨bØ•ÿQ«,ı±›≥'5õÁEF”7∑V◊ÀB´[œl˙3õ’=ÃŒèÈ·PO6∑£∞¢<˚soàjπ`O§£ìñ∫Àç∂368jÌ_≠›•kMµ^“∆tıim6˝⁄§cÌ>ãl®´gg±ëæn…6ÍÔ,ˆÏópTW«œ{w˜Ω$íÏ!RŸM©1àê¿—"“, E~Ö˝Åä¡,êíf3IHi—¬X¨J¯QÌÄÚ£Ñ2ÉîÓŒT¥¶ïVq⁄“ŒàS+P¶¥Pú™ò8£6œÔπÔnøíNEˇpn2ü=Áﬁ{Óèwú{nWºﬁõúÎ∫ÏßR“^G6«†)©¸XüÀR≈ÂóﬂOWÀMà”N©8ñ„˜©ò˜u8s3zÇ˜cu∏ÌVGw		ƒ´∏£ØÉïª<"{ü€nÔª,˘≠ÿ÷z‘[è˚%‰∂ßÖ∫K f0ÊÓs‡8>I–&∑]Ëg£€éXΩõƒ›±QæOJØáµ˝nC?eË^‹>äÒ¬‡ækË	ƒÏd„N[ ø±ÉÔ¬y˝ ZH{˝<ä:—œE);ò‘ºßÊ15/¯∂srΩRcNıØ⁄˝O◊m>÷7^∑ÉπYﬂ›”ÿ˝øvﬂ'Y«Y:°ﬁ%êns’òõ‰∏œ‚Å}óügÿ∂+:0ØÔÉ?≤èRºÅxo	Ï˝(–œ’˚†C°“|Î¨˚ñ}ß{íœÅ8‡˛ù·XÍzÛc«‹7±O⁄O@æé:˜…7«^'pV3ÿø3 ˜ÂßøÜ˚æ zòÔ˙¥˝ÿ€ˇÛ"-º2ÊsÁ(‹åv˛¢üï§®Ë§ª¨ºm˚¿'˝ﬁ=À†ØUä£äç^ÏÁæ~ÂÕ≥Ãﬂ”1íÚËc—zq∑©xõ„ÿZèŒs^˛Âq•|Øë0ﬁ∫Ño+«zd¸≤c€Bπày„xAﬁöÍk†&ƒîYpº œBçA\X™»«ºD}õ7û°9íÛ∞kq/1…u:C≥≠€h∂Ô4Äï~~Rº⁄Q˜Cƒúe¥e˝8ˆ·68‰∏Hú¡<¬ßàfºq9ã]êe>˘råZƒ®ß†Ôy»øÚ∞z‰C`ÿ´Úóì„œF[~ËL>ÏûÛ§ƒÙ0èyà0˙@æ˘[ÿ≠¢1f;Ú¶Ä0U¡6á„qŸiÁòÁ—«◊(C‰*}" ﬁià@∏=hWe)õ	óm¸¶…õSık‹Vƒm5ŒSû/JA¨i&¿JvÚ{Ë*é¬iugÇÌH_0_†JF4`Lõ€*∂%˝ø°€˝õ»±rË{˛[hﬁ+Ä{¯n*ÑˇÅX∫Ã{uÚ€n±ØŒ˝÷mï8éqúñ<´d´ıçLG|ér¬–)%Õ iî…ªì∞∑»‡Ë≠≈ã»¸Ôªˇ‡≥ñäsÌo—:{'b…ù4O˘"éµ¯.ÈÀ˜:Ù€yÔ¯á—¥Ñ€«ÖÏ¸9$üá9|~+’ÆÙ≠°ßxo©XêÌ˜ä˙.‰ÕÕòáØPû™;L´9ºÌn˜;ò#`~w Ä>éÅﬁ t+ø)iﬂvúØe-≈–ãØMc=g*ÆX[€°∆w
+vLî∆à6ƒ·Q‘y∑˜¥§"∆¨AzÛu“Y4ÃN£a≤Ó‹ﬁ”ÊªîœàRÃqÈµiÙ?ûÈ˙Ó^“b+eR˚≠kOﬂË˚œ∏/rÕ~‘¬∫{º,†3ÿÀ. ﬁ∆^ á›#ÊúŸ∏.Q»Û·ág∞Ôûˇî˚Ô^{àœ?üáx65|GpÃæ±ÎBéKE´{Ñ˝«ä2D¸«u%àÛ·cg wŸxö-}-|*∆rÑcQ~ßIî!±ÿœ∞2.P ˆ3ÊﬂêÆG:ﬂÛK¨õ8M–g°|™Áßÿâ˘®3y=ü%}&˚6>áW¢|È?)‡ÉÃ˜ Åx¡á˘98õ<¯ŒÈ‹¡wìÙù¶◊Æ˘Ùùﬂ.Ú‹Œ•<>É∞ãÙ/©¯2cπ:›[\õ£›π∫\ºá5à“ ‹7≈ài>¬∏r8ñÔzw’—Pæ≥≠—ÚΩ"˝÷2∑+ŒÁ;èÔI^'^Ø5‘>%˜öwÅ†8Ø≠Ö˘Ó¬<Ω~◊MŒ˜ê˜4œ„9È+˙ÜÏ>NÌ;K∆5¸æ„∑√œ‹◊∫Ω˝Roπµ∑
+ÒmO‡\Ì?H3‘}mw*ûbx‹˛£¥ïﬂl,ëwv≈j\«Axºu%Ω¢ﬁqÛ∫ﬁC	7rÁO¨\‰ˇÅ¨¥y»?Eñ‹É©Ã8G_g0æ-ÚtC∞˜º?Uıéôß—h4çF£—h4çF£—h4çF£—h4çF£—h4çF£—h4çF£—h4ˇwDôwS;ç£ıdëIA*¢2"{ú˘˘ë& ¢}¯ƒ˜…_÷mZÄîAﬁﬂËU•ÍoJ˜AœV∫˝≥J∑iî1ñÜ/ù€4ñ(›†„∏“M 2.)]PÅôÆtÙ"•[–ÀîéÒòÀiÖ…°b¬•≈ÉúNq™ıÙ ’»úâH’BÁﬂr‰WJãë(âP˛√TäºE®_Ou2Éå¡∫ø∞å@ØD]∂≠î6Â†^∂Wõ˚!ki	Ú‚¥ìåeOÿ)Ué.éÖß«´„ı÷ƒ¬„µ5Ò⁄Ú˙ xı»p§™*\Zπhq}]∏4V´màUåú1q §{Ô©≠,Ø1!^U1=˙Ò≤§Æ¨óáÎkÀ+b˜ó◊.	«ﬁ∏˚ˇ·Tœ@Sh›K˜–n?Ç&†≠*ÿLGˇ\o-Eö'˛„’πôVˇıÒlte$SÏ•g Œ)~√‡I ®DÏM⁄ôN…»~ŸR&rÜ;›6(cGÀ¸?tV-4üF#ª%Q∆Ÿ-…íIéî£øÏ…¢QR&“ºb;€	E°Z0)†¥ô`=ÿ~	,®Öﬁ.‚i—úòBª—P í-v„tó‡˜pÅ¿Ëw„[v”_Ué£⁄ïLÔ√›Ôíµr≈.‘
+‡7VÇg¿1‡ß8~w hÕ(k&S4ãùâ`(…€i0≈è) èBÎõìA97[íÅ˛NI$(~D≥ÄI˚≈tj&ö›àj…Ñ˘¥ƒàQr
+ß%3≤ú Ï◊b–k1êµËÚI¸2]ÿ~m≤7ˇH"–W÷[û(„)…‡@gfa"&™i(Öƒ√êyêﬂÜπ@TP¶gI2tV¢ø;`~á@√P98o!1I¢\i∂4ëÂı≥4Q¯9_<Qî&ëIc ”ÑùpB·C¢DN˛Íd˙ßx|´¡ŒÛ‚˚¬¶lX≠Ñ’ßCÅÁEV6C~I4ôûÈlàÙQ|f”¬Ãrµl®:ÅÜ"}≈W≈` AŸ1Ñ@NyR˛TÏ§…ê€íÉCmáƒ„≤÷&n›è˜∂÷¯dfñ”I„Q∫_4aödÁí_r(R 
+©òò„–V»Mﬂ≠´÷àïjƒJ5bPçÿ}$÷†dläƒCT#†`tﬁVò–ÉRπ≠–9(n11¡CòJπÉíÈY<≤Åâ~ˇ&Ω|C€<Ó8~wRÙ(NlÀéÁhqú{lÂëb©äeœÆ¢ÁQ•ñU/¢ƒiëöî*ÈÌ´$’¨l'X(IÉ¡(,ja&,k}z‘∏r‚`∑^°ltcÓ`L/≤WKI_åΩﬁ˜Nrí1ø){ÏÔ}Ôπ˚}Ówœ=ßGzˆ®0ouw«hÏÆ£Ä}^¿ò¶£X›ÎΩp«TóÚT’€'ÅºçÌz◊±∑yk ˆ [r◊±!¶ﬂq¿˛wPô ~ÀÍrëÿŸü‰Ìf˜p.˝w-ˇ™Âøo˙Ê´7?Ï“÷~ˆwˆ
+˚+πécwÿ:¡ú˝Ö’‰,ÿ◊lôƒ‡8ˇ|˛¯m{‡K^cµ*sﬂnÔïÀ÷Ì–p´¬çVeo_´“›;jÏsˆŸè!˛?ˇå≠ëA¯*‹_cEÚ%¸'OZ˛∂"∑8˚î-ë#™›!ß lM⁄¢Ìíˆ±MögÈaæ¬>f7…>Ñ~d˚˜°ıF’êwﬁ¡xî˝íÌ~ﬁmµ±hÜ˛Ae≤!ùt≥Ì®dﬁ^—˘2õgÛ¶7jfÿ\pDåH8≤‡–=¨Gı›Ú∞kxÄ\g¯¸≤wQFâŒ∞{ ögWlgTXˇ∆5…ÎbdeY’r(Û™FPzı~´j1vôúÄ∆òÅf°9Ë"~¥Ã≥7°∑†∑°wTK*A”xö‰A‰A‰A‰ëëëëWD^e/Aí»Å»Å»Å»)""""ß9ﬂàú"“ “ “ “äHÉHÉHÉH+"""≠Ñ	¬a*¬aÇ0Aòä0Aò LED@D@D@DQDDDD:ÑBWÑB°É–°É–AËäÄÄÄ(¬¬¬¬£è∫?%HE4@4@4@4— — —`”G›˙HHH]!u u u uÖ‘Å‘Å‘[ó^Tã¡∞mf†YhíÏÿ5∞k`◊ª¶∂W	í¨ !@BÑ !@EÑPDDDDYeeeeEî’∆-Aí¯ÓõÚ;ﬂvëf‹¯ÆestH˘,y†|Ül(áTîøMîøE.)ìDïOøråßºH∏õ⁄<⁄iı‚pz∫ ]á°UHSµ{–ﬂ†M6n:;µ⁄umQ[’v,jçu∫N∏Æª]´ÆãÆÜãÈVkWœQ<Z»{™úE˘¬ó ò™≈ÿÚé·9;éø16fv}£?“{A∫§ãA˙^êZ;Ÿs‘©ût:â2LúfÃ›˛„|ä˙«Òd∫∂Ù`/∑˝OÛ]i⁄êÇ?Ä*–t	äB£P2 Æ⁄ÇàœòÉ≠!W† 4 È2ÈÌ≈ãTwó€\fÌt°˙E;Ÿ)ÛÅªc"∞ö8˚‘úÁ÷N∫DÚWΩÖ;wæhÛ˚Ë˛®iø∂˘ÿõè¡^∂áagÏ¿W‹jß/ÓîËÈñO‚∫•ü≤˘ã;iÛ!X»¯etâÙ—π7Z‘¡f&üÕ'`É6?*£›$ o<uë∞öﬁH∫£ä	=\¶'5wÒo¯O˘‡ˇ¿¬b{|≠◊ú∞{Fçæh∂Òï/lq€jìÒ¯~®¥\Hø≈å+¸}åEç%˛s~ò_◊‹hæäy_Q)l~IØ±õÊ>«#ºæœ¸y~éü‚/h∑˘Yæ"ßI≤4√n.Ò4¸!Æ¬∞˘sFMMÒY˛cnÚ ?™Ø»ı%Gö„F√+r»h3˚SXﬂ†Qì{¸ÖhçvôAÌ[m^;£≈µ	Õßj¥~≠«›Ìˆ∏;‹ª›mn∑€Âv∫ôõ∏{jõ3D∞m{\i.ß,ù™Óa≤DÅí0Íf‰y"ˆ8R,5ß)±ˆ*Iù◊≈ø&}5⁄vÚ%±√ß¢;ERß„‚H(U”6Oâh(%¥ÙôLÖ“kY¥
+ˆì%ß35∫)õ.˜âÓg–I._Ì[&î~ˇÚ’lñx{ﬂàyc›«ªé>õÿ¶»µ –„√˚dµ_¸,5ôøÍœäQYŸÏœ¶ƒ≈I˝lfôu≤ˆdbôuHÀfñùy÷ô<%€ù˘Da˜Uvs¬H@¬‹q¢À0<O‚2˜®Áé∏iàkk'~ÁokWqN*„*z2Q—uc≤°b6ÚDvÿD≈ÔWQ>ùfdÕ¯t5±!5Á	sBÒªNƒ©J&Üá≠êÒG!„*óÉ>é·ÕòûC[1=á˙?è©xàVGJ3Î…)_2ÁKNA9ÒÓØy≈‹y]ØÃîdá.˛‹˘W_ì~nJî|S	1„KËïëım∫◊e˜à/Q!Î…”ô ∫9ï∞GÃë§Ô\"[çÀXˇïÎ £\ôc€vLñëπb÷6›ñÏé…\ñÃe…\13¶r%_ó˚>ù©∏I<˚ÃŸ¶WŸÆ6Ï·\ﬂ@6ﬁÎ…ózyb¿;”w€IË≤+îª}q—…Æ∞∂d>g≤´Õù≠.ÔÃƒ@ﬂmz£’ÂAsó/N∂ññ»†î?ôì/e‰VÊπÌÔYA™€KíØ'èÛ¢˛ûå$Ömè‚vG©T*»¢*í¡…îx˙$f¢iHïKd—vx´Õ·Pmïù;ìµÕ5tÜ0	ZîÈd-DCXA≥o]+ª ìØ
+≈Íæ˛—wÒ>·=éM€√#Í-b∫:h»˜óbuxºÈx]ïnÔEÜj®t£ÈfWïyc><-Âp9ÍBÎ“˘Ç¸*µá§*l-™≈,”í˘>∞˜˜´ƒeY	Ö≤°UÎıøãM∑˝—¬Z£‘≈≠“l/¥¡ùhf/ma•§:K
+j“<{T<>pˆ b◊gZ
+endstreamendobjxref
+0 2
+0000000000 65535 f
+0000128531 00000 n
+4 1
+0000128716 00000 n
+30 1
+0000128907 00000 n
+46 9
+0000132421 00000 n
+0000132555 00000 n
+0000134652 00000 n
+0000134677 00000 n
+0000134982 00000 n
+0000148509 00000 n
+0000148578 00000 n
+0000148844 00000 n
+0000148925 00000 n
+trailer
+<</Size 55/Root 2 0 R/Info 1 0 R/ID[<0ADD830C540F8446902561014171BED7><8F322D45CC3DDB40B1EBBAE4CB2F6FA7>]/Prev 128201>>
+startxref
+160908
+%%EOF
+1 0 obj<</Author(Oracle Reports)/CreationDate(D:20140415163414Z)/Creator(Oracle11gR1 AS Reports Services)/ModDate(D:20140416130401-04'00')/Producer(Oracle PDF driver)/Title()>>endobj4 0 obj<</Contents 56 0 R/CropBox[0 0 612 792]/MediaBox[0 0 612 792]/Parent 3 0 R/Resources<</Font<</C2_0 55 0 R/C2_1 46 0 R/C2_2 29 0 R/T1_0 7 0 R/T1_1 10 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj30 0 obj<</Length 3436/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Oracle Reports</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default"/>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2014-04-15T16:34:14</xmp:CreateDate>
+         <xmp:CreatorTool>Oracle11gR1 AS Reports Services</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-04-16T13:04:01-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-04-16T13:04:01-04:00</xmp:MetadataDate>
+         <pdf:Producer>Oracle PDF driver</pdf:Producer>
+         <xmpMM:DocumentID>uuid:869b9484-eb29-476c-8dc2-de15e09198d4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:43524904-cb16-4cd8-8925-48aa1c4cb2df</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj55 0 obj<</BaseFont/DFMYQN+Arial-BoldMT/DescendantFonts 57 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 58 0 R/Type/Font>>endobj56 0 obj<</Length 2103>>stream
+BT
+/T1_0 22 Tf
+227.28 605.24 Td
+(February 2014)Tj
+-32.6 -49.48 Td
+(Monthly Traffic Report)Tj
+ET
+q
+114.8 503.24 393.76 24.76 re
+W n
+BT
+165.08 507.76 Td
+(Newark Liberty International)Tj
+ET
+Q
+q
+114.8 470.2 393.76 24.76 re
+W n
+BT
+157.92 474.68 Td
+(John F.Kennedy International)Tj
+ET
+Q
+q
+114.8 437.88 393.76 24.76 re
+W n
+BT
+257.68 442.4 Td
+(LaGuardia)Tj
+ET
+/TouchUp_TextEdit MP
+Q
+BT
+/C2_0 22 Tf
+246.04 342.52 Td
+<00030003000300030003000300030003>Tj
+/C2_1 22 Tf
+48.898 0 Td
+<0009>Tj
+-48.898 -26.4 Td
+<0003>Tj
+/T1_0 22 Tf
+(Teterboro )Tj
+ET
+0 w 
+147.04 74.72 342.72 191.96 re
+S
+BT
+/T1_1 10 Tf
+147.04 256.92 Td
+( Aviation Department - Traffic Statistics)Tj
+ET
+/TouchUp_TextEdit MP
+BT
+147.04 232.92 Td
+( JoJo Quayson)Tj
+0 -12 TD
+( John Cuneo)Tj
+/C2_2 10 Tf
+56.709 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+-56.709 -12 Td
+(Deyssi Mesa)Tj
+/C2_2 10 Tf
+57.236 0 Td
+<0003>Tj
+/T1_1 10 Tf
+( )Tj
+/C2_2 10 Tf
+-57.236 -12 Td
+<002700440051004C0048004F0003002A0044004900580055005600520051>Tj
+ET
+/TouchUp_TextEdit MP
+BT
+/T1_1 10 Tf
+147.04 172.96 Td
+(Notes1:)Tj
+1 0 0 1 180.79 172.96 Tm
+( The section entitled Air Transport Association Carriers is included to \)Tj
+ET
+0.48 w 
+q
+1 0 0 1 147.04 170.96 cm
+0 0 m
+33.76 0 l
+B*
+Q
+BT
+147.04 160.96 Td
+(give a comparison between Port Authority Airport traffic growth and aggr\egate )Tj
+T*
+(growth as measured by the majority of the U.S. carrier industry.)Tj
+T*
+(Note2: The page 2 Access Mode: residents report excludes passengers )Tj
+T*
+(arriving by hotel courtesy vehicles, helicopters, and the miscellaneous \"other" )Tj
+T*
+(category. The airline OAG summary uses schedules effective for   the wee\k in )Tj
+T*
+(the middle of the month being summarized."Flights \(daily\) refers to th\e daily-)Tj
+T*
+(each-way average flights which can be thought of as 1 directional depart\ing or )Tj
+T*
+(arriving flights.)Tj
+/T1_0 18 Tf
+-48 598.04 Td
+(The Port Authority of New York & New Jersey)Tj
+ET
+q
+114.8 404.2 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+203.68 408.72 Td
+(Stewart International)Tj
+ET
+Q
+q
+120.8 369.68 393.76 24.76 re
+W n
+BT
+/T1_0 22 Tf
+186.04 374.16 Td
+(Atlantic City International)Tj
+ET
+Q
+
+endstreamendobj57 0 obj[59 0 R]endobj58 0 obj<</Filter/FlateDecode/Length 227>>stream
+Hâ\ê¡j√0ÜÔ~
+€C±õ]C`trÿZñÌ[IãlÁê∑ü‚Ö&∞A˛ˇO¸ñæ¥/-Ö˙∆—uòa‰Á∏∞CËq§Œ¯‡Úﬁï€M6)-p∑ŒßñÜ®ÍÙáàsÊœ>ˆxT˙ 9–áØKw›-)}„Ñî¡@”Ä«AΩŸÙn']∞SÎEy=	ÛÁ¯\BU˙Ûo=Œ…:dK#™⁄H5PøJ5
+…ˇ”w™‹›rq?â€ò ˜˛æqÚ=xÑr≥‰);(A∂Å±¶µı#¿ †oë
+endstreamendobj59 0 obj<</BaseFont/DFMYQN+Arial-BoldMT/CIDSystemInfo 60 0 R/CIDToGIDMap/Identity/DW 1000/FontDescriptor 61 0 R/Subtype/CIDFontType2/Type/Font/W[0[750 0]2 3 278 4[333 474]6 7 556 8[889 722 238]11 12 333 13[389 584 278 333]17 18 278 19 28 556 29 30 333 31 33 584 34[611 975]36 39 722 40[667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944]59 60 667 61[611 333 278 333 584 556 333 556 611 556 611 556 333]74 75 611 76 77 278 78[556 278 889]81 84 611 85[389 556 333 611 556 778]91 92 556 93[500 389 280 389 584]98 100 722 101[667 722 778 722]105 115 556 116 119 278 120 129 611 130[556 400]132 134 556 135[350 556 611]138 139 737 141 142 333 143[549]145[778 713]147 149 549 150[556 576 494 713 823 549 274 370 365 768 889]161 162 611 163[333 584 549 556 549 612]169 170 556 172 173 722 174[778]176[944 556]179 180 500 181 182 278 183[549 494 556 667 167 556]189 190 333 191 192 611 193[556]194 195 278 196[500]198[722 667 722]201 202 667 203 206 278 207 209 778 210 212 722 213[278]214 223 333 224[611 278 667 556 611 500 280 722 611 667 556 667 611]237 238 584 239 241 333 242 244 834 245[556 778 611 278 667 556 722 556 722 556 611 552 333 722 556 722 556 722 719 722 667 556 667 556 611 278 611 385 611 479 722 611 722 611 778 611 722 389 722 389 667 556 611 333 611 479 722 611 722]294 295 611 296[500 611 500 601 778 821 615 606 475 684 446 715 552 604 396 1094]313[500]315[500]317 318 500 319[979 722 583 604 584]324 325 604 326[708 625]328 372 708 373[729 604]376 379 990 380 382 604 383[1021 1052 917]386 387 750 388[531 656 594 510 500 750 785 556 708 240 479 885 489 604]402 403 354 404[604 354 722 556 722 556 722 556 667 556 667 556 667 556 778 611 778 611 778 611 722 611 722 611]428 435 278 436[556 278 722]439 440 556 441[611 278 722 611 723 611 778 611 778 611 722 389 667 556 611 333 722 611 722 611 722 611 722 611 944 778 667 556 278 722 556]473[889 778 611 333 944 778 944 778 944 778 667 556 278 333 556 600]489 492 834 493 495 333 496[465 722 853 906 474 825 927 838 278]505 506 722 507[719 667 611 722 278 722 667 833 722 644 778 722 667 600 611]522 523 667 524[809 802 278 667 615 451 611 278 582 610 556 460 611 541 278 558 556 612 556 445 611 619 520 582 576 753 845 278 582 611 582 845 669 885 567 711 667 278 276 556 1094 1063 875 610 622 719 722 719 722 567 712 667 904 626]578 579 719 580[610 702 833 722 778 719 667 722 611 622 854 667 730 703 1005 1019 870 979 719 711 1031 719 556 618 615 417 635 556 709 497]610 611 615 612[500 635 740 604 611 604 611 556 490 556 875 556 615 581 833 844 729 854 615 552 854 583 556 611 417 552 556 278 281 278 969 906 611 500 556 604 487 447]651[1115 766]653 665 0 666[447 0 299]669 670 0 671[333 583 576 457 550 614 273 413 616 626 273 521 491 496 611 630 273 386 613 543 594 587 500 512 573 521 715 673]699 701 546 702[276 504 818 273]706 707 521 708 709 496 710[559]711 714 715 715 717 583 718[576 454 550 614 323 438 626 323 521 491 496 630 386 613 594 587 512 573 521 715 673 273 576 491 587 607]744 747 0 748 749 319 750[356 469 198]753 760 0 761 770 562 771[526 319 526]774 775 750 776[343 750]778 780 562 781 785 750 786[0]787 794 750 795[612]796 798 750 799 800 649 801 802 271 803 806 750 807[577 559]809 810 523 811 812 433 813[757 879 360 542 757 879 360 542 645 554 415]824 838 750 839 843 0 844 845 750 846 861 0 862[556]864 891 750 892 893 319 894[750 703 469 238 253 217 234]901 902 451 903[217 234 645 577]907 908 271 909[217 234]911 912 649 913 914 271 915[343 415]917 918 649 919 920 271 921 922 649 923 924 271 925[577 559]927 928 523 929[577 559]931 932 523 933[577 559]935 936 523 937 940 343 941 944 433 945 946 899 947 948 608 949 950 899 951 952 608 953 954 1063 955 956 771 957 958 1063 959 960 771 961 968 523 969[541 469 541 360 541 469 541 360]977 978 758 979[305 324]981 982 612 983[305 324]985 986 541 987 988 360 989 990 451 991 992 234 993 994 360 995 996 415 997 998 541 999 1000 271 1001[343 415 469]1004 1006 451 1007[645 554 645 577]1011 1012 271 1013[541 596 486 541 486 541 486 541]1021 1022 750 1023 1024 0 1025 1027 750 1028 1029 0 1030 1031 750 1032 1033 0 1034 1036 750 1037 1042 0 1043[750]1044 1045 0 1046 1099 750 1100 1102 319 1103 1125 750 1126[343 125]1129[2000 853 711 830 724]1134 1149 0 1150[513]1151 1152 834 1153 1186 0 1187[278 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 722 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556 667 556]1228 1231 278 1232[778 611 778 611 778 611 778 611 778 611 778 611 778 611 853 711 853 711 853 711 853 711 853 711 722 611 722 611 830 724 830 724 830 724 830 724 830 724 667 556 667 556 667 556 722 556]1278 1279 278 1280[778 611 722 611 722 611 722 611 722 611 722 611]1292 1295 0 1296[567 417 904 709 610 500 610 500 722 604]1306 1309 556 1310[667 556 703 581 703 611 726 556 778 611 649 271 305 324 612]1325 1330 271 1331 1333 0 1334 1335 333 1336 1339 0 1340[217 234 217 234 217 234 217 234]1348 1351 451 1352[645 554]1354 1355 649 1356 1357 271 1358 1359 649 1360 1361 271 1362 1363 649 1364 1365 271 1366 1367 649 1368 1369 271 1370 1371 649 1372 1373 271 1374 1375 649 1376 1377 271 1378 1379 649 1380 1381 271 1382[577 559]1384 1385 523 1386[577 559]1388 1389 523 1390[577 559]1392 1393 523 1394[577 559]1396 1397 523 1398[577 559]1400 1401 523 1402[577 559]1404 1405 523 1406 1423 343 1424 1439 433 1440 1441 899 1442 1443 608 1444 1445 899 1446 1447 608 1448 1449 899 1450 1451 608 1452 1453 1063 1454 1455 771 1456 1457 1063 1458 1459 771 1460 1461 523 1462[541 469 541 360]1466 1468 758 1469[305 324]1471 1472 758 1473[305 324]1475 1476 758 1477[305 324]1479 1480 758 1481[305 324]1483 1484 758 1485[305 324]1487 1490 612 1491 1492 1155 1493 1494 906 1495[757 879 360 542]1499 1500 541 1501 1502 360 1503 1504 541 1505 1506 360 1507 1508 541 1509 1510 360 1511[757 879 360 542 757 879 360 542 757 879 360 542 757 879 360 542 757 879 360 542]1531 1532 451 1533 1534 234 1535 1536 451 1537 1538 234 1539 1540 451 1541 1542 234 1543 1544 451 1545 1546 234 1547 1548 541 1549 1550 271 1551 1556 541 1557 1558 271 1559 1560 541 1561[577 559]1563 1564 523 1565[343 415]1567 1569 388 1570 1585 451 1586[645 554 645 554]1590 1591 271 1592 1593 451 1594[645 554]1596 1597 271 1598[645 554]1600 1603 812 1604[207]1605 1611 0 1612[1123 1084]1614 1619 0 1620[213 371]1622 1623 0 1624[600]1625 1627 0 1628 1629 899 1630 1631 608 1632 1633 1063 1634 1635 771 1636[541 469 541 360 469 360 343 271 320]1645 1649 244 1650[757 879 273 0 414 546 486 541 486 541 486 541 486 541 486 541 486 541 486 541]1670 1671 562 1672[486 541 611 836 719 611 719 611]1680 1681 722 1682[556 722 837 719 611 606 667 626 611 778 637 931]1694 1695 278 1696[722 556 278 556 992 722 611 778 887 744 782 611]1708 1709 667 1710[556 600 360 333 611 333 611 802 722 770 556 611 500]1723 1724 611 1725 1726 526 1727 1728 556 1729[497 579 611 280 498 584 333 1333 1222 1111 1167 889 556 1278]1744[889 556 722 556 0 722 556]1752[889 778 611 778 611 722 556 778 611 778]1762 1763 611 1764[526 278 1333 1222 1111 778 611 1033 665 722 611 722 556 722 556 667 556 667 556]1783 1786 278 1787[778 611 778 611 722 389 722 389 722 611 722 611 667 556 611 333 577 520 722 611 703]1808 1809 631 1810[611 500 722 556 667 556 778 611 0 778 611 778 611 778 611 667]1826 1827 556 1828 1830 611 1831 1832 556 1833 1834 611 1835[556 782]1837 1838 497 1839[691 567 333]1842 1843 611 1844[586 556 601]1847 1849 611 1850 1851 278 1852[405 332 356 278 604]1857 1859 889 1860 1861 611 1862[615 611 833 845 750]1867 1873 389 1874 1875 583 1876[556]1877 1879 333 1880[540]1881 1882 333 1883[611 621 582 556 778 556 571 500 680]1892 1893 526 1894 1897 556 1898[778 615 567 586 604 458 556 452 611]1907 1908 556 1909[1031 942 1210 813 534 824 869 776 692 534 563]1920 1921 368 1922[194]1923 1925 252 1926[375 523 360 238 474]1931 1933 278 1934 1935 333 1936 1937 375 1938 1941 584 1942 1958 333 1959[366 141 376 366 375]1964 1968 383 1969 1972 333 1973[500]1974 1982 542 1983[383]1984 1988 542 1989[383]1990 1994 542 1995[383]1996 2000 542 2001[383]2002 2006 542 2007[383]2008 2016 542 2017[383]2018 2022 542 2023[383]2024 2028 542 2029[383]2030 2034 542 2035[383]2036 2040 542 2041[383]2042 2050 542 2051[383]2052 2056 542 2057[383]2058 2062 542 2063[383]2064 2068 542 2069[383]2070 2074 542 2075[383]2076 2084 542 2085[383]2086 2090 542 2091[383]2092 2096 542 2097[383]2098 2102 542 2103[383]2104 2108 542 2109[383]2110 2113 542 2114 2204 0 2205 2207 333 2208[610 582 770 1001 770 750 845 676 778 611 722 556 611 452 751 529 804 610 992 889 703 611 703 605]2232 2233 667 2234[643 604 735 578 507 439 676 618 556 278 778]2245 2246 479 2247[667 719 556 615 1280 778 869 703 976 796 667 556 926 800 809 753 1077 980 626 497 809 753 778 611 815 646 815 646 1120 974 814 638 1280 901 0 1280 778 722 556 584]2287 2292 0 2293[719 615 719 615 667 611 703 598 626 497 610 500 761 623 879 714 1126 921 722 578 722 556 611 490 853 689 703 581 856 678 856 678 278 904 709 702 598 702 635 722 604 722 604 703 581 833 740 333 722 556 722 556]2346[889 667 556 726 556 904 709 626 497 626 526 719 615 719 615 778 611 778 611 711 552 622 556 622 556 622 556 703 581 979 854 719 611 1030 935 959 846 658 536 1013 956 1033 925 778 586 766 701]2393 2430 0 2431[722 556 722 611 722 611 722 611 722 556 722 611 722 611 722 611 722 611 722 611 667 556 667 556 667 556 667 556 667 556 611 333 778 611 722 611 722 611 722 611 722 611 722 611]2475 2478 278 2479[722 556 722 556 722 556 611 278 611 278 611 278 611 278 833 889 833 889 833 889 722 611 722 611 722 611 722 611 778 611 778 611 778 611 778 611 667 611 667 611 722 389 722 389 722 389 722 389 667 556 667 556 667 556 667 556 667 556 611 333 611 333 611 333 611 333 722 611 722 611 722 611 722 611 722 611 667 556 667 556 944 778 944 778 667 556 667 556 667 556 611 500 611 500 611 500 611 333 778]2578 2579 556 2580[278]2581 2588 615 2589 2590 722 2591 2596 869 2597 2602 475 2603 2604 765 2605 2608 960 2609 2616 611 2617 2618 820 2619 2624 1015 2625 2632 278 2633 2634 375 2635 2640 571 2641 2646 611 2647 2648 827 2649 2650 1042 2651 2652 973 2653 2660 582 2661[813 999 1048 960]2665 2672 845 2673 2674 851 2675 2676 1065 2677 2680 997 2681 2682 615 2683 2684 475 2685 2686 611 2687 2688 278 2689 2690 611 2691 2692 582 2693 2694 845 2695 2702 615 2703 2704 722 2705 2710 869 2711 2718 611 2719 2720 820 2721 2726 1015 2727 2734 845 2735 2736 851 2737 2738 1065 2739 2742 997 2743 2749 615 2750 2754 722 2755 2759 333 2760 2764 611 2765 2766 862 2767 2768 917 2769[722]2770 2772 333 2773 2780 278 2781 2782 473 2783 2785 333 2786 2789 582 2790 2791 619 2792 2793 582 2794 2795 667 2796[862 911 765]2799 2800 465 2801[333]2802 2806 845 2807[924 827 948 851 802]2812 2813 333 2814[556]2815 2816 722 2817[889 722 1225 944 722 611 1086 500 594]2826 2829 0 2830 2831 278 2832[556 667 837 499 833 506]2838 2839 729 2840 2853 333 2854 2855 397 2856[333]2857 2867 0 2868[667 611 588 776 889 615 556]2875 2876 575 2877[500 497 278 507 558 452 740 615 611 556]2887 2889 618 2890[944 571]2892 2893 611 2894[614]2895 2896 583 2897[490 582 611 768 609 556 778 500 484 493 615 417 556 604 614 753 635 486 696]2916 2917 454 2918[455]2919 2920 417 2921[501 436 181 358 461 390 517 433 434 519 435 419 459 433 435 635]2937 2938 377 2939[391 589]2941 2942 391 2943 2944 376 2945 2946 351 2947[391 141 349 564 368 410 380]2954 2955 411 2956[391 217 368 407 564 364 412 388 364 408 481 379 141 252 368 364 388 364 407 481 379 741 1324 759 817 657 239 541]2984 2992 0 2993 2994 343 2995 2996 433 2997[469 451 469 451 723 696 761 637 643 757 668 820 584]3010 3012 0 3013[556 500 479]3016 3019 234 3020[852 1189 500]3024[500]3026[333 250 167 556 278 200 83 0 737 722 833 740 922]3039 3040 954 3041 3042 722 3043[556]3044 3045 611 3046[556 500 645]3049 3053 0 3054[619]3055 3057 722 3058[567 417]3060 3062 0 3063[386 0 324 405]3067 3073 0 3074 3075 649 3076 3077 271 3078 3079 649 3080 3081 271 3082 3083 649 3084 3085 271 3086 3087 649 3088 3089 271 3090 3091 649 3092 3093 271 3094 3095 649 3096 3097 271 3098 3099 649 3100 3101 271 3102[577 559]3104 3105 523 3106[577 559]3108 3109 523 3110 3113 343 3114 3115 433 3116 3117 899 3118 3119 608 3120[541 469 541 360 541 469 541 360 541 469 541 360]3132 3133 758 3134[305 324]3136 3137 758 3138[305 324 757 879 360 542 757 879 360 542 757 879 360 542]3152 3153 360 3154 3155 415 3156 3157 360 3158 3159 415 3160 3161 541 3162 3163 271 3164 3165 541 3166 3167 271 3168 3169 541 3170 3171 271 3172 3173 451 3174 3175 234 3176 3179 433 3180 3181 899 3182 3183 608 3184 3185 611 3186[333 889]3188 3189 611 3190 3191 389 3192[556 333 500 611 367 607 873]3199 3200 278 3201[611 582 621]3204 3205 611 3206[333 768 556 278 889]3211 3212 611 3213[389 556 466]3216 3217 556 3218[500 556]3220 3221 611 3222[556]3223 3224 497 3225[655 278 556 333 611 526 391]3232 3233 380 3234[410 351]3236 3237 242 3238[391 368 182]3241 3242 141 3243[182 308 194 164 286]3248 3249 564 3250 3251 421 3252[372 410 501 376 278 217 406 421]3260 3262 364 3263 3264 361 3265[468 380 363]3268 3271 0 3272[333 377 376 410 366 376 778 722 667 722 333]3283 3290 615 3291 3298 278 3299 3306 582 3307 3310 278 3311 3314 582 3315[486 541 484]3318 3319 722 3320 3321 667 3322 3323 556 3324[278 775 611 722 389 667]3330 3333 556 3334[278 567 417 667 556 667 556 626 497 702 635]3345 3353 0 3355[500 556 611 278 611 667 722 556 333 722 611 722 556 611 500 556 541 436 715]3374 3379 0 3380[278 723 722 723]3384 3394 0 3395[778 611 944 778 715 0 763 606 1044 858 333 389]3407 3408 238 3409 3410 500 3411 3414 333 3415[611]]>>endobj60 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj61 0 obj<</Ascent 1018/CIDSet 62 0 R/CapHeight 716/Descent -376/Flags 4/FontBBox[-628 -376 2000 1018]/FontFamily(Arial)/FontFile2 63 0 R/FontName/DFMYQN+Arial-BoldMT/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 136/Type/FontDescriptor/XHeight 519>>endobj62 0 obj<</Filter/FlateDecode/Length 11>>stream
+Hâö `  ë ë
+endstreamendobj63 0 obj<</Filter/FlateDecode/Length 11463/Length1 36692>>stream
+Hâ|UtçW˛ˆ9Áø˜Ê!"»õ˘ìKjÚ@¢èàHnÇ*BTìxÃΩíhBêVöbJF0ô	ùRj⁄Rı®zw˛ê)ı≥tµJ5•®°ÕR©Geç2ÜAÓ?˚^ùùµ¶Á¨sÔŸÁÏ≥˜∑ü?Ä~âû#s{$µõ0Ò>ŸœÀYXY°?H€p†H¿Z0π¸πi∂´{ª∂J@;˚\ŸÏ…±≥€√ôø¨§ÿUtqmA
+”2›ªÑÇÊG1˝7¶ªîL´òïñ}–ñﬂ$;Àf∫†≠”«L¶ã¶πfïw§XˆÏ≥ÃØOwM+€xd”wπ∏¸Ö‚ÚûjÊVÌæÄîß≈~h∞ioiΩeƒ£Ÿà…"»¶	?´û°ök6`V&Kı·Ö1√3u4jß‹£®ó5çv¶ÉL”Tå∂◊£äˇ#Ωk"UÿÊÂ/w©yŸsÁ˘◊YwßGÎ«±€qñ∫ëé]t!∏Gaîà°P∏Àû˛ZÒ::`VR∫ œ`()Êâ√ZeVö◊0 ØaΩπõ™Õ≠|ˇ*>¬=Fµ"§`Û?Éb\ìÕ»7ﬂÇ5√˛M¡p·œ;åa9V‡ Ωlﬁc≠PÕÚR1ÉÃ√ÊCƒbâZ™ùÛ˘3ñaYÃB≥ùçZgû1øAÚ±€S5®!à¬T,¬&?‚›ÎxnÚd¶và5≈XL«K®≈V£  —Œi7Õ_õW`A{tcL•∏F…4\lT˛föy„!>f{=≥AçSõ¥qÓÅÊ€ÊtƒnÚ•˝tXK“˛–:ﬂ\gæ∆ì»¡z&a„¸Ä[¢ ¨¬‰≤Ê£‘âtäaèüabûò'O°;[;Å—æàw`pDˆb∞o˛ä&4Sä†ßh-£[¬_âìrï¨óß©-Ïo;∫≤è*∞‡8N‡$i,ø'Â–öA§∑©I‚Ü∏´ljÅz†Zµwì˚Å9¬ºÉPÑ„iÃA˚vv°ü·K‹¬m¸É©ï–:2®ân-Fär±Rl;‰πLV…*CMU'‘yÌ∑⁄b´ÀÍ~¯û{π{áª—‹m6rÓ∞¸d≥GÁsVlƒ!úbÈ_·".yÚáÂ˜ßö»Zf“ÔhÌ†£‘H◊ŸJxg¥Ë/¨uÜxÅ˝T-ñã¨˝$œœ≈yqQ|/ÓHMFÀﬁÚyπNrè¸\~ßUåÍÆ’HU†LéLí6XÀ’6k€¥#⁄MK™•»Rnπj≠∂.¥oçm˝⁄wâ€pÔ‚‹µq&ÕaO¨¡zŒ˚zé¡1ˆËgå∏	Á(ÑS=¡∏˚R6£·Ù,çßb™¶zçﬁ†U¥ûﬁgÿaeÏqbê».Q,äÒä®ÁπW|"Œàs¢ÖëáHªåìâr®,ê„‰t∂°BŒìŸ≥À‰VyRûíW‰UŸ¬QQù’ãjézSmRı™Q{Zõ∆sΩvHk–µá⁄Cã∞Ñ["-=,S,õ-ó¨kokéı˜÷”÷€∂rä§XFÆ„±!¬∏;ã≠¢É™¢>ËD
+mŸÚ8éC.W≈mînéKÄÁû±ua™ΩÁ•%]¸æÇˆ!ôé¢ "$wenZ;ÈÇhR%9)Lmí”µc"
+€∏-˚≈> @ΩHc≈j	j¶ÕhÊ|üÖ4ïfbµP?öK)TÖ”"XÊ“B§öÎÖ"J7¡0_a"~vP_\¿5˜’FΩÃ˝iVrD∑„⁄Ç˚§ô7∏ªIÓF.Ó2K8ﬂ¡”ı&pùUq=Üq)≥úD=Y¯íbISspˇƒ5m/gTw“+ÓRµF}k¶ò	\a\eÿÃuWÇ¡\1Õú%òˆP„π“}πó$qUÁ† EòÀ]oôiò´ÕÊls>Â∑˜)ûÓ”ZÆà=¸"Û|_—bÆ√¡?oÁˇÓ"4‡:ÖRWJ‚zh—*µ•⁄V≠^;®ù∞$≤∑bgÙ%Œf_∂†ç∏éªd„ÿÑ!O2ﬁ>å=e"_@&Ö£úk∂˜Òå-ô…R™Ÿ{´πûpm‹‰>1qéÖ∞EÖ¨ﬂ∆rÜ±ü≈‹Ôq–.>)‚ÆãÔŸÓ Í#*X_:KZ…]´Å1]¿wÏm”ã+û˚ÇÉ∆≤¨ªxE¨°7r®é#˙rgu»„ÏÔ.àä¶w˘ùì+4 ù–W˚ñ‚›#Ã>¢T‡oå…Ák˘ÎÅÙ<£hÀv¥¢#çD≤{4c8ERÙÖ≈õ¢ÿ¨ë/πÀ)∂pL“U•’ë>hL˙¿¥©˝˚ıÌìí¸dØ§ƒû=∫'ƒ«≈˛≤€1]ªÿ££Ù_tÓ‹±C˚†vÅm⁄¯˚˘˙ÿ¨MIAàœ≤g;u#∆i®˚ê!	⁄Ó‚◊cNCÁ£ÏüÚ∫”À¶ˇî3ù9'ˇg˙#ŒÙˇpR†ûä‘Ñx=ÀÆ'v}å „˝+{æn¥x˜√Ω˚•ﬁ}ﬁGEÒ=+¥ƒ°‰‘≥åÏ í⁄,ßÉ≈’˘˘f⁄3ã}‚QÁÎ«[?ﬁ!ˆÚ:
+I#ÔFÑdı´∞µaPF∏›ëeÑŸÜÏöÂ*2rFÂe9"¢¢Ú‚ ,¥O2`œ0⁄∆yYêÈUcX2´Wç^Í±ãı∫¯Ü⁄%{1…Á_d/rçœ3§+ﬂ££]Îu!s.á˛ód·Aôy5èﬂF»⁄¨–R›C÷÷÷ËF√®º«o£<ø˘˘,ÉﬂäÆŸŒ⁄lVΩÑù8,WgmbQ~ûAãX•Ó±ƒc’#˚äÌYûÁ›±gÿKjß894·µFœé˙ÈU’u≈œ{Ôæ˜V¢q≠Å
+4q…*M¸BV©ƒîëà.Ë$àç⁄é6Lúö	Õ¥ï,“äF≈œ¶∂©	8ÌÇ˛±àm7Mg‘¥L3”ífl&culU¥”N4IâÚ˙;˜Ω∑}lL“¶ËoœΩÁ‹èsŒ˝›è◊õëÍ≥ŒS∆Ç@§:ÃäñfÎV~Â=˜Pd…ñ„È°@˙hKA~èÇùÿûª«;Ö±„ºÖ5	õ,…Ê\™Xí»¨¬!¢ÅUx"¶Ÿ¸≥f6EVÕF3¸’)Ë]çYS÷Ò≥û˚Gıl0πI`@˙µ—öïé∆»ˆﬂ$.2OTÉ›-GÛÚ¢Sß2EÃ2¨)||X÷g‰oé©3Éõ¸§è#∑+Îäë˛¨,^‡∂XàQâ∂TÖÌzÄ3{)TòWUÿw-©5liq-âÓA0˘Ò'Cj‘óì¯?ﬁü6q¡ì≈Q%ÌÃkl{≈“`EU}8∞ “‡‰∂¢zTÕ∂œNÿúRtbYXÀTùíö©I+Hπ"—ò+·±QëçˇÜ$ıÍ®RJÖ(è˙⁄øu)YY€'f˙<ùb÷?∏óˇÈÊx-Œ]ü;™> ª±˛äµ¢∫>Ie+«âîÂëÜ» ò’“¯Éë>ı®z4≤iAÉª†1Îd[f¥|{ÇxR)YUöﬂTZ´zBJÎ“˙pü_.≠’·^UQÀÊ◊ı< [∏ïê‘™	-◊\£
+DÔU}“îŸ"jëV!≤æ*¶ê‘˘\ùB´b™≠ÛK˛
+HÂµ◊ÒOìÊüPï√å©•°â§ãçRL1¢P∫œ–GTÌîíCcûDìÚ¸Ôï‹.©Ùﬂ(YtªÑJQˆﬂ¬œ¥¢¨	Y≤Ò£‡uq+†≈oÖt˙ê"Níf˙¯W¶T˚ü_r”óÓì◊ıëã%Ú3ÏL«oﬂ∫Ì'ﬂh;‡Ä˘H%ï˘ixx¯ø=éÁo\ÿpTÍ]”~KõD}(7Ô•:˝4’+£∞m  ¥{Òâxåj–˛i‘õ w©s¨€h_9¿r`ôÉ•¿<Ù9taå'x)/“zsÄæåπÿ¨^–ki7l{ç9‘»zÃµcQﬁ˝!£ã:PÓÑΩé€J…˝kÈ´∞Á£ºKØµ,≥ùLËÂ€–ßa˛ùÏ3dÊoM÷uîßbÏGaﬂYYÌ¯;Iñ/r+«¯<óëüfË;Ä%@∞˘·˛EË7ıvîÔÇ_c «w¢˚—¶O›(dÊ/s‚&7‚Hƒˇ•OwF˚Á|‚∏Æ ¿ﬂí—>
+Mx=(◊ècÃUh>Ú2¬qÈó¨˜‡›[à´–ÒúûÊ#´~ñÍ'®ıÈ@âD)‚ m‘n`N–3∆˙Ù§Nﬁ£lıeŸ4˘c¸e¿å˘ö‰√jˆ¡∫9Y\¢å’ ¨«‹g›<qnP_àu£Ì-ﬁ»ÎwÄu»A'˚á˘9ÁX˜˜ï⁄ëW–ˆ<Ê©``Œ…à›^Wz˝øâ±9èΩ∂`_èú˛¯*˚‡BÚÃÅ´ã4µÀzr"ê Ã7†ò√m0
+⁄ßHæÇ3ÃMÊsC?-π∫î}∑cê{°ÕŸ3ﬂ@ˇÂ@:0≈8F+LA[ŒO#sñ˜ã;6sã9„J…Èí˜g8NÊîGæ†«©ä}êÛÇ[Æ‰}áq∑∞ƒg˚¥_î±w2ﬂ\…yaÆÒ~‰=·»≈ûXÛù=íè˛˜IÆÉãÆtsëêøß˝≥÷Ë Oá®Rú£J<‰+ı-ê;_tàG‡ÉHÀ£«|q ≈Z>Üæ˚íd'√T÷cÆàn‰bê…º™˜ãAE◊ª≠+:)gınµYñ?"ì°ƒmKÜ◊ˆøÍ?‘7ınZãÚU}–≤œNﬁÊêR\	}/–LıÂ)ùæJÃ¨!?æXo EàäıÕ¬•S*RÒCî}çÒà<ww`¸” µcΩæg¶RPªÇ≥s©o‚~ x|»Eç‚\2ó\ÈÚ5Y2g¯‹Ö‘!”±ÔN˝¿9.ÄèÅG¯n‡ÛYﬁ8£ÅvõØ÷ı?œ“A»Ôª¸L‚È‘$~ö…ºLñ|∑˘.ÔÏS¯—Ó∆œÁ#üq|FÚ9«wü€>Yz˙Ô∆ŸÒ'yPΩ≥ØsÅ"†cúrŒë~-f›¿Ωl¸¡Í7K≠~Ìu´ﬂÿg˝‘‹`ù1NXwn‚Nç€gÔ'˜.Â<ÒΩËﬁ£z≠uŒ≥˝≤-Êó˜h≠<»ÿÇ˝∑û1ÓÔ¯^Â}®ƒæC>1ﬁs‚e˙∫∏@;‡˚xÌÁ∂^,•J>≈fî°«ôŒˆª¥“æDºKõE. /C†	ÜIõç_sk@Í.⁄6÷Èı¥º+œ”OÙ
+ÛZqÍÎu^{Ï˘_2	æ@˚≈0bé#∆”Rê|‚æ«≠aéœúKü◊5ƒ«m Ó£¢Äìè=2qô£›í√»èi¸Qæ7HÌH[})¥ﬂ˜EúO7)√ƒY"ÁÍ°eæêÃªê˜ı?±?Ü¿±j’Ô±˛%˘Ã≤¥aÏ°!Ï/ﬁûz*•ÎCt {©UÊ«ñmº¥!Jeé æj˘û«_¢ßån⁄nƒ¡ªA‹ÉX∑!ƒ≤Åf£‹!∫≠—v∆ û˙*˘>·{*dΩ¡˚≈å”$3Ñ˘—Ü}êÔ?Ã´]Çøª®g…<ﬂ˝ÿPÆG~4ﬁL≥!ÎœÕ¿vRÁ∑•íÖ1∂≤^]Cg‡ÖJd)ºƒ+ÿ{hûvîRƒZºÆ“sj!m”*¡ªÎ∏34⁄ uëOS¥ÎT°} Ôümz
+ÕíÌ“pè_¶≈¢˝„¥ZÙ“jÕBy∞|D?=Fı˙*º≥«8‘ôË3Üm(Z«∏ùú„+ç!∂–tŸœÈ´ˆ˘à«Á›àÍ€‡˚ã≤◊_ˆ5·ß„„ù¸ìqÚ∏Ë'€¸ôÊ!OoŸ∂©R€©xQ=áwxúöï=÷I‰µ<	Ωu—¨¥ã!öÈ0d‰U`8ú˛.f–w1ˆ´ê«˘ªÄ°˛í‰7Ï/ø ﬁqm^<w“{!˛jùÙ÷ıÈ4á°Ê„LœmìÌ”C‚[8áã¨ìm3•0åª)◊ÙQÆz˙ZÙK™ÎShØÿà∂KH˚4ü>	¯+Ú‰1‰ç—]»¥ˇo{dÄ%ˆWﬂœˇèüXﬂgÅØ…¸øH_í∫å7πiΩ¶ú¢«ïÛ÷0ŒsÉa◊)CÊÛ0Mp◊	˙V©OZ?pe&Á<Yèr	√≠'ØÎß’1Ó:/\∏0ßSà!ﬁA{ πé˚ ƒ0òc˘≠'Ê˝8T”CˇÊæ‹É´™Æ8ºrœπÁ‹DjîÇÜ§º
+Z± E¨P®°„c∞ƒLµ0⁄äÇ„¿`ã÷qjá™<( PC-—Ú–0Tj•SQiy-‘G≈
+±±∂‘Z%è›oÌ≥Or=…MDÒüﬁôo÷Ÿ˚Ó«:˚ÏΩ÷o≥N„¸r|9ÿæú"Cï‘L À¯øNæ¢¥ñÀeê¢m÷vÄ¬Z?´§J≈+„ø2€~åíµÆWÎ∫z[¥ØÌoøOºœìﬂáæ‚o%ΩÉf.ó‚§Õ>≥…sõ¨ãcIGmg„‹\c˛?¡ŸŸ	€‡èüÎ<ÏÛ<aØ¬)Ç¶˚3z£≠˙KÓYªd°HÛ<ë∆ÁEö¶á»¡MÎ©õ»Ûôÿ†à∫iX≤Q„€<œ‰øΩ∞ıK‰vß+{Qım^Ì∆;#ÍØ˝é°vGD˝Á¬
+û˜ ª¨ÒEÏÏQ⁄◊–ØãhöÉN˘€¿~hzôÚ Ô7çÑ˜ ?õê1MCÈøf´È‡zbmé˚«'µ¯8æk5'˛&Ôüÿ∆ﬂ≥õºkƒﬂø+ﬂ%⁄Y∑hæùJ÷›ß”;Nl˘û9é¿aæiFSÜVG£e≠ÊV˝Ë¨’€˚¨ûÃ≥ö“Y÷S˝Ë¶⁄Yı+ˆ{œ{	nï+´¬˙Áë¨ÿö,7¿i‚ûî“Ê¸˘7±ßê¸zm˘Ä"—orÑŸEÓ*$Ê>ó˜;sªõrorY~ú”‚ÿ⁄.∆∂œiük˘xs‰ß»©W:¶%àÎß:íˇu|YIÊ‚„•´‹˝©syéùùß?k9ŒÛ1˘cdò^àﬂ∂◊•I–Uπ+ù{ºÂ§Ó»*oP:˘ﬂñì∫$.'i˜˚ΩÈôbŒ[L‚‹/ú”ã˝Êı¯º∆>$œqÎysÂ‡.π∆∆6Ô	9ã82™‹Ωk œ‰@sáÊ∑LìÀ¨óaîüÜMQÃ1ïQÓ3UyøFKˇWCNÀ=îC∑m{µ£≤´˝ú‹∑™œ≠>dÕ¨Ô-é»P›a‹“˙≠πC2˜vèÃ´˜\Ôsî±éÊ“Çπ,˜ºYzﬂ£\HπêX\lê>È-≤ÇÁπÿlÒ}\GÃûòﬁföÉç∂Õµ¸WÓø!„âÛS”ûÃkÕ:b˙ıÈ"Æ≥‰AÕù“w9}ÁÛ\Ç-ÀR∆YOˇEö¬"Ú`ÉL.í>‘›ßyæO€Ô±∂ﬂIê>ƒ˘æ¸W‰Ïê`:ÛêØÇA6«úL›iæ^µ2*˝r6\¿_ÉkºcåΩ ˆΩ/5ZjºF©Ò◊K„=S∞Fñ‰oì%ﬁ'øB™√/Iµ?K*)À∏ø-£ºXÛUúWY˚ñ¯Ì∂&Ï-WÎ{3ˆ@gÀ„wNjÎﬂ‚ÍfUˆºqøL)kS∆˚oìeîw•mÁ|G†.9üÊfØ∑ŸY˘âÀÒ7∂Ê¸
+πåqŒÂy∞]€ïré?»Œ∑‘Êjrv∫„t≥æ€5N˙œ≈∫4Á“B±6Å±vﬂ‘ ›cîáCWWnu¡ErﬂÎJ(Jœï"Åî•÷ò≠≠m–L∫è¸=vœ.P?›_p≥7F.I=¡}]zËÙ˜ C|£{?füÆ÷µıIïıq-º¿>6R∆Z’µ¡Ÿj≈‘˘kôKaΩ‘«
+Ç›üΩ‹ﬁ,Ò?îÀ˝'ÏûÈŒ˚Á[_ÉÆ›LˆË«≠ƒ3ŒTlÌZb›»ïˆ—TﬁZˆ-Î„≠D_’ 5q€Ã7•<úœ~}äΩ3áy«Iﬂ`ë¢‡<Ù·ﬁ{,}Á»º‘2L…[d¶|ûqDÒDÜ˘(sbè‰Ω+◊zªd&Îµ~KxüE€Ÿ∂Îdä„l%µ&Ø?ˇoÜ¯˘ã—≥≠€Èhp¨ŒÇvÊ 4¶˛…‹˝?Ö_ˇä|ÚNaØ&†œız„˛4kıqJì–WÌ–$‘´=#â´/NBΩ⁄ãìPq~‰jóÀè\ıg&°˛Ã‡GÆq$°~@'˛]ûÑ˙Àè√è\Î<0	ı;Òc|Í«'˝ >=œqG}ZÛ'π˙vÏÏhÏxígÓΩf™+owÌnjC¶Ø„òBÚ±yÅ	mË\¶g‘'û«‹Ãs=ˆ[—\⁄∑es4∑≈ÕŸ≤⁄˘˙ÏÔ≥ Í;s∑åÊ≥s„GÀ≥ëé1”Ê∑îGπyè¸n9˚7üDÔh˚=ﬁÜ·¯‚x≥æ€Um®Ô-5<ˇ"“L-œ∏µ\Õ€Ã=—ÙÇ!ÓˇymqA∂sOºëxX†π:ìQ´±÷∆‹i“#+W›f„a≠¸L„]Ä7˛7§wÄÜcå’√Ì}í∏oÔìØ¢O–
+ñÅ‰ëΩî0∆£Ï√ìâõwÀY:áˇzÖ±5Ô™Êˆ ≈jç-6W_§˘†`¥T#ÒÈà3~I∏G™Ç…ƒ”Ë.{RxÂ—?íä îŸôïRæ∆ˇûå#_ï∆ıÒ›6∏«òÙ`9)∂ôˇHe∏ã˙ªe@∫XË|·y2ë5;?û;÷ZƒÿB˜›uÔ,åh˙*\a}∆_Ï©ÿõãU;ÈöÏêy¯3XÛ'Îv™ü'_NÁ\5…Ya>˙bìÃÀO…Úp
+Ì∂…(ˇÁ2ºuN¥ïwHzØ»‡ÙO•ß]Î«dVÎzﬂ–YÚCU8JNOØ„Ω™Âa;cUKøtOÈeµ√>;vd„1÷†g…
+ˆDqR◊ƒ:™Uﬂºƒû@¥Œ·ﬁG≠ÊŒ¨˜∑6KoÿuOoêI˛ÕÚuˇò”á	˚ÓìÍ`ü›ì≠˛#ì√;»≠Îe\∞UJ”•ËÙÀ§4S,˝¬«§óÍ≥p*{Sı9:Ë'C“+Ñ3nJ˘N;∞∑Aç;ﬂÓÃΩ
+Î\Ï(ãÍÌŸ§Æ˘aW?ÓÑi—ˇ˙üπ+zn>çoˇª3jﬂ¨±ä≥ñ«âj9ÏhÜè‹ô˝Pü≥÷y©’ÙÌ≠”ı≤ƒÈ÷ŒmBÊ≤zÜ˘ŒEYz8“ìÌÌxÏ®∏Ã˘|%BµúŸÎË§•mµ’v÷öCŒÓwvóÓ5’zIõ•´;¥πÙkõéuÁ,∂ëÆûõ√V∆˙∫+€™øsÿVΩﬁï≠0F„Tl√Ö™ç≠ãc›⁄¨”Âm˜ß§}ùˆñ”±™ﬂ/e›rÊ∆wÜÓ;%h0ıAC∂%FÇ˜'rt}h◊G$|“‘áO∂YΩ+vFp?˝Ó'øÙ5ıôæŸVz(¯¸@ÑŸ[·-x6¬/œ‘{yÃ≥ÿ‘£’≥,πc±ΩüîuDPÕº’Ã3ë˘à‚·¸%
+êÔfwö]B“pÊz˚éö;eÛ†2˜2œΩÙ9∆<«¨mP‚uè◊1^ﬁÌ]˚Ωbü„˘›∏üı;2fUg‰˛.¶A9QÔ›ôÔÈmÊeÿØœú•7›ΩkîÑœã¨ﬂuº#Ñì"Ù<”∂ﬁ—¿∫˛˛™1 ÒlÜËﬁÚÿ
+Û8ò'πÆ¨gQ	ÍÃk·eføûÔsDQ-’—˙Ñ7òóŸÉ˚√•ÿ=ÙônÔH™Ωﬁ‰¨h|W\ÏÎüøõ¸E,‡πüÊ˙L{[à?œÀ‘èk>sïã¡´Gà›ÉçRÓµ»§`-w€nƒ§øò:ÖπÓvÏp,é¥ü˘º≠≥≠ˇU6ﬁ9“G·y$Û1ã©vz[uÏ¨àñw£˙6ø‚ÿÎ£ÑπÎ
+Ôvﬂª–ÍóÂ¯∂\J–<U™lé(îK˝Ÿ≤My≤Í’ˆ,‹*√—Öeé˛¨Kπˇ ∫±VÆ≤ºGªµ¶QQMdøS≠L ˇm æ⁄∏HúÙ˛ıÙ}Õ9QÊÒ_˜ˇ±_Ó¡Q]uˇ›sˆA"IBöÑÏ•ê•!ÀÖN˙@ÿ»1ºL:tP!5"iv'YÖ¢mGFö‚c®•BAj(§wµ%⁄–báV+å HE¶¥SÎåäå3:V≤~Áﬁƒ¥ÿ°„TˇÒÏÃÁ˛~ÁúﬂyÏy¸ŒÔpÏ√mp<»qëºåyÑOëx„"rñ ´\|ÚA≤åFƒ®°wÅ"‰ﬂπlÇ^π¨ Gº¸-d˘s–ñ:3vœªR!\ƒi¢‰ã◊a˜ÕWëw7H<ÿ¶1óÕQvñx}|û“eÅßœEŸ0∑ÁWΩ≤Aõ9ˇ≤ÒˇÅÊßÔFLïZR=~;’cºGEæJ
+aM3 VrÄﬂC/xqNkj1ÿãÙÒ"’1r∆¿Ùßz‰‡Iˇi∫√øã¨@.}›-ƒ[¿d·^Nì‡JKWπo¢~€≠ı5•˛Åu{Dû√8.)ûÛdO‡,MMC|ér¬–iPäN iT©ªì∞∑»‡Ë≠”ç»¸Ô§˛ gm0ŒÆ¢o˜#ñ‹O+<_ƒ±ﬂ%£¯^á~ÔˇdöÉñp˚§ ûÖ‰Û¯>øuﬁÆÛµ–”º∑ºXêÌè»\z≤\Ï∆<|Üäº∫wÉ`´7áüCª{˝Êà[qË3Ë=Ã∞ÚO$Ì€ãÛµ	æ%=r}Îπÿ„k¥( ¯.¬é©§≤qx%Íºu„t Deåà#Ω˚ﬂ§3irpMVuÔπqZºE„πsºÏ˙4˙ü≈˝Ô§Âö¿Ó∑°=˝QˇˇrÍ$«–ÏGÉ„XOù?ñ–ÏÂ .`/çá›√‚
+ŒÏØq?ºOa◊á√^∆æ;˛¶ˆﬂ7‹ˆü√Á!ûÜMúÔéÅŸ∑"v]Õq©ÏIùb?«±¢äˇq]‚|¯ÿ≈Í]6ãñ*_üä±ú‚Xîﬂi •+ÏgÿW(˚Òg§Hèw˝ÎbN√NËKPæ¿ıSÏÉ‰J‘Yâºøª>K˘Lˆm|·Ød|Èﬂ{¿â∑!Å|—á¯Y8ª\¯ŒhÁªI˘N·∂+˛à~†Û€Eù€{®àœ ÏÏ≈K^|9cû˙p˙Fq!l^ŒáÀÂ€XÉJ «}ALs„ ÂX~Ë›’D¯ŒLWÔÂw∞ñCq>ﬂy|OÚ:Òzµ–(¯îÇÎﬁíbº∂˛ß»‰ªÛÙ*¯Â0π“E›”<èÔ*_i–óTqﬁæ®∏Üﬂw¸v¯AÍçaoø¡∑\Æ∑∑&·ø}˜‡v7-ÚÓ˚>¥=‡Ò4√„ˆøF{¯Õ∆yó`Ò∆uÙÉ≥‡¸πˆ™˜é[1ÙÍ&‹»O
+êˇ&F¨@˛E
+®=QHU∆ªÙE„{ÇA˛ÒaHˆ„Æ˜ßzçF£—h4çF£—h4çF£—h4çF£—h4çF£—h4çF£—h4çF£˘øƒ  XNWi&=F¢2™"
+Œ/ìi¢L:äØ$˛}U}Y“}H‰˛n£üz∫§l√tÙO@ˇ¥ßiöq',_∑i¨ÛtÉJåsû.(”xﬂ”%ïà4O˜A/ÛÙ Ù*O«xƒzÜL≤(B”ÄIï¥ñj!+(F AP\ÂÃE™:´ë_ß,¶¢ƒ∆ú‘C.Cﬁ‘OPìJ’B÷¬zæ5∞¥°◊°.€÷)õjêPÌ’¿Ê~»FZáº≠˛O∆ÚåiE¶EÃ µµfE¨!ñx ^kŒç5∆cç’â∫X√T”ÆØ7ó’≠Yõh2ó’6’6n®≠ô:o~≈ΩKM±Î™ÎKÁƒÍk**?^ñ“Õ∫&≥⁄L4V◊‘ﬁ_›∏Œå≠˛ËÓˇáS=èÊ£›{i)-¢)√&æîÊ†≠zÿT†Æ∑Ü÷#ÕˇÒÍ|íVˇıÒ\e≥ù!è–1ÄsäØ	ˆIQy$Ã∞¢«!GÁ(È‰N±∫S˝PÓúÆÚKøm5˜…NZI”ë›ÈTqvg2:œRr˙]Æ,õ¶§3¬-ÊXa;’ Ä†,O[Ì‡%¿Ä:È∑ §<,;ú˘a¥peŸ9Ú Nwﬂ3 $FˇÂ ˝…ÀÒaTíi#π˚™VÅ<ÄZY¯Ü@38Œ ?≈m) °u†¨ÉÑÏê˚ùP8dßÀΩ¥˘= ÇG
+£ı›…êöõ'íYŸV‘…Ô– ®KVP?hˆqT{úÃ:•”‘.L¶gZ!ÿÔ¿†w` ;–Â>|ïé∂ﬂëÃŒÂÊv≤F©z[ú»WIÜÚ¨%òÖMd»ZŸ@(,∑BA~r‰}≤Ü2‘8£…¨ê’å˛f√|∂CìQlÀ\ú∑∞ú'Û©@ô≠w2›~÷;ìn±èÁ <eí%3h‰t¨∞Ÿ+£jÚ∑'”>≈„€ÓÑ∆X'‰£2H9∞jÜ’ÿp÷	ôéïMWˇ§2ôñaµŸ#e%˛f%¶%å1òÂ’PÉÉÜÏQÚ≥≤êrQ∂Né£1êÛeëíﬂó˚qd¬Ú©dIa∏øW~K’⁄≈ç¢˚YÓ÷öïÃ»¥˙Ì49•]r'`ßÍº-YrªEvâúD 0«€†mSõæZ+V≠+’äïj≈†Z±˚H∂†§6er3≈ÂFjÌ–y[çq0°›Jô8…Íñ7…<LL®Si 7?ôñ…#ÀsFg+≥º‰»Lkˆ	ŸÑ}ﬁÑ6£2ëõg≈zÂ-ÍØ‹öÃ+‡
+q€ıÑÎ.*ÊÚíúêÖòûòq≤»Ó≤√HÛFì!^gyíƒ/ƒ9^nqiñ?Ò‰û¸ô+S˝‚¨{(ƒœY^≤≈;hl•¯µC¢WºƒqÖxSt”l»ÛH◊@vCNáÏq∆ü«ì˚ìNF.ˇYÒä3•ÃS¬≈û2∂¿SFÁZv±xYú§B4Ò+»âê'E?›˘ddøH–i»â€Ë.»zÚîË„-.^œ”ÌêI'ìá–ÂYs,é:‰¶ñîÖ˚ƒQ—I˘0}÷)…GÓ·d…ƒpV/⁄3ƒAëp∆ÖG€Èbø±‹¯åˆ—yñ4Zt8Â‹Hõ”gÜªEõhãÊïGã£•—C2R)çíf±YjñõáL;$v¬Å¥ú_±ﬂr2vàÇ6—‚¯ ªÏk¯O¸ø5„ªOi´ç+çï^Q⁄lÒ(-ml€@3¯Çñ6±lÇáTN¨·M‚®Gç8jƒUç8jƒQ#éqU#Æz_∏∆*‘XıO“À&∂â#√3„›Bú•i”t6q◊&ﬁú(¡E º6v´÷°hÕèj@ë‡íÌ¢˛Ö	©®Ç"U™TU*Ó%B•U∆k5u ë¢+|LOıÅ[AÙ‘k˙Œg®öÍ&ﬂº„ô˜ôo<3ŸÕÇ(Ä(Q Q Q Q BÕ∑ ¢@DDDDéàààà999"ÑCÑ¬·Äpàp@8 "b b b bDƒ@ƒ@ƒ@ƒààÅàÅàaÇ0Aò L"L&ÑIÑ	¬a    " " " "@DÄˆßåPDDDDìà&à&à&à&MMMÌBµ£ë¸HHHÉêêêê!  çˆW/—bh86≥àãàK≈.É]ªvôÿe:^eÑb%	BÇêDHÑ!âê $IDDDDÖà
+à
+à
+à
+:∏eÑ"^¸Pæ÷hóπk‡Y´]‚c§Ÿ#“Y∂J˙)´í~¬ÊH?fWH?bq“,DäÒHKL‹Òû‰ nÔ#Œ!n!Ê˜:’ ˛@¨iSŒ®ØG?†ﬂ“Áı˚˙¶yΩ©k=˛˛[˛yˇ}ˇ¶y”Øô…!≠õÓ£∏µ∞/®ºàÚ	î	™%¥I‰ùƒ}v
+?ì⁄§”˚ÿ|·"¸~ÑœG¯ûÏ‘ﬁÊ>∫”ô,Æa‚‹u∂ÑˆâUD<ﬁá;”çÖG/	/¥K‘˘RK∆˙QEÃ!Æ ‚à	Da!µE‡wù—ˆêKà0ba™l` /R}ΩÜ≥®uÛπ⁄Ø›¨SÂ	owœ« u/| Ú≥>%íù|ÅÖ’E¸'Ï‹Ëº'¢˚«ñ¸‡â{ê€ûòÑú¬; «ºo"ŸÕﬂc¬ß–√mù∆˜Vz»G`;Ëâ1àÌÖC A"Ωc‹e°VõzΩï)Ëâ=êQOÏVnÉÖ’∆s?ã“Ù6!îv‘0°'ã‹ıqg≥x,æèÄˇâÖ≈Ò¯›¨˚ ¨:?‚tâ•Ë∑0'ÖóÏR~<™mïJs÷5Ò∆‚÷Ç¯ZÏ7¢uÕ◊1Ôkî¬WÃ∫v«Ÿ&.âò(Eä¢xWúáƒ	Ìû8.ñ‘4Yûª⁄ùë√ÄÔ‡[Xûx€™”ﬂ
+GÑ≈nsI≠/{≥5n<∫§VÄM¥≤øÅıçXuu∆ﬂã◊yØ—ˇ“oÍ«ÙîæGÍ£˙k˙∞ﬁoÙc´±≈Ë2√o¯Õ`F}≠Èÿ«∂ﬂP‚˜©“GıÄ¶J(ô∆çΩÀ‰∂é¨ñùNÒ¨\>Õ≤ßL˘˜t∞ŒªïõÇ).˚≤,{8%ﬂ¥≥u}Ìêå€Y©ÁéπUŒo‰—*µœÍúvÎ|M5]í}˚—…Æ^Zdúø|ız>œ>H&˙ˆıÓ~+ΩAQhóˆ≥k˘Í∞¸*;Ì ÔáÛrBU÷ÜÛYyy⁄<Ó.j=Zw&Ω®mUíw}ÁµûÃ!’Ó;üŒ√ˆêl8Õ[aca%∞)f*Ó')e√µ|!‡ç(ÅØ´õÖ»ÍÍ&üè+_u’Ã§´¶Iã±UÚ¨ZÏ9Nÿt5"W–‰Ærq7h“ƒ∆h !`â
+≤p¸_G	N…‰Œg´môzjô¢\¸ôG¥<˝€◊=˝€·±ˇÁ5ì≤ymº<ªíô	f
+¡Ã¢ ?ˇ‡Ã†ºt 4´≥e’a éP·‘È3JOŒ»rp&-gÉi≥:æ≤A˜äÍ¶´l%sÿ≠Æ83io‹œO¶Ûµƒ^7˘Ø\◊ûÊr˜n0ÿ^5ò´r%ít'UwBÂJ™\Iï+·$(WÊ¨:˜9∑j∞T~ˇÒñ÷¥Õ]8√Ö°ë|j p~ü:–ã{FgáÓ˙øÕ6€yπ%òí›’MFì™g™k+ö{⁄]É≥{FÜÓÚ€ÌÆ ö{É)∂æ¥Lô≤rÍ`VéLu’QëŒ…ç˜¨®.Ídô≥i¸‚sâ?œ;Yq√´¥—U.óã™(€E∆≤22ùïªb&∫éTÖtm;÷€::®≠⁄Ÿô©Ø-£”∆$xI•S5õ€XAßo]∫VÒWtMΩ*îjØOú˚Oãº«iºù„Ùq°6j©˜óRmÁTKÒ∫™‘{edjq†J≠ñ:ΩQTnZ7£7„´≠ƒ˝h]òC£òSèRoÁ\+Ÿ≈ıÖ@µî«bcZ*ﬂwﬁ´√î∏¢*∂ù∑ãú÷ÎøãÕ◊˝È¬€£i¯“˙Ü¥⁄ãÌA∞≠ÏÂu¨‹Ü®≥LPkê÷ßß≈≥ü˛` f&Î
+endstreamendobjxref
+0 2
+0000000000 65535 f
+0000161352 00000 n
+4 1
+0000161537 00000 n
+30 1
+0000161740 00000 n
+55 9
+0000165254 00000 n
+0000165388 00000 n
+0000167543 00000 n
+0000167568 00000 n
+0000167865 00000 n
+0000181392 00000 n
+0000181461 00000 n
+0000181727 00000 n
+0000181807 00000 n
+trailer
+<</Size 64/Root 2 0 R/Info 1 0 R/ID[<0ADD830C540F8446902561014171BED7><BE9F6B6A80750749A3FCAE7C346B02A8>]/Prev 160908>>
+startxref
+193356
+%%EOF
