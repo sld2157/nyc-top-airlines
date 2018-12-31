@@ -3,6 +3,7 @@ Functions pertaining to loading NYC Airline data
 """
 
 from bokeh.palettes import viridis
+import collections
 import csv
 from datetime import datetime
 import pandas as pd
@@ -33,22 +34,21 @@ def loadData():
 		data[airline] = pd.DataFrame(data=dictionary[airline])
 		data[airline] = data[airline].sort_values('date')
 
+	#Create a dataframe to sort airlines alphabetically
+	data = collections.OrderedDict(sorted(data.items()))
+
 	return data
 
 def getColors(data):
 	"""
 	Creates a dictionary of colors using the NYC Airport data dictionary
-	Also includes reverse mapping
 	"""
 	colors = {}
 	colorValues = viridis(len(data))
 
 	color = 0
 	for airline in data:
-		colors[airline] = colorValues[color]
-		colors[colorValues[color]] = airline
+		colors[airline] = colorValues[len(data) - color - 1]
 		color = color + 1
-	
-	print(colors)
 
 	return colors
