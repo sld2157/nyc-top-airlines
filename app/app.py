@@ -1,21 +1,28 @@
-import csv
-from flask import Flask, render_template
-import random
-from bokeh.models import (HoverTool, FactorRange, Plot, LinearAxis, Grid, Range1d)
-from bokeh.models.glyphs import VBar
+"""The main logic for the NYC Airports web application
+"""
+
+from bokeh.models import (HoverTool, Plot, LinearAxis, Grid, DataRange1d)
+from bokeh.models.glyphs import Line
+from bokeh.models.markers import Circle
 from bokeh.plotting import figure
 from bokeh.embed import components
 from bokeh.models.sources import ColumnDataSource
+from flask import Flask, render_template
+from operator import add
+import random
+
+#NYC-Airline imports
+from GetAirlineData import (loadData, getColors)
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
     data = loadData()
+    colors = getColors(data)
 
     hover = create_hover_tool()
-    plot = create_bar_chart(data, "Domestic Flights by Airline", "labels",
-                            "data1", hover)
+    plot = create_bar_chart(data, "Domestic Flights by Airline", hover, colors)
     script, div = components(plot)
 
     return render_template("chart.html",
@@ -26,55 +33,40 @@ def index():
 def year(year):
 	return 'This will display information for year %d' % year
 
-def loadData():
-	with open('../data-preprocess/Dec2017.txt') as csv_file:
-		csv_reader = csv.reader(csv_file, delimiter=',')
-		i = 0
-		data = {}
-		for row in csv_reader:
-			print(i)
-			if i == 0:
-				data['labels'] = row
-			elif i == 1:
-				data['data1'] = [float(numeric_str)/1000000 for numeric_str in row]
-				print(data['data1'])
-			elif i == 2:
-				data['data2'] = [float(numeric_str) for numeric_str in row]
-			i = i + 1
-		return data
-
 
 def create_hover_tool():
     # we'll code this function in a moment
     return None
 
 
-def create_bar_chart(data, title, x_name, y_name, hover_tool=None,
-                     width=1200, height=600):
+def create_bar_chart(data, title, hover_tool, colors):
     """Creates a bar chart plot with the exact styling for the centcom
        dashboard. Pass in data as a dictionary, desired plot title,
        name of x axis, y axis and the hover tool HTML.
     """
-    source = ColumnDataSource(data)
 
-    xdr = FactorRange(factors=data[x_name])
-    ydr = Range1d(start=0,end=max(data[y_name])*1.1)
+    xdr = DataRange1d()
+    ydr = DataRange1d()
 
-    tools = []
+    tools = ["tap"]
     if hover_tool:
         tools = [hover_tool,]
 
-    plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=width,
-                  plot_height=height, h_symmetry=False, v_symmetry=False,
+    plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=1000,
+                  plot_height=600, h_symmetry=False, v_symmetry=False,
                   min_border=0, toolbar_location="above", tools=tools,
-                  outline_line_color="#666666")
+                  outline_line_color="#666666", x_axis_type='datetime')
 
     plot.left[0].formatter.use_scientific = False
 
-    glyph = VBar(x=x_name, top=y_name, bottom=0, width=.8,
-                 fill_color="#e12127")
-    plot.add_glyph(source, glyph)
+    for airline in data:
+    	plotLineAndPoints(data[airline]['date'], data[airline]['domestic'], 'dashed', 5, colors[airline], plot)
+    	plotLineAndPoints(data[airline]['date'], data[airline]['international'], 'dotted', 5, colors[airline], plot)
 
+    	total = list(map(add, data[airline]['domestic'], data[airline]['international']))
+
+    	plotLineAndPoints(data[airline]['date'], total, 'solid', 8, colors[airline], plot)
+    	
     xaxis = LinearAxis()
     yaxis = LinearAxis()
 
@@ -84,8 +76,24 @@ def create_bar_chart(data, title, x_name, y_name, hover_tool=None,
     plot.min_border_top = 0
     plot.xgrid.grid_line_color = None
     plot.ygrid.grid_line_color = "#999999"
-    plot.yaxis.axis_label = "Number of Passengers (Millions)"
     plot.ygrid.grid_line_alpha = 0.1
+    #Style Y axis
+    plot.yaxis.axis_label = "Number of Passengers (Millions)"
+    plot.yaxis.axis_label_text_font_size = '12pt'
+    plot.yaxis.axis_label_text_font_style = 'normal'
+
+    #Style X axis
     plot.xaxis.axis_label = "Airline"
     plot.xaxis.major_label_orientation = 1
+    plot.xaxis.axis_label_text_font_size = '12pt'
+    plot.xaxis.axis_label_text_font_style = 'normal'
+    plot.xaxis[0].formatter.days = '%b %Y'
+
     return plot
+
+def plotLineAndPoints(X, Y, lineStyle, pointSize, color, plot):
+	plot.line(x=X, y=Y, line_color=color, line_width=2, line_alpha=0.6, line_dash=lineStyle)
+
+	circle_renderer = plot.circle(x=X, y=Y, size=pointSize, fill_color=color, line_color=color)
+	circle_renderer.selection_glyph = Circle(fill_color='black', line_color='black')
+	circle_renderer.nonselection_glyph = Circle(fill_color=color, line_color=color)
