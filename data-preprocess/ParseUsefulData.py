@@ -82,7 +82,7 @@ columnsOfData = 6
 
 for file in glob.glob("*.txt"):
     # Specify which years of data to analyze. Still debugging to achieve general case...
-    if (re.search('2010', file) is None) and (re.search('2011', file) is None) and (re.search('2012', file) is None) and (re.search('2013', file) is None) and (re.search('2014', file) is None)and (re.search('2015', file) is None)and (re.search('2016', file) is None) and (re.search('2017', file) is None):
+    if (re.search('20010', file) is None) and (re.search('2011', file) is None) and (re.search('2012', file) is None) and (re.search('2013', file) is None) and (re.search('2014', file) is None)and (re.search('2015', file) is None)and (re.search('2016', file) is None) and (re.search('2017', file) is None):
         pass
     else:
         print(" ") # debug output
