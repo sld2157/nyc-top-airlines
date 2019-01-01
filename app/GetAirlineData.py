@@ -3,8 +3,10 @@ Functions pertaining to loading NYC Airline data
 """
 
 from bokeh.palettes import viridis
+import collections
 import csv
 from datetime import datetime
+import pandas as pd
 
 def loadData():
 	""" 
@@ -12,47 +14,41 @@ def loadData():
 	The dictionary uses the airlines as keys
 	Each Airline entry has a date, domestic, and internation entry
 	"""
+	dictionary = {}
 	data = {}
 
-	loadFile(data, '../data-preprocess/Dec2017.txt', 12, 2017)
-	loadFile(data, '../data-preprocess/Nov2017.txt', 11, 2017)
-	loadFile(data, '../data-preprocess/Feb2000.txt', 2, 2000)
+	with open('../data-preprocess/NYCAirlineData.txt') as csv_file:
+		csv_reader = csv.DictReader(csv_file, delimiter=',')
+		for row in csv_reader:
+			if not row['Airline'] in dictionary:
+				dictionary[row['Airline']] = {'date':[],'domestic':[],'international':[], 'airline': [], 'total':[]}
+
+			dictionary[row['Airline']]['date'].append(datetime(int(row['Year']), int(row['Month']), 1))
+			dictionary[row['Airline']]['domestic'].append(int(row['Domestic'])/1000000)
+			dictionary[row['Airline']]['international'].append(int(row['International'])/1000000)
+			dictionary[row['Airline']]['total'].append(int(row['Domestic'])/1000000 + int(row['International'])/1000000)
+			dictionary[row['Airline']]['airline'].append(row['Airline'])
+
+	#Create a dataframe from each dictionary and sort it by date
+	for airline in dictionary:
+		data[airline] = pd.DataFrame(data=dictionary[airline])
+		data[airline] = data[airline].sort_values('date')
+
+	#Create a dataframe to sort airlines alphabetically
+	data = collections.OrderedDict(sorted(data.items()))
 
 	return data
 
 def getColors(data):
 	"""
 	Creates a dictionary of colors using the NYC Airport data dictionary
-	Also includes reverse mapping
 	"""
 	colors = {}
 	colorValues = viridis(len(data))
 
 	color = 0
 	for airline in data:
-		colors[airline] = colorValues[color]
-		colors[colorValues[color]] = airline
+		colors[airline] = colorValues[len(data) - color - 1]
 		color = color + 1
-	
-	print(colors)
 
 	return colors
-
-def loadFile(data, filename, month, year):
-	"""
-	Internal method to load individual file
-	"""
-	with open(filename) as csv_file:
-		csv_reader = csv.reader(csv_file, delimiter=',')
-		i = 0
-		for row in csv_reader:
-			if i != 0:
-				if not row[0] in data:
-					data[row[0]] = {'date':[],'domestic':[],'international':[], 'airline': [], 'total':[]}
-
-				data[row[0]]['date'].append(datetime(year, month, 1))
-				data[row[0]]['domestic'].append(int(row[1])/1000000)
-				data[row[0]]['international'].append(int(row[2])/1000000)
-				data[row[0]]['total'].append(int(row[1])/1000000 + int(row[2])/1000000)
-				data[row[0]]['airline'].append(row[0])
-			i = i + 1
