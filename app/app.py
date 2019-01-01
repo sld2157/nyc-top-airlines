@@ -1,7 +1,7 @@
 """The main logic for the NYC Airports web application
 """
 
-from bokeh.models import (CustomJS, HoverTool, Plot, Legend, LinearAxis, Grid, DataRange1d)
+from bokeh.models import (CustomJS, HoverTool, Plot, LinearAxis, Grid, DataRange1d)
 from bokeh.models.annotations import Label
 from bokeh.models.glyphs import Line
 from bokeh.models.markers import Circle
@@ -16,6 +16,7 @@ import random
 
 #NYC-Airline imports
 from GetAirlineData import (loadData, getColors)
+from CategorialLegend import CategorialLegend
 
 app = Flask(__name__)
 
@@ -98,10 +99,10 @@ def create_bar_chart(data, title, hover_tool, colors):
         legendItems.append((airline, [circle_renderer_tot, circle_renderer_dom, internationalLegendItems[-1], domesticLine, totalLine, internationalLegendItems[-2]]))
 
 	#Create legends
-    legendAirlines = Legend(items=legendItems, click_policy='hide')
+    legendAirlines = CategorialLegend(items=legendItems, click_policy='hide')
     plot.add_layout(legendAirlines, 'right')
 
-    legendTypes = Legend(items=[
+    legendTypes = CategorialLegend(items=[
         ('Domestic Passengers', [domesticLine]), 
         ('International Passengers', internationalLegendItems), 
         ('Total Passengers', [totalLine])
