@@ -1,6 +1,6 @@
-import {Annotation, AnnotationView} from "./annotation"
-import {LegendItem} from "./legend_item"
-import {GlyphRendererView} from "../renderers/glyph_renderer"
+import {Annotation, AnnotationView} from "models/annotations/annotation"
+import {LegendItem} from "models/annotations/legend_item"
+import {GlyphRendererView} from "models/renderers/glyph_renderer"
 import {Color} from "core/types"
 import {Line, Fill, Text} from "core/visuals"
 import {FontStyle, TextAlign, TextBaseline, LineJoin, LineCap} from "core/enums"
@@ -48,7 +48,7 @@ export class CategorialLegendView extends AnnotationView {
   *Computes the location and size of the legend bounding box
   **/
   compute_legend_bbox(): LegendBBox {
-    const legend_names = this.model.get_legend_names()
+    const legend_names = this.model.labels
 
     const {glyph_height, glyph_width} = this.model
     const {label_height, label_width} = this.model
@@ -63,6 +63,7 @@ export class CategorialLegendView extends AnnotationView {
     this.visuals.label_text.set_value(ctx)
     this.text_widths = []
     for (var i = 0; i < legend_names.length; i++) {
+    	this.text_widths[i] = {};
     	for (const name of legend_names[i])
     	{
     		this.text_widths[i][name] = max([ctx.measureText(name).width, label_width])
@@ -73,7 +74,7 @@ export class CategorialLegendView extends AnnotationView {
     var max_label_width: number = 0;
     for(const category in this.text_widths)
     {
-    	max_label_width += (Math.max(max(values(category))), 0);
+    	max_label_width += Math.max(max(values(this.text_widths[category])), 0);
     }
 
     const legend_margin = this.model.margin
@@ -85,7 +86,8 @@ export class CategorialLegendView extends AnnotationView {
     //Vertical orientation
     if (this.model.orientation == "vertical") 
     {
-      legend_height = legend_names.length*this.max_label_height + Math.max(legend_names.length - 1, 0)*legend_spacing + 2*legend_padding
+    	var longest_column = max(legend_names.map((value: string[]) => value.length))
+      legend_height = longest_column*this.max_label_height + Math.max(longest_column - 1, 0)*legend_spacing + 2*legend_padding
       legend_width = max_label_width + glyph_width * this.model.num_categories + label_standoff + 2*legend_padding + (Math.max(this.model.num_categories - 1,0))*legend_spacing
     } 
     //Horizontal orientation
@@ -187,9 +189,9 @@ export class CategorialLegendView extends AnnotationView {
     const legend_bbox = this.compute_legend_bbox()
     const vertical = this.model.orientation == "vertical"
 
-    for(var i = 0; i < this.model.get_legend_names().length; i++)
+    for(var i = 0; i < this.model.labels.length; i++)
     {
-    	for(const label of this.model.get_legend_names()[i])
+    	for(const label of this.model.labels[i])
     	{
     		const x1 = legend_bbox.x + xoffset
             const y1 = legend_bbox.y + yoffset
@@ -207,25 +209,12 @@ export class CategorialLegendView extends AnnotationView {
 
 	        const bbox = new BBox({x: x1, y: y1, width: w, height: h})
 
-			//TODO - add logic to trigger categories
-
 	        if (bbox.contains(sx, sy)) {
-	          switch (this.model.click_policy) {
-	            case "hide": {
-	              for (const r of item.renderers)
-	                r.visible = !r.visible
-	              break
-	            }
-	            case "mute": {
-	              for (const r of item.renderers)
-	                r.muted = !r.muted
-	              break
-	            }
-	          }
+	          this.model.active_labels[label] = !this.model.active_labels[label]
+	          this._updated_renderers()
+	          this.plot_view.request_render()
 	          return true
 	        }
-
-	        //END TODO
 
 	        if (vertical)
 	          yoffset += this.max_label_height + legend_spacing
@@ -234,9 +223,15 @@ export class CategorialLegendView extends AnnotationView {
 	    }
 
 	    if(vertical)
+	    {
 	    	xoffset += (legend_bbox.width - 2*legend_padding - legend_spacing*Math.max((this.model.num_categories - 1), 0))/Math.max(this.model.num_categories, 1) + legend_spacing
+	    	yoffset = legend_padding
+	    }
 	    else
+	    {
 	    	yoffset += this.max_label_height
+	    	xoffset = legend_padding
+	    }
 	}
 
 	return false
@@ -264,6 +259,22 @@ export class CategorialLegendView extends AnnotationView {
     ctx.restore()
   }
 
+  protected _updated_renderers(): boolean {
+  	for(var item of this.model.items)
+  	{
+  		var render = true;
+  		for(var category of item.labels)
+  		{
+  			if(!this.model.active_labels[category])
+  			{
+  				render = false;
+  			}
+  		}
+
+  		item.render.visible = render;
+  	}
+  }
+
   protected _draw_legend_box(ctx: Context2d, bbox: LegendBBox): void {
     ctx.beginPath()
     ctx.rect(bbox.x, bbox.y, bbox.width, bbox.height)
@@ -284,16 +295,10 @@ export class CategorialLegendView extends AnnotationView {
     let yoffset = legend_padding
     const vertical = this.model.orientation == "vertical"
 
-    const legend_names = this.model.get_legend_names();
-
-    for(var i =0; i < legend_names.length; i++)
+    for(var i =0; i < this.model.labels.length; i++)
     {
-    	for(const label of legend_names[i])
+    	for(const label of this.model.labels[i])
     	{
-    		//TODO - Determine if active
-
-    		//END TODO
-
     		const x1 = bbox.x + xoffset
 	        const y1 = bbox.y + yoffset
 	        const x2 = x1 + glyph_width
@@ -315,14 +320,17 @@ export class CategorialLegendView extends AnnotationView {
 	        	{
 	        		const view = this.plot_view.renderer_views[item.render.id] as GlyphRendererView
 	          		view.draw_legend(ctx, x1, x2, y1, y2, null, label, item.index)
+	          		break;
 	      		}
 	        }
 	        
-	        //TODO - determine if active
-	        if (false) {
+	        if (!this.model.active_labels[label]) {
 	          let w: number, h: number
 	          if (vertical)
-	            [w, h] = [bbox.width - 2*legend_padding, this.max_label_height]
+	          {
+	          	w= (bbox.width - 2*legend_padding - Math.max(this.model.num_categories-1,0)* legend_spacing)/Math.max(this.model.num_categories, 1) 
+	        	h = this.max_label_height
+	    	  }
 	          else
 	            [w, h] = [this.text_widths[label] + glyph_width + label_standoff, this.max_label_height]
 
@@ -332,6 +340,16 @@ export class CategorialLegendView extends AnnotationView {
 	          ctx.fill()
 	        }
     	}
+    	if(vertical)
+        {
+	    	xoffset += (bbox.width - 2*legend_padding - legend_spacing*Math.max((this.model.num_categories - 1), 0))/Math.max(this.model.num_categories, 1) + legend_spacing
+	    	yoffset = legend_padding
+        }
+	    else
+	    {
+	    	yoffset += this.max_label_height
+	    	xoffset = legend_padding
+	    }
     }
   }
 
@@ -423,7 +441,12 @@ export class CategorialLegend extends Annotation {
 
   item_change: Signal0<this>
 
+  //The numner of distinct categories
   num_categories: number
+
+  //The active state of each category
+  labels: string[][]
+  active_labels: {[key:string]: boolean}
 
   constructor(attrs?: Partial<CategorialLegend.Attrs>) {
     super(attrs)
@@ -450,6 +473,17 @@ export class CategorialLegend extends Annotation {
     	{
     		throw new Error('Not all items in Categorial Legend have the same number of categories');
     		break;
+    	}
+    }
+
+    //Create an active status for each category and set it to true
+    this.labels = this.get_legend_names();
+    this.active_labels = {}
+    for(var category of this.labels)
+    {
+    	for(var label of category)
+    	{
+    		this.active_labels[label] = true;
     	}
     }
   }
@@ -488,16 +522,20 @@ export class CategorialLegend extends Annotation {
     })
   }
 
-  get_legend_names(): string[][]
+  protected get_legend_names(): string[][]
   {
 
   	//Create set for each category
-  	const legend_names: string[][] = [];
+  	var legend_names: string[][] = [];
+  	for(var i =0; i < this.num_categories; i++)
+  		legend_names[i] = [];
+
+
   	for (const item of this.items)
   	{
   		for (var i = 0; i < this.num_categories; i++)
   		{
-  			if(legend_names[i].indexOf(item.labels[i]) > -1)
+  			if(legend_names[i].indexOf(item.labels[i]) == -1)
   			{
   				legend_names[i].push(item.labels[i]);
   			}

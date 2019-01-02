@@ -68,9 +68,9 @@ def create_bar_chart(data, title, hover_tool, colors):
     tools = [hover, 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'wheel_zoom']
 
     plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=1200,
-                  plot_height=600, h_symmetry=False, v_symmetry=False,
+                  plot_height=800, h_symmetry=False, v_symmetry=False,
                   min_border=0, toolbar_location="above", tools=tools,
-                  outline_line_color="#666666", x_axis_type='datetime')
+                  outline_line_color="#666666", x_axis_type='datetime', border_fill_color='#DBECFC')
 
     plot.left[0].formatter.use_scientific = False
 
@@ -129,5 +129,5 @@ def create_bar_chart(data, title, hover_tool, colors):
     plot.xaxis.axis_label_text_font_style = 'normal'
     plot.xaxis[0].formatter.days = '%b %Y'
 
-    return column(plot, widgetbox(passengerTypeButtonGroup, sizing_mode="stretch_both"), sizing_mode="scale_width")
+    return plot
 

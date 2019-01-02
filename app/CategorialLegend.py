@@ -1,5 +1,7 @@
-from bokeh.core.properties import (Instance, List, String, Tuple, Override)
-from bokeh.models import (Legend, LegendItem)
+from bokeh.core.enums import (LegendClickPolicy, LegendLocation, Orientation)
+from bokeh.core.properties import (Either, Enum, Float, Include, Instance, List, Int, String, Tuple, Override)
+from bokeh.core.property_mixins import (FillProps, LineProps, TextProps)
+from bokeh.models import Legend
 from bokeh.models.annotations import Annotation
 from bokeh.models.renderers import GlyphRenderer
 
