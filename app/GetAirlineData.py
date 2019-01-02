@@ -48,7 +48,7 @@ def getColors(data):
 
 	color = 0
 	for airline in data:
-		colors[airline] = colorValues[len(data) - color - 1]
+		colors[airline] = colorValues[color]
 		color = color + 1
 
 	return colors

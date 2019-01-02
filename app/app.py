@@ -27,7 +27,7 @@ def index():
     colors = getColors(data)
 
     hover = create_hover_tool()
-    plot = create_bar_chart(data, "Domestic Flights by Airline", hover, colors)
+    plot = create_bar_chart(data, "Number of Passengers by Airline", hover, colors)
     script, div = components(plot)
 
     return render_template("chart.html",
@@ -123,7 +123,7 @@ def create_bar_chart(data, title, hover_tool, colors):
     plot.yaxis.axis_label_text_font_style = 'normal'
 
     #Style X axis
-    plot.xaxis.axis_label = "Airline"
+    plot.xaxis.axis_label = "Year"
     plot.xaxis.major_label_orientation = 1
     plot.xaxis.axis_label_text_font_size = '12pt'
     plot.xaxis.axis_label_text_font_style = 'normal'
