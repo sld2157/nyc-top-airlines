@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NYC Airports Flight Stats</title>
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-1.0.2.min.css" rel="stylesheet" type="text/css">
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.0.2.min.css" rel="stylesheet" type="text/css">
     <link href="https://cdn.pydata.org/bokeh/release/bokeh-tables-1.0.2.min.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
-    <h1>Number of Flights by Airline Leaving NYC Airports</h1>
+    <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/foundation.css">
+    <link rel="stylesheet" href="../static/css/app.css"> 
+</head>
+  
+<body>
+	<div class="grid-container text-center">
+		<div class="grid-x grid-padding-x">
+			<div class="large-12 cell">
+				<br>
+				<h1>Airline Flights at NYC Airports</h1>
+			</div>
+			<div class="large-12 cell subheader">
+				<h3>Built with Flask, Bokeh, regex, and more</h3>
+			</div>
+		</div>
+
     {{ the_div|safe }}
     <script src="https://cdn.pydata.org/bokeh/release/bokeh-1.0.2.min.js"></script>
     <script src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-1.0.2.min.js"></script>
     <script src="https://cdn.pydata.org/bokeh/release/bokeh-tables-1.0.2.min.js"></script>
     {{ the_script|safe }}
-  </body>
+    <br>
+    <h6>This site is open source - visit the <a href="https://github.com/sld2157/nyc-top-airlines">github repo</a> to view the source</h6>
+    <br>
+    <h6>Original data provided by <a href="https://www.panynj.gov/airports/traffic-statistics.html">Port Authority of NY & NJ</a></h6>
+	</div>
+</body>
+
 </html>
