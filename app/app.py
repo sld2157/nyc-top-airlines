@@ -65,7 +65,7 @@ def create_bar_chart(data, title, hover_tool, colors):
     	names=['domestic', 'international', 'total']
     )
 
-    tools = [hover, 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'wheel_zoom']
+    tools = [hover, 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'wheel_zoom', 'reset']
 
     plot = figure(title=title, x_range=xdr, y_range=ydr, plot_width=1200,
                   plot_height=800, h_symmetry=False, v_symmetry=False,
